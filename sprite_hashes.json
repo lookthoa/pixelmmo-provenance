@@ -5883,5 +5883,10 @@
     "path": "uploaded/items/wild_berry.png",
     "sha256": "aa029cbfdc1f21c3c9d936592617b65c71009a42828213526dcf7eda822d9fa0",
     "size": 1124
+  },
+  {
+    "path": "uploaded/items/wild_berries.png",
+    "sha256": "7964c2e6b25a028a48555119ac99a09e1593b0b4ed9989f6e82e45d795b210ed",
+    "size": 1404
   }
 ]
