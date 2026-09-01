@@ -5908,5 +5908,10 @@
     "path": "uploaded/items/hp_potion_xl.png",
     "sha256": "08fc3feecbeea0917da642e09167d8fd20069a777565201a760854cfbf704a03",
     "size": 1140
+  },
+  {
+    "path": "uploaded/special_items/vip_card.png",
+    "sha256": "4c21a1f64f8342b619eaf736ae6532d674381dfc7c5dfc8031f8a7fb1e87f505",
+    "size": 876
   }
 ]
