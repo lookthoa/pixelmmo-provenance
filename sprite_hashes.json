@@ -5913,5 +5913,20 @@
     "path": "uploaded/special_items/vip_card.png",
     "sha256": "4c21a1f64f8342b619eaf736ae6532d674381dfc7c5dfc8031f8a7fb1e87f505",
     "size": 876
+  },
+  {
+    "path": "uploaded/items/vip_card_1.png",
+    "sha256": "5d3dd6949a6df447e9ca60daafc0afb33a92f9ed09ee8cf057c71d9a897d4ed8",
+    "size": 875
+  },
+  {
+    "path": "uploaded/items/vip_card_2.png",
+    "sha256": "71c5d5438ce0c66ee238d78dea48f7334991ae90393f96a58445af5e00bd8a80",
+    "size": 884
+  },
+  {
+    "path": "uploaded/items/vip_card_3.png",
+    "sha256": "9a53a0f9782aaa9bf5c5f0a671612f37dbfb82d1dd4dcc3849ee4d9eea8983ae",
+    "size": 887
   }
 ]
