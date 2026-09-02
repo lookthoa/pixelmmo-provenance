@@ -5948,5 +5948,25 @@
     "path": "items/weapons/axe_stone/west.png",
     "sha256": "ca2041087e9d30ade950ac13982cf17579f53bf11fde6b5d780695adeaf99211",
     "size": 1112
+  },
+  {
+    "path": "items/weapons/stone_pickaxe/east.png",
+    "sha256": "5f54aa72d1fd0cf84f448c315c2321d8d8fae9b1f867ed4e9b6cb475bf28502f",
+    "size": 1080
+  },
+  {
+    "path": "items/weapons/stone_pickaxe/north.png",
+    "sha256": "b2777a97098300b821a8457ca3b9b154a899369af62a602c6a05f018fd544701",
+    "size": 1084
+  },
+  {
+    "path": "items/weapons/stone_pickaxe/south.png",
+    "sha256": "5f54aa72d1fd0cf84f448c315c2321d8d8fae9b1f867ed4e9b6cb475bf28502f",
+    "size": 1080
+  },
+  {
+    "path": "items/weapons/stone_pickaxe/west.png",
+    "sha256": "b2777a97098300b821a8457ca3b9b154a899369af62a602c6a05f018fd544701",
+    "size": 1084
   }
 ]
