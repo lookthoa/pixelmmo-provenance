@@ -5928,5 +5928,25 @@
     "path": "uploaded/items/vip_card_3.png",
     "sha256": "9a53a0f9782aaa9bf5c5f0a671612f37dbfb82d1dd4dcc3849ee4d9eea8983ae",
     "size": 887
+  },
+  {
+    "path": "items/weapons/axe_stone/east.png",
+    "sha256": "c42c1d2980f1eb87856393fc452203e319fe874faabcb1a47291820e521f6904",
+    "size": 1111
+  },
+  {
+    "path": "items/weapons/axe_stone/north.png",
+    "sha256": "ca2041087e9d30ade950ac13982cf17579f53bf11fde6b5d780695adeaf99211",
+    "size": 1112
+  },
+  {
+    "path": "items/weapons/axe_stone/south.png",
+    "sha256": "c42c1d2980f1eb87856393fc452203e319fe874faabcb1a47291820e521f6904",
+    "size": 1111
+  },
+  {
+    "path": "items/weapons/axe_stone/west.png",
+    "sha256": "ca2041087e9d30ade950ac13982cf17579f53bf11fde6b5d780695adeaf99211",
+    "size": 1112
   }
 ]
