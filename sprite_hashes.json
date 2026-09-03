@@ -6408,5 +6408,15 @@
     "path": "uploaded/special_items/stonr_pickaxe.png",
     "sha256": "c9ecf1e9acce78957f2d6d744aa9520518eae28aa266c8f7a3f6e42debf6eca4",
     "size": 1304
+  },
+  {
+    "path": "ui/icons/play.png",
+    "sha256": "c0ad770f3bc44cd13740cb75046f1c111a049789d2cda3a051c7d8d7058d4369",
+    "size": 1404
+  },
+  {
+    "path": "ui/icons/stop.png",
+    "sha256": "37655c9b99789d8ff41de58a033857c0db31932ea59a4966887625af87dded86",
+    "size": 1083
   }
 ]
