@@ -6418,5 +6418,10 @@
     "path": "ui/icons/stop.png",
     "sha256": "37655c9b99789d8ff41de58a033857c0db31932ea59a4966887625af87dded86",
     "size": 1083
+  },
+  {
+    "path": "uploaded/special_items/vegetable_plot.png",
+    "sha256": "dd97bcf7d88e1cce84ef5c6a9debd08b3887d08fd7c0b14388036f1ec41fe6b0",
+    "size": 2192
   }
 ]
