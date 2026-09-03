@@ -6353,5 +6353,60 @@
     "path": "uploaded/weapons/pik7567.png",
     "sha256": "a8474f94355399ce7877acafb449a3569a7fa9f77ec42d46d9bd471a24d09943",
     "size": 822
+  },
+  {
+    "path": "items/weapons/iron_pickaxe/east.png",
+    "sha256": "f1fcc835a644068768e6ed0b779dc65eb466a2c0efc449d10c0ca28fe8118043",
+    "size": 616
+  },
+  {
+    "path": "items/weapons/iron_pickaxe/north.png",
+    "sha256": "65a0236c8fa96344fcf9fb6e0cc7f22053245c5bed22eef2ab3869ef0c6aaecc",
+    "size": 611
+  },
+  {
+    "path": "items/weapons/iron_pickaxe/south.png",
+    "sha256": "f1fcc835a644068768e6ed0b779dc65eb466a2c0efc449d10c0ca28fe8118043",
+    "size": 616
+  },
+  {
+    "path": "items/weapons/iron_pickaxe/west.png",
+    "sha256": "65a0236c8fa96344fcf9fb6e0cc7f22053245c5bed22eef2ab3869ef0c6aaecc",
+    "size": 611
+  },
+  {
+    "path": "items/weapons/stone_pickaxe/east.png",
+    "sha256": "7b0cd7ee410f9f1353e6f21664377b77f9adbf463f7a1de7d246c86fc9ca7eff",
+    "size": 753
+  },
+  {
+    "path": "items/weapons/stone_pickaxe/north.png",
+    "sha256": "1ea050312f1b7c9aace821c912802385d597120fba4893cd547837d4e8181285",
+    "size": 739
+  },
+  {
+    "path": "items/weapons/stone_pickaxe/south.png",
+    "sha256": "7b0cd7ee410f9f1353e6f21664377b77f9adbf463f7a1de7d246c86fc9ca7eff",
+    "size": 753
+  },
+  {
+    "path": "items/weapons/stone_pickaxe/west.png",
+    "sha256": "1ea050312f1b7c9aace821c912802385d597120fba4893cd547837d4e8181285",
+    "size": 739
+  },
+  {
+    "path": "uploaded/special_items/dfwerg.png",
+    "sha256": "0be7ea948ffe740667f86246437be99cbcd7804ad89732d760c2929847aae2c8",
+    "size": 898
+  },
+  {
+    "path": "uploaded/special_items/rgergrg.png",
+    "sha256": "27e6e829950d2205e4103211ecb2b161d961a7d3a23dc4e8acd9d6601bf2c170",
+    "size": 272
+  },
+  {
+    "path": "uploaded/special_items/stonr_pickaxe.png",
+    "sha256": "c9ecf1e9acce78957f2d6d744aa9520518eae28aa266c8f7a3f6e42debf6eca4",
+    "size": 1304
   }
 ]
