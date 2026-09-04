@@ -6423,5 +6423,25 @@
     "path": "uploaded/special_items/vegetable_plot.png",
     "sha256": "dd97bcf7d88e1cce84ef5c6a9debd08b3887d08fd7c0b14388036f1ec41fe6b0",
     "size": 2192
+  },
+  {
+    "path": "actors/outfits/leaf_sets_shoes/shoes_l_south.png",
+    "sha256": "bd73cb4ece74fafa9e08270f2ba12295d219865815b77dadf0d651b310d5c955",
+    "size": 439
+  },
+  {
+    "path": "actors/outfits/leaf_sets_shoes/shoes_l_south_mask.png",
+    "sha256": "fa1f83c96e47008d70fde267a45ac0a63e249cbf961056c005a8ff1834c816b0",
+    "size": 88
+  },
+  {
+    "path": "actors/outfits/leaf_sets_shoes/shoes_r_south.png",
+    "sha256": "39e5b2b51142360640bedb519d42de2a334723aa7b6655b7a0dde05578db9fdd",
+    "size": 443
+  },
+  {
+    "path": "actors/outfits/leaf_sets_shoes/shoes_r_south_mask.png",
+    "sha256": "1030a7e9b6bdbf95c9001e1b24a8b071e5603e8300c2ac2fa212ffc1e9053501",
+    "size": 89
   }
 ]
