@@ -6553,5 +6553,10 @@
     "path": "actors/outfits/villager_costumes_bottom/bottom_r_south.png",
     "sha256": "68acc99dde0cb9239829e25a382f524517adffbebf4477c820333691e015412f",
     "size": 424
+  },
+  {
+    "path": "uploaded/special_items/cold_storage.png",
+    "sha256": "33d4f0ee249b47c00ac691cee31ca4475094ba31bfceb32c2db8c9462fd2ab33",
+    "size": 1754
   }
 ]
