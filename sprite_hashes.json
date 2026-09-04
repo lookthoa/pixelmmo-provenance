@@ -6443,5 +6443,115 @@
     "path": "actors/outfits/leaf_sets_shoes/shoes_r_south_mask.png",
     "sha256": "1030a7e9b6bdbf95c9001e1b24a8b071e5603e8300c2ac2fa212ffc1e9053501",
     "size": 89
+  },
+  {
+    "path": "actors/outfits/leaf_sets_bottom/bottom_l_north.png",
+    "sha256": "c0b1f7cf26ddaca0127740c76ec289753162a175fb1d32b767cf908942c83f0b",
+    "size": 634
+  },
+  {
+    "path": "actors/outfits/leaf_sets_bottom/bottom_l_south.png",
+    "sha256": "e815cde0c5671e970329f57c22ed11a0374bfb3f67e9b1bfa743dee91fb0142a",
+    "size": 594
+  },
+  {
+    "path": "actors/outfits/leaf_sets_bottom/bottom_l_south_mask.png",
+    "sha256": "7631f6e8f4e8b91515168eaa6ef3f5b14563da265c5c76944bcca357ea67c02a",
+    "size": 88
+  },
+  {
+    "path": "actors/outfits/leaf_sets_bottom/bottom_r_north.png",
+    "sha256": "1e41550fa1eceb61095fafca8480be8dd222d05cb22ec6e7c7645a45148f9e0b",
+    "size": 629
+  },
+  {
+    "path": "actors/outfits/leaf_sets_bottom/bottom_r_south.png",
+    "sha256": "ee4999f193096d0faccc796d08158c786ae28ea95d1813a70632c07acf56ce52",
+    "size": 561
+  },
+  {
+    "path": "actors/outfits/leaf_sets_bottom/bottom_r_south_mask.png",
+    "sha256": "ae27dc9accef9277dcbea706b11c75821e1499551f1063b392eb102849a0f66f",
+    "size": 90
+  },
+  {
+    "path": "actors/outfits/leather_costumes_bottom/bottom_l_north.png",
+    "sha256": "7a9629131412a15b4ba46c9753f4fc4d00af4a19217ff76f7379eaa0b10b393c",
+    "size": 480
+  },
+  {
+    "path": "actors/outfits/leather_costumes_bottom/bottom_l_north_mask.png",
+    "sha256": "a20f400a8c2d40743188b0fe2923b34788e36a081a20500b8409750c781c1c85",
+    "size": 90
+  },
+  {
+    "path": "actors/outfits/leather_costumes_bottom/bottom_l_south.png",
+    "sha256": "b0da3bdc8afbd1d2eebf9534c8d104fabf1a648ac14bc29f278382918d1b4859",
+    "size": 697
+  },
+  {
+    "path": "actors/outfits/leather_costumes_bottom/bottom_r_north.png",
+    "sha256": "dc7b22c156d527544cb7f5bcc8682199cc84a47ab3409e55199041d3c970aa93",
+    "size": 494
+  },
+  {
+    "path": "actors/outfits/leather_costumes_bottom/bottom_r_north_mask.png",
+    "sha256": "f6e030c4e2276e82f92b1dbade0033f9fccc105d157e0a0ccd260a5f847c9823",
+    "size": 90
+  },
+  {
+    "path": "actors/outfits/leather_costumes_bottom/bottom_r_south.png",
+    "sha256": "c5f0a164a101e4b3ae0cfec08e22fa572d8adaf023efd371f7f663d3e4629a7b",
+    "size": 693
+  },
+  {
+    "path": "actors/outfits/undergarment_bottom/bottom_l_north.png",
+    "sha256": "8289fd21080a11c397a2e02bdb48f7c84941382dfa05ae1b1224fd9916921241",
+    "size": 132
+  },
+  {
+    "path": "actors/outfits/undergarment_bottom/bottom_l_south.png",
+    "sha256": "4beafa40e5a7b24087135c5a55bbac39d816986e5279567d33b9a617a0837ddf",
+    "size": 142
+  },
+  {
+    "path": "actors/outfits/undergarment_bottom/bottom_r_north.png",
+    "sha256": "4beafa40e5a7b24087135c5a55bbac39d816986e5279567d33b9a617a0837ddf",
+    "size": 142
+  },
+  {
+    "path": "actors/outfits/undergarment_bottom/bottom_r_south.png",
+    "sha256": "8289fd21080a11c397a2e02bdb48f7c84941382dfa05ae1b1224fd9916921241",
+    "size": 132
+  },
+  {
+    "path": "actors/outfits/villager_costumes_bottom/bottom_l_north.png",
+    "sha256": "422326e90a645a39c6fb5bb2a079ef085ac0f51b8f0f89676125054b2c73fcc9",
+    "size": 380
+  },
+  {
+    "path": "actors/outfits/villager_costumes_bottom/bottom_l_north_mask.png",
+    "sha256": "3a50e17d0f0eab57978f965c254339ae33a0237c6b5dae18fd6538e6b8934554",
+    "size": 93
+  },
+  {
+    "path": "actors/outfits/villager_costumes_bottom/bottom_l_south.png",
+    "sha256": "ec65658e28fa443b571c5d95c6d858dbe3d61eb60a26ddbc0dd3e6e2152f5fdf",
+    "size": 443
+  },
+  {
+    "path": "actors/outfits/villager_costumes_bottom/bottom_r_north.png",
+    "sha256": "82cc5fcb177a22de30cc6a595029e1ecd2987a01989b282aca4af98f71c7262a",
+    "size": 382
+  },
+  {
+    "path": "actors/outfits/villager_costumes_bottom/bottom_r_north_mask.png",
+    "sha256": "b08d0e461245f22de299627adc81f169e4805fae6fae4bc4a31689a5544081d8",
+    "size": 96
+  },
+  {
+    "path": "actors/outfits/villager_costumes_bottom/bottom_r_south.png",
+    "sha256": "68acc99dde0cb9239829e25a382f524517adffbebf4477c820333691e015412f",
+    "size": 424
   }
 ]
