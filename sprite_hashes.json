@@ -6558,5 +6558,10 @@
     "path": "uploaded/special_items/cold_storage.png",
     "sha256": "33d4f0ee249b47c00ac691cee31ca4475094ba31bfceb32c2db8c9462fd2ab33",
     "size": 1754
+  },
+  {
+    "path": "uploaded/special_items/cloth_wrapping.png",
+    "sha256": "dd37b93ba25f1b1e0b7c9b67717f42fae13c8d415a8949d5de81b82d9b0991b8",
+    "size": 1579
   }
 ]
