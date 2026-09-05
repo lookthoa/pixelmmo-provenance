@@ -6563,5 +6563,25 @@
     "path": "uploaded/special_items/cloth_wrapping.png",
     "sha256": "dd37b93ba25f1b1e0b7c9b67717f42fae13c8d415a8949d5de81b82d9b0991b8",
     "size": 1579
+  },
+  {
+    "path": "items/weapons/hoe/east.png",
+    "sha256": "c01684d1a58173832377a5e4761db080e29dc8d451fdc93ba5352f4a8b1b3ca0",
+    "size": 1045
+  },
+  {
+    "path": "items/weapons/hoe/north.png",
+    "sha256": "dae6ad6ab4ed8a6f8905848a8b8057bbbe0e643d26df897414aced71966029df",
+    "size": 1031
+  },
+  {
+    "path": "items/weapons/hoe/south.png",
+    "sha256": "c01684d1a58173832377a5e4761db080e29dc8d451fdc93ba5352f4a8b1b3ca0",
+    "size": 1045
+  },
+  {
+    "path": "items/weapons/hoe/west.png",
+    "sha256": "dae6ad6ab4ed8a6f8905848a8b8057bbbe0e643d26df897414aced71966029df",
+    "size": 1031
   }
 ]
