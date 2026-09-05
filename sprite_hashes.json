@@ -6588,5 +6588,10 @@
     "path": "uploaded/buildings/hytguu.png",
     "sha256": "3b92591ec6fdfd1a9b8d6a279970c08446cb6cfbcf5256107c8d9c09dff346bb",
     "size": 2887
+  },
+  {
+    "path": "uploaded/special_items/hoe.png",
+    "sha256": "d95f98729867644d6369f809c07517de104d0fbf8ca9f79f00b246d5534d09bc",
+    "size": 930
   }
 ]
