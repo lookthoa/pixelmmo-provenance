@@ -6583,5 +6583,10 @@
     "path": "items/weapons/hoe/west.png",
     "sha256": "dae6ad6ab4ed8a6f8905848a8b8057bbbe0e643d26df897414aced71966029df",
     "size": 1031
+  },
+  {
+    "path": "uploaded/buildings/hytguu.png",
+    "sha256": "3b92591ec6fdfd1a9b8d6a279970c08446cb6cfbcf5256107c8d9c09dff346bb",
+    "size": 2887
   }
 ]
