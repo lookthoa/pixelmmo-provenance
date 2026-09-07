@@ -6598,5 +6598,10 @@
     "path": "uploaded/buildings/fgjrt.png",
     "sha256": "415b58650dcfaa948214fccd6b53c1d09bcdd6bdd13ca3890e91ba6864eb1a1c",
     "size": 18064
+  },
+  {
+    "path": "uploaded/warps/enter_mine.png",
+    "sha256": "415b58650dcfaa948214fccd6b53c1d09bcdd6bdd13ca3890e91ba6864eb1a1c",
+    "size": 18064
   }
 ]
