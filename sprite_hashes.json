@@ -6593,5 +6593,10 @@
     "path": "uploaded/special_items/hoe.png",
     "sha256": "d95f98729867644d6369f809c07517de104d0fbf8ca9f79f00b246d5534d09bc",
     "size": 930
+  },
+  {
+    "path": "uploaded/buildings/fgjrt.png",
+    "sha256": "415b58650dcfaa948214fccd6b53c1d09bcdd6bdd13ca3890e91ba6864eb1a1c",
+    "size": 18064
   }
 ]
