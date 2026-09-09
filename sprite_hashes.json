@@ -8313,5 +8313,40 @@
     "path": "terrain/tiles/forest/sea.png",
     "sha256": "85ad24a766303a1c3af3001b7e5784df0932977bb8f9b85a8b39af68c178a113",
     "size": 6493
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/grass.ramps.labels.png",
+    "sha256": "1ae191a8f59ecfa00647261c83ae9255dedb9be8d7101c775b19b5bd3ce36033",
+    "size": 878
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/grass.ramps.png",
+    "sha256": "9656807d58d2a6afa9b53ea89cffc27270935b62989105d0989431c63dc5a2a3",
+    "size": 26364
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_grass/ramp_0.png",
+    "sha256": "fdae8a7537a9358ec8de5d02fe6035eeb98fb1f572b2d5d0f891b64c100f5ba5",
+    "size": 8229
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_grass/ramp_1.png",
+    "sha256": "7953085bef41cf558b438901c0d306c191daadfd8ca79d22d192b1a605ecfd17",
+    "size": 6363
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_grass/ramp_2.png",
+    "sha256": "383e6704f767f180cb79d6c96b25dc7015409084009ad54342bb507556437c27",
+    "size": 7995
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_grass/ramp_3.png",
+    "sha256": "262896e0abb46b102d5413678317b6118e7b85faa1e28d14914148d3c6daf3de",
+    "size": 6517
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_grass/ramps_labels.png",
+    "sha256": "1ae191a8f59ecfa00647261c83ae9255dedb9be8d7101c775b19b5bd3ce36033",
+    "size": 878
   }
 ]
