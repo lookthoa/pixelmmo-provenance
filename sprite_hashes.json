@@ -8798,5 +8798,135 @@
     "path": "terrain/tiles/forest/wells.png",
     "sha256": "84d44d724eeb4d7c53682fcc13b798d0c44c2c9e3ab4a0f91820237401cbbffd",
     "size": 3446
+  },
+  {
+    "path": "terrain/tiles/forest/denseforest.labels.png",
+    "sha256": "93296e83072af290a5b0ca1fd2633c772be077992db3280c375d04fe6cde96ef",
+    "size": 1676
+  },
+  {
+    "path": "terrain/tiles/forest/denseforest.png",
+    "sha256": "a8871ba46d568a134cf0db53685b8cf912ed8daafeb0546624b8232cf106361b",
+    "size": 9231
+  },
+  {
+    "path": "terrain/tiles/forest/denseforest.ramps.labels.png",
+    "sha256": "a86b1dbdf3e8c17e77b188e5c1f4517b2e1c57b77a90db25db25dd167c74a0ae",
+    "size": 664
+  },
+  {
+    "path": "terrain/tiles/forest/denseforest.ramps.png",
+    "sha256": "24f1b93a4c620eda34d8e68074c95f16b63ffb8773f41c4be50575da33f333d0",
+    "size": 10120
+  },
+  {
+    "path": "terrain/tiles/forest/iso_denseforest/labels.png",
+    "sha256": "93296e83072af290a5b0ca1fd2633c772be077992db3280c375d04fe6cde96ef",
+    "size": 1676
+  },
+  {
+    "path": "terrain/tiles/forest/iso_denseforest/ramp_0.png",
+    "sha256": "15d7d88a7621690f8843e03002dcd8e3e502e138b9549f30eea8c323264fc40e",
+    "size": 3460
+  },
+  {
+    "path": "terrain/tiles/forest/iso_denseforest/ramp_1.png",
+    "sha256": "15d7d88a7621690f8843e03002dcd8e3e502e138b9549f30eea8c323264fc40e",
+    "size": 3460
+  },
+  {
+    "path": "terrain/tiles/forest/iso_denseforest/ramp_2.png",
+    "sha256": "15d7d88a7621690f8843e03002dcd8e3e502e138b9549f30eea8c323264fc40e",
+    "size": 3460
+  },
+  {
+    "path": "terrain/tiles/forest/iso_denseforest/ramp_3.png",
+    "sha256": "15d7d88a7621690f8843e03002dcd8e3e502e138b9549f30eea8c323264fc40e",
+    "size": 3460
+  },
+  {
+    "path": "terrain/tiles/forest/iso_denseforest/ramps_labels.png",
+    "sha256": "a86b1dbdf3e8c17e77b188e5c1f4517b2e1c57b77a90db25db25dd167c74a0ae",
+    "size": 664
+  },
+  {
+    "path": "terrain/tiles/forest/iso_denseforest/tile_0.png",
+    "sha256": "52241ef53ca49f2cc90db25724d87cabfbfd9dd8439220e907c7e6056fbf17b4",
+    "size": 98
+  },
+  {
+    "path": "terrain/tiles/forest/iso_denseforest/tile_1.png",
+    "sha256": "bc0e32fb6cec822252bb5a8233d80988b096ca1bb92be650be8f2f26dfaf4c25",
+    "size": 1200
+  },
+  {
+    "path": "terrain/tiles/forest/iso_denseforest/tile_10.png",
+    "sha256": "bf6dee028096d0a4e1ca59e0449d7d61ddf56a996ae5fa67e5bdf7a18db76780",
+    "size": 2167
+  },
+  {
+    "path": "terrain/tiles/forest/iso_denseforest/tile_11.png",
+    "sha256": "da8f39751940c71245b231b4f06b1f199d61ce2b718c5d7a75559c9ff1fcbdd0",
+    "size": 2896
+  },
+  {
+    "path": "terrain/tiles/forest/iso_denseforest/tile_12.png",
+    "sha256": "1c168b236a36efc0e8eb09a68a868945933916e570ad38aae152752fbc775996",
+    "size": 2122
+  },
+  {
+    "path": "terrain/tiles/forest/iso_denseforest/tile_13.png",
+    "sha256": "8952a4eb5a24b4c246d1d1a30b486b9a4a70bc5000b25e0b49340cc4311d4f9d",
+    "size": 2751
+  },
+  {
+    "path": "terrain/tiles/forest/iso_denseforest/tile_14.png",
+    "sha256": "1c3227374f76042979814b8b83fa72453e9399de910da03e56ba7cfd57d66f47",
+    "size": 3017
+  },
+  {
+    "path": "terrain/tiles/forest/iso_denseforest/tile_15.png",
+    "sha256": "15d7d88a7621690f8843e03002dcd8e3e502e138b9549f30eea8c323264fc40e",
+    "size": 3460
+  },
+  {
+    "path": "terrain/tiles/forest/iso_denseforest/tile_2.png",
+    "sha256": "dd22a09a170c0321a47ef932744226afc9d6c164c86905c940185dc5831bd527",
+    "size": 1397
+  },
+  {
+    "path": "terrain/tiles/forest/iso_denseforest/tile_3.png",
+    "sha256": "38173ab5402af64ce2d2f8a6874e2fc42176808cc2bfa61c9fa52d90e40ee80f",
+    "size": 2197
+  },
+  {
+    "path": "terrain/tiles/forest/iso_denseforest/tile_4.png",
+    "sha256": "0483c500a0011e5f4fccf8b4d819c7903f394d67f47423094595b7336b9ca1d6",
+    "size": 1382
+  },
+  {
+    "path": "terrain/tiles/forest/iso_denseforest/tile_5.png",
+    "sha256": "e5f245593aa8fdceadfaa3f70a05bd7c6ee2a83813be13faefa063c115321e66",
+    "size": 2134
+  },
+  {
+    "path": "terrain/tiles/forest/iso_denseforest/tile_6.png",
+    "sha256": "4ff99fdf50868e47601ef9e70b9e2ac34d3c3a5a23ad00f09f17fbe8cc311ba4",
+    "size": 2491
+  },
+  {
+    "path": "terrain/tiles/forest/iso_denseforest/tile_7.png",
+    "sha256": "f775c998c79ca38667a84be1ac7e8569592c7fc3c8f1d8e89180567d18efbf97",
+    "size": 3005
+  },
+  {
+    "path": "terrain/tiles/forest/iso_denseforest/tile_8.png",
+    "sha256": "0250a239d77a5778ffb4cc554ca05d1dac22e21c111aa013fec2a5289640f96b",
+    "size": 1183
+  },
+  {
+    "path": "terrain/tiles/forest/iso_denseforest/tile_9.png",
+    "sha256": "85236f00637f359e717000b6295f31ea5ba53e5920cad9ec7bf0e891d8bffa44",
+    "size": 1964
   }
 ]
