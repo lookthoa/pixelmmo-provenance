@@ -9838,5 +9838,145 @@
     "path": "terrain/tiles/desert/wells.ramps.png",
     "sha256": "6a5f2e755c03043e45094dce3fa6bed69f5596b3efdef15800503c7ad7180b11",
     "size": 933
+  },
+  {
+    "path": "terrain/tiles/desert/iso_phasai/labels.png",
+    "sha256": "08afaf0a90461f68ca344d9cf8a5d35d75a426e242360baa551673cd86b406b6",
+    "size": 4738
+  },
+  {
+    "path": "terrain/tiles/desert/iso_phasai/ramp_0.png",
+    "sha256": "5c3bc35fbb9243262f886aa41689902007a22e50ef851a4a99a0fce6d8ab65c3",
+    "size": 7148
+  },
+  {
+    "path": "terrain/tiles/desert/iso_phasai/ramp_1.png",
+    "sha256": "7b96f6c30316da87e8896aff5194d17ad1408c9d4e81f1debf22f36ae785f2a1",
+    "size": 10632
+  },
+  {
+    "path": "terrain/tiles/desert/iso_phasai/ramp_2.png",
+    "sha256": "8709bb9bd6b2af9e8721ed0094f69451a235db0e42f0d9f09818a2138b28e957",
+    "size": 7210
+  },
+  {
+    "path": "terrain/tiles/desert/iso_phasai/ramp_3.png",
+    "sha256": "91ace5d1eee2ce25967a0ab9f07b780414640ca2888a03f74c02ffb0883a3619",
+    "size": 10667
+  },
+  {
+    "path": "terrain/tiles/desert/iso_phasai/ramps_labels.png",
+    "sha256": "2a9fd1f769258d63f92afeed3f7cec1a7fd540b00c40deebc069ef99bb1efede",
+    "size": 1716
+  },
+  {
+    "path": "terrain/tiles/desert/iso_phasai/tile_0.png",
+    "sha256": "437d17d77862036b2380f058f7ab441bcd5dd316367d3b2393630434c4bc9b1f",
+    "size": 133
+  },
+  {
+    "path": "terrain/tiles/desert/iso_phasai/tile_1.png",
+    "sha256": "3779530ae0cf0f00a84a576f00b41f53170e815be15b32168507d02b46dfeeff",
+    "size": 8241
+  },
+  {
+    "path": "terrain/tiles/desert/iso_phasai/tile_10.png",
+    "sha256": "e77266f7836a3fc85ec66c3a0a282485b990610d65840e97d53fdb09b25ccec3",
+    "size": 13882
+  },
+  {
+    "path": "terrain/tiles/desert/iso_phasai/tile_11.png",
+    "sha256": "7881e3add93389e9c80584844c7f38614076aa021b3bef0994dfd97cfcdd4f2b",
+    "size": 17573
+  },
+  {
+    "path": "terrain/tiles/desert/iso_phasai/tile_12.png",
+    "sha256": "f182a9a15076cf635d809a6055212d77b08311ab96cfbf6d942e8995011ef66e",
+    "size": 14212
+  },
+  {
+    "path": "terrain/tiles/desert/iso_phasai/tile_13.png",
+    "sha256": "7a61085387f90ec76dd8d815f071e28af4f7d17a50c051dcd50383c76363ea19",
+    "size": 18295
+  },
+  {
+    "path": "terrain/tiles/desert/iso_phasai/tile_14.png",
+    "sha256": "f1cc3cdb5b9241f75aca57ecd376bdf2f2939722d765c834d419863c4ccf4fed",
+    "size": 14927
+  },
+  {
+    "path": "terrain/tiles/desert/iso_phasai/tile_15.png",
+    "sha256": "bd0b0a2ac33f6b6136b4b8dcfabfa2f812b87f1d04365c30e6e0b9466934a71c",
+    "size": 17498
+  },
+  {
+    "path": "terrain/tiles/desert/iso_phasai/tile_2.png",
+    "sha256": "d6d427fc449151a693b9b7590970f3c7d8166b160b24c1873142b1b516008c01",
+    "size": 9626
+  },
+  {
+    "path": "terrain/tiles/desert/iso_phasai/tile_3.png",
+    "sha256": "e3e7e82d760ec184285aef6a4f6dd8cfa1a10435124b0cdb3df27a076a181331",
+    "size": 13829
+  },
+  {
+    "path": "terrain/tiles/desert/iso_phasai/tile_4.png",
+    "sha256": "aaef383c1a755872f99cade0634784d74f3b37fe832a413fa42b9216d9c2bf0d",
+    "size": 9656
+  },
+  {
+    "path": "terrain/tiles/desert/iso_phasai/tile_5.png",
+    "sha256": "1e5b44747690c75cfc017baa92fc4a583a887dbb00aca0885a39d13c5a696bbf",
+    "size": 14061
+  },
+  {
+    "path": "terrain/tiles/desert/iso_phasai/tile_6.png",
+    "sha256": "68857dd3d08775eda5f22c87d6ad77113c275ce8eb4b87672fbce7f4352fdfc0",
+    "size": 11214
+  },
+  {
+    "path": "terrain/tiles/desert/iso_phasai/tile_7.png",
+    "sha256": "f5bd966384c85464d95f285b931937533c611430fe72894397d9ac2e79601600",
+    "size": 14773
+  },
+  {
+    "path": "terrain/tiles/desert/iso_phasai/tile_8.png",
+    "sha256": "7df938660a349294a34f8366ed046faba5d7751f6d371f0c1649ba372a8111dd",
+    "size": 8283
+  },
+  {
+    "path": "terrain/tiles/desert/iso_phasai/tile_9.png",
+    "sha256": "410a94b3583dbc4a8a36c803975375cc7a256989a739da4a59bd93f122e6f1e2",
+    "size": 15120
+  },
+  {
+    "path": "terrain/tiles/desert/phasai.labels.png",
+    "sha256": "08afaf0a90461f68ca344d9cf8a5d35d75a426e242360baa551673cd86b406b6",
+    "size": 4738
+  },
+  {
+    "path": "terrain/tiles/desert/phasai.png",
+    "sha256": "4316649b75140d405d112c98370ad1fd2d898e20c6d3de98f089a7578b637cdf",
+    "size": 84133
+  },
+  {
+    "path": "terrain/tiles/desert/phasai.ramps.labels.png",
+    "sha256": "2a9fd1f769258d63f92afeed3f7cec1a7fd540b00c40deebc069ef99bb1efede",
+    "size": 1716
+  },
+  {
+    "path": "terrain/tiles/desert/phasai.ramps.png",
+    "sha256": "bcd24c7ce8ba1e07a1fd579adce359d41788591d426e95a502114d17e3894c89",
+    "size": 41008
+  },
+  {
+    "path": "uploaded/trees/cactus_l.png",
+    "sha256": "1b9dfd7e66f5cecf0612ec54ec73d1030951492fcc61263ddd2dc5feb43b0b8a",
+    "size": 2568
+  },
+  {
+    "path": "uploaded/trees/petrified_mace_xl.png",
+    "sha256": "ad4c890dac1fb7d004d0503f5a51dc61197e724995d6208d85426535b261a581",
+    "size": 9088
   }
 ]
