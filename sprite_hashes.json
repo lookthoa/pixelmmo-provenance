@@ -10338,5 +10338,10 @@
     "path": "uploaded/items/berry_tree_seed.png",
     "sha256": "be62913826e9d59c3ada0971ff601b1799ca84e9a37422cfb8eca15be99d29b1",
     "size": 432
+  },
+  {
+    "path": "uploaded/special_items/vegetable_plot.png",
+    "sha256": "9991fa759ff10048c5f35b792f942ce025e434ae0f4e8bc31e3d25633c6ce10e",
+    "size": 2225
   }
 ]
