@@ -10348,5 +10348,10 @@
     "path": "uploaded/crops/berry_tree.png",
     "sha256": "a22e0f0565587fa3c836da6e16f7bb73ec6632edadee46d84febb159b28a833c",
     "size": 550
+  },
+  {
+    "path": "uploaded/special_items/vegetable_plot.png",
+    "sha256": "aedce6614aab655c0935d5679d9060187ef275b7110dba05fdef2d9d9e7b4823",
+    "size": 3005
   }
 ]
