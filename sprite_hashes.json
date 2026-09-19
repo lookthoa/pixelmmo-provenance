@@ -10333,5 +10333,10 @@
     "path": "terrain/tiles/dungeon_test/outside.png",
     "sha256": "84d44d724eeb4d7c53682fcc13b798d0c44c2c9e3ab4a0f91820237401cbbffd",
     "size": 3446
+  },
+  {
+    "path": "uploaded/items/berry_tree_seed.png",
+    "sha256": "be62913826e9d59c3ada0971ff601b1799ca84e9a37422cfb8eca15be99d29b1",
+    "size": 432
   }
 ]
