@@ -10358,5 +10358,25 @@
     "path": "uploaded/crops/berry_tree.png",
     "sha256": "6287362fa200765072bff505e4a36d5f57bdaba025757c548e7122e59139cbe0",
     "size": 1366
+  },
+  {
+    "path": "uploaded/crops/pumpkin_tree.png",
+    "sha256": "566abbca983753c2a0e00c8c91647eb51f751dcfba7b7078db2bd02ab8d699b6",
+    "size": 418
+  },
+  {
+    "path": "uploaded/items/pumpkin_seed.png",
+    "sha256": "40e877f0c722fad4e892014bf785d1d8b0d836a436ccdba9388d7c5c9f1e8771",
+    "size": 267
+  },
+  {
+    "path": "uploaded/items/pumpkin_tree_seed.png",
+    "sha256": "40e877f0c722fad4e892014bf785d1d8b0d836a436ccdba9388d7c5c9f1e8771",
+    "size": 267
+  },
+  {
+    "path": "uploaded/trees/pumpkin_fruit.png",
+    "sha256": "fc4b538bc4b15e4e3ebd2a60e495e8ba3f23c491e623ffc9b56bb0fdfd0115de",
+    "size": 2412
   }
 ]
