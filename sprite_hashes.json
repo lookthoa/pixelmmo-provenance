@@ -10378,5 +10378,10 @@
     "path": "uploaded/trees/pumpkin_fruit.png",
     "sha256": "fc4b538bc4b15e4e3ebd2a60e495e8ba3f23c491e623ffc9b56bb0fdfd0115de",
     "size": 2412
+  },
+  {
+    "path": "uploaded/crops/sprout.png",
+    "sha256": "87c4a8c3a23a84895c0f1ccafbdcd838b3d507424be3937b8cd04bdad4568657",
+    "size": 146
   }
 ]
