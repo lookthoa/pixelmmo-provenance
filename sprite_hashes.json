@@ -10393,5 +10393,10 @@
     "path": "uploaded/items/pumpkin_fruit.png",
     "sha256": "d985e70f52a7966aee31760bbb981cbec603936038c299c3472821e843a4c1eb",
     "size": 778
+  },
+  {
+    "path": "uploaded/special_items/rain.png",
+    "sha256": "b0a6a59f1e52c8faa77406f71193fb15e0d99e85a887172c2f6e653a372bb1bb",
+    "size": 149
   }
 ]
