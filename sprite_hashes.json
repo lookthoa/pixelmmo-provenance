@@ -10423,5 +10423,15 @@
     "path": "uploaded/special_items/storm.png",
     "sha256": "8067743ef3f2fef74e56a5d3f406f10eb748773112ed5004ef5993ddc2d5a94e",
     "size": 396
+  },
+  {
+    "path": "uploaded/crops/berry_tree.png",
+    "sha256": "1bbf1664246d7143d58a4e299bcf81639fa9983fd221fe3f7ba4e976ff24469c",
+    "size": 2313
+  },
+  {
+    "path": "uploaded/items/wild_berry.png",
+    "sha256": "1bbf1664246d7143d58a4e299bcf81639fa9983fd221fe3f7ba4e976ff24469c",
+    "size": 2313
   }
 ]
