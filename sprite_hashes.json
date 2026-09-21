@@ -10398,5 +10398,15 @@
     "path": "uploaded/special_items/rain.png",
     "sha256": "b0a6a59f1e52c8faa77406f71193fb15e0d99e85a887172c2f6e653a372bb1bb",
     "size": 149
+  },
+  {
+    "path": "uploaded/crops/maize.png",
+    "sha256": "a524c92ce224c2a0d9a856a78f24aa38160be13353f5ca2606f320a80100171e",
+    "size": 134
+  },
+  {
+    "path": "uploaded/items/maize_seed.png",
+    "sha256": "d10b903c54e7bef384b1056e603df50d31e922622f756b77005bc65a8e0ca5a2",
+    "size": 246
   }
 ]
