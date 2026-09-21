@@ -10418,5 +10418,10 @@
     "path": "uploaded/items/corn_sheath.png",
     "sha256": "9a5c8da5e16fe31088a9ae2e0056cb8706d0efe1707b9d3e71c087ce40a75a47",
     "size": 776
+  },
+  {
+    "path": "uploaded/special_items/storm.png",
+    "sha256": "8067743ef3f2fef74e56a5d3f406f10eb748773112ed5004ef5993ddc2d5a94e",
+    "size": 396
   }
 ]
