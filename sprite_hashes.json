@@ -10433,5 +10433,10 @@
     "path": "uploaded/items/wild_berry.png",
     "sha256": "1bbf1664246d7143d58a4e299bcf81639fa9983fd221fe3f7ba4e976ff24469c",
     "size": 2313
+  },
+  {
+    "path": "uploaded/items/corn_sheath.png",
+    "sha256": "bab802cc0c7a8cbbb1400758190750571abfdc2a4d51b4b788741c1696a66023",
+    "size": 766
   }
 ]
