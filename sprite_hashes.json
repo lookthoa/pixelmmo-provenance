@@ -10443,5 +10443,15 @@
     "path": "uploaded/fencing/hedge_fence_gate.png",
     "sha256": "47c8a972b9d1c1f18f3a6d0093ac079367174625bad4b52c1573f130c1988778",
     "size": 2950
+  },
+  {
+    "path": "uploaded/fencing/stone_fence_gate.png",
+    "sha256": "22f4945f4f67ebf90f1b9e0ca448441dd971f5eb7d4402be950f497c11b0a813",
+    "size": 2829
+  },
+  {
+    "path": "uploaded/fencing/wooden_fence_gate.png",
+    "sha256": "c3a41e0bf5b148f85f5cd65f91fd335d044ed9c49af1b3b454c11457904936c2",
+    "size": 4058
   }
 ]
