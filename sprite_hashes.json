@@ -10438,5 +10438,10 @@
     "path": "uploaded/items/corn_sheath.png",
     "sha256": "bab802cc0c7a8cbbb1400758190750571abfdc2a4d51b4b788741c1696a66023",
     "size": 766
+  },
+  {
+    "path": "uploaded/fencing/hedge_fence_gate.png",
+    "sha256": "47c8a972b9d1c1f18f3a6d0093ac079367174625bad4b52c1573f130c1988778",
+    "size": 2950
   }
 ]
