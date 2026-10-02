@@ -10453,5 +10453,10 @@
     "path": "uploaded/fencing/wooden_fence_gate.png",
     "sha256": "c3a41e0bf5b148f85f5cd65f91fd335d044ed9c49af1b3b454c11457904936c2",
     "size": 4058
+  },
+  {
+    "path": "uploaded/special_items/harvest_sickle.png",
+    "sha256": "6c8b65812829659747b8c0b715c711604b63706a6484ef916b02e81c18c6c824",
+    "size": 974
   }
 ]
