@@ -10458,5 +10458,10 @@
     "path": "uploaded/special_items/harvest_sickle.png",
     "sha256": "6c8b65812829659747b8c0b715c711604b63706a6484ef916b02e81c18c6c824",
     "size": 974
+  },
+  {
+    "path": "ui/icons/settings.png",
+    "sha256": "da08a0ba1907856383bfe9239064cb650d695065ff3a0c557780554d09a26471",
+    "size": 1587
   }
 ]
