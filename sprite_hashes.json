@@ -14063,5 +14063,1470 @@
     "path": "uploaded/special_items/torch.png",
     "sha256": "13fe37879013b0757543b7c28249b23e851784079fd788be83f2223afefa886c",
     "size": 669
+  },
+  {
+    "path": "terrain/tiles/cave_desert/base.labels.png",
+    "sha256": "73eee4f2ea2fecc0a9803cb05518799ac98f075a6c637b4e6cb7212ac0d3d64b",
+    "size": 21000
+  },
+  {
+    "path": "terrain/tiles/cave_desert/base.png",
+    "sha256": "28a8751bcba7f79c399d6352ca35f3a61c8bb6a5e36b74378cdb9b6018d1e6d8",
+    "size": 98853
+  },
+  {
+    "path": "terrain/tiles/cave_desert/base.ramps.labels.png",
+    "sha256": "a86b1dbdf3e8c17e77b188e5c1f4517b2e1c57b77a90db25db25dd167c74a0ae",
+    "size": 664
+  },
+  {
+    "path": "terrain/tiles/cave_desert/base.ramps.png",
+    "sha256": "e6ea1d19d3d2caae32ce8b21940eb7e545180a87008a1cbd29c92874d70306ae",
+    "size": 8201
+  },
+  {
+    "path": "terrain/tiles/cave_desert/edge.labels.png",
+    "sha256": "e5ab3b5bda645a0af15a84d72d732a7654aa634b0657e36b8861c7f3adc15ef9",
+    "size": 4708
+  },
+  {
+    "path": "terrain/tiles/cave_desert/edge.png",
+    "sha256": "dc53fa3ddbac6d3548920e3ce93ff58eb619347870ebcf2b5d6330d1b8f2ce2d",
+    "size": 93924
+  },
+  {
+    "path": "terrain/tiles/cave_desert/edge.ramps.labels.png",
+    "sha256": "0b92cd3ba700aaff2e018115210b65d611b889c9b3e74944e5befdfc100c506f",
+    "size": 1617
+  },
+  {
+    "path": "terrain/tiles/cave_desert/edge.ramps.png",
+    "sha256": "44f4e4cf9becba40c6c84be5c1914c6dd5afc9d0aab6f962f9708b4032f4c146",
+    "size": 41844
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/labels.png",
+    "sha256": "73eee4f2ea2fecc0a9803cb05518799ac98f075a6c637b4e6cb7212ac0d3d64b",
+    "size": 21000
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/ramp_0.png",
+    "sha256": "2734c4908aa41d14f04feb5e5ea5bf785f7c02fb53f76ed544a835a1997d849a",
+    "size": 2090
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/ramp_1.png",
+    "sha256": "2734c4908aa41d14f04feb5e5ea5bf785f7c02fb53f76ed544a835a1997d849a",
+    "size": 2090
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/ramp_2.png",
+    "sha256": "2734c4908aa41d14f04feb5e5ea5bf785f7c02fb53f76ed544a835a1997d849a",
+    "size": 2090
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/ramp_3.png",
+    "sha256": "2734c4908aa41d14f04feb5e5ea5bf785f7c02fb53f76ed544a835a1997d849a",
+    "size": 2090
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/ramps_labels.png",
+    "sha256": "a86b1dbdf3e8c17e77b188e5c1f4517b2e1c57b77a90db25db25dd167c74a0ae",
+    "size": 664
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_0.png",
+    "sha256": "52241ef53ca49f2cc90db25724d87cabfbfd9dd8439220e907c7e6056fbf17b4",
+    "size": 98
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_0_v1.png",
+    "sha256": "52241ef53ca49f2cc90db25724d87cabfbfd9dd8439220e907c7e6056fbf17b4",
+    "size": 98
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_0_v10.png",
+    "sha256": "52241ef53ca49f2cc90db25724d87cabfbfd9dd8439220e907c7e6056fbf17b4",
+    "size": 98
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_0_v11.png",
+    "sha256": "52241ef53ca49f2cc90db25724d87cabfbfd9dd8439220e907c7e6056fbf17b4",
+    "size": 98
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_0_v12.png",
+    "sha256": "52241ef53ca49f2cc90db25724d87cabfbfd9dd8439220e907c7e6056fbf17b4",
+    "size": 98
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_0_v13.png",
+    "sha256": "52241ef53ca49f2cc90db25724d87cabfbfd9dd8439220e907c7e6056fbf17b4",
+    "size": 98
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_0_v14.png",
+    "sha256": "52241ef53ca49f2cc90db25724d87cabfbfd9dd8439220e907c7e6056fbf17b4",
+    "size": 98
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_0_v15.png",
+    "sha256": "52241ef53ca49f2cc90db25724d87cabfbfd9dd8439220e907c7e6056fbf17b4",
+    "size": 98
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_0_v2.png",
+    "sha256": "52241ef53ca49f2cc90db25724d87cabfbfd9dd8439220e907c7e6056fbf17b4",
+    "size": 98
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_0_v3.png",
+    "sha256": "52241ef53ca49f2cc90db25724d87cabfbfd9dd8439220e907c7e6056fbf17b4",
+    "size": 98
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_0_v4.png",
+    "sha256": "52241ef53ca49f2cc90db25724d87cabfbfd9dd8439220e907c7e6056fbf17b4",
+    "size": 98
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_0_v5.png",
+    "sha256": "52241ef53ca49f2cc90db25724d87cabfbfd9dd8439220e907c7e6056fbf17b4",
+    "size": 98
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_0_v6.png",
+    "sha256": "52241ef53ca49f2cc90db25724d87cabfbfd9dd8439220e907c7e6056fbf17b4",
+    "size": 98
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_0_v7.png",
+    "sha256": "52241ef53ca49f2cc90db25724d87cabfbfd9dd8439220e907c7e6056fbf17b4",
+    "size": 98
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_0_v8.png",
+    "sha256": "52241ef53ca49f2cc90db25724d87cabfbfd9dd8439220e907c7e6056fbf17b4",
+    "size": 98
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_0_v9.png",
+    "sha256": "52241ef53ca49f2cc90db25724d87cabfbfd9dd8439220e907c7e6056fbf17b4",
+    "size": 98
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_1.png",
+    "sha256": "fb1fb969096528f1f8104cd119a2d4589b5b24cb37f3169480d2bf9df9ed8985",
+    "size": 823
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_10.png",
+    "sha256": "02ed59cd78394088b38a96d202a2a8c32457166b558a2ae22b7214eb0bc7fd4b",
+    "size": 1424
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_10_v1.png",
+    "sha256": "65e222c11dce4749fc41ae65dcf5aa865324fb98cb2560fef24a73b1d78af9b8",
+    "size": 1072
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_10_v10.png",
+    "sha256": "7d7022a468e64334f56648fbec0f0bd759bb2cea9cad3aac0df2db96c322dc90",
+    "size": 1740
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_10_v11.png",
+    "sha256": "5dae22d6b15be403c3e60ef8cbb25d7d6e16594b61b54abbf8db3623f401cfd8",
+    "size": 1379
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_10_v12.png",
+    "sha256": "8ec68d76266a023d61da2f3f300b16133a55e5cbb8654b2f4609520c1456b537",
+    "size": 1589
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_10_v13.png",
+    "sha256": "13f0f95c9872c94059e194722256aac2313a547a6b6329b49626ef7d89c683d6",
+    "size": 1286
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_10_v14.png",
+    "sha256": "7487644bc0282c2697700889c5a2dc71edf8f29f8010b658b52c22410b198438",
+    "size": 1143
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_10_v15.png",
+    "sha256": "387857a1ea6a3d440514ea92bf9958fe4958edea80bef5bca2b45e02cd90ad32",
+    "size": 1206
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_10_v2.png",
+    "sha256": "ab39cc297965cceacf98daf3e49a003c17d3b38dec4c94f31f5313a06bd214d2",
+    "size": 1304
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_10_v3.png",
+    "sha256": "e5518ed14b1097d81905be15d344d75fced5ddacfed4ef86511d0f234da2cb27",
+    "size": 1019
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_10_v4.png",
+    "sha256": "c475dadeffa48c5ec3d3fc232c6a2623fff3eb2049ddf6a6c6f6ef9c660235d3",
+    "size": 1166
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_10_v5.png",
+    "sha256": "195f85355a980e8ab75bbee99748d42f9744ac5153a7ec19caadbad0df9e34b7",
+    "size": 1231
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_10_v6.png",
+    "sha256": "f7675f8c5bd6acb3137361992ed9eaf9b947ea931921fc1c9e62d465ecd46065",
+    "size": 1414
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_10_v7.png",
+    "sha256": "ce30198beb0695852f12da78c15566dbbac0d41d62557ba1f6b3dc4ac216045f",
+    "size": 1288
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_10_v8.png",
+    "sha256": "2111e4c42fc6bb8b6e868d4193a2a2bd1fd8918eb734202d51129b066f3dfc13",
+    "size": 1387
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_10_v9.png",
+    "sha256": "660278ed6a5dbfff54750ed806d04f3a5f5a50b0a0118e2c765de664cfab5017",
+    "size": 1254
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_11.png",
+    "sha256": "ae8e93166a172ae0f8a16cfd10c1cd8f2c9895618cf2f5c84fe5a495a630081d",
+    "size": 1789
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_11_v1.png",
+    "sha256": "8835d76bc54ba4f1493df3e11c76dae0c18c9d00dc7327ac57621bd17c2bb913",
+    "size": 1306
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_11_v10.png",
+    "sha256": "a72d2192ef62c01c00619222c401535c6f68ed0c3169f54f7961580b409b9464",
+    "size": 2191
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_11_v11.png",
+    "sha256": "cce05145759aa7ca2ed0de57a1d16f73861ac58b7b13909ff260f8b3bd8ae63e",
+    "size": 1736
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_11_v12.png",
+    "sha256": "cf9b532919c66a634617f3a6bf6dbcb799a4e1cb3eaa4eb3dde065258388ac7b",
+    "size": 2054
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_11_v13.png",
+    "sha256": "3a603f29b8c4f5bc2d3011b4eefdde2fb8e929dbfaab0b0e8ce54448880754e5",
+    "size": 1745
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_11_v14.png",
+    "sha256": "d15c793f858b88d735fd5b86e284cae2b5b0eb66d93be1b45a6b88b8b6b33775",
+    "size": 1463
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_11_v15.png",
+    "sha256": "ac227f6e9a235f03dbee3548e7a53665754ddce0df1f7cee4d8d8f9ebfe6daf7",
+    "size": 1517
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_11_v2.png",
+    "sha256": "58f3916acc646be75a85825a560c780a8e4c8447c10b27c5dcb085329adf0801",
+    "size": 1627
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_11_v3.png",
+    "sha256": "d3c8040d9f4b491850a2b74d8898e2408fa8d963efafe404ef99dec25c2493b4",
+    "size": 1287
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_11_v4.png",
+    "sha256": "201cc6c5ec212adc0ff52ab6e42e4adc66aef06bf23abb0e21f0b7ab1c2df227",
+    "size": 1584
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_11_v5.png",
+    "sha256": "85cdbe140a0d7051ee2eaa84cb75a06b8279cc7f582c8aca46fb5385b41433b7",
+    "size": 1576
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_11_v6.png",
+    "sha256": "9c2804cb671756fa5da185ccc7848255cea759d9c0834bb188c3d112e69e1d42",
+    "size": 1838
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_11_v7.png",
+    "sha256": "50e33e6a54fc453c1cdb56b5425a1f1c125dac9823ef7b6b6fcbc7a3acede575",
+    "size": 1641
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_11_v8.png",
+    "sha256": "f3ced8856bb6e74814df1dcb092cb0139782b2a38ab8e9f2e47313a058d55bf9",
+    "size": 1757
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_11_v9.png",
+    "sha256": "11dd0af915fef9d07cf8f1e52006540fe08c38d68e721f645a5502c3894df85e",
+    "size": 1710
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_12.png",
+    "sha256": "b6ac479d890686ae0c5b5d9182db639a7d8c1cf6c213a4e05da0e53c950028bd",
+    "size": 1375
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_12_v1.png",
+    "sha256": "099ea3ee20ccce2b8e844c41dc6f4d186966f2c6c40ded6c735f3b3080b44c5f",
+    "size": 997
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_12_v10.png",
+    "sha256": "54d228b8e96db5d2c8b1f0b532e4bd989fd52b05ccd75b1ef594123908f9f74f",
+    "size": 1622
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_12_v11.png",
+    "sha256": "83ce3226b1d0d7677d4fbdf265c4123a7168030f51c3544f3eaabf85da06ce80",
+    "size": 1382
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_12_v12.png",
+    "sha256": "52673e45da27b9151f0c1284e8c8b8299eee8cb34b08f6e0b84c0cc55481ea5f",
+    "size": 1521
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_12_v13.png",
+    "sha256": "72ec59c4fc78ec85335aa6ed3ff63504265d6f4871d6d74f7c1db7d8636a70d4",
+    "size": 1423
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_12_v14.png",
+    "sha256": "472590950420f6ffa4ff550d59e17b8c482d163663f2a1749ed7bcc88db41f13",
+    "size": 1171
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_12_v15.png",
+    "sha256": "c57082bf7f305a8bddb287428c115762338e4e52c82f7587b43f6e2c5aa1ecf1",
+    "size": 1171
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_12_v2.png",
+    "sha256": "504525855a342e341f0ee114b42b0eaeb7f4ee976c42b9c4801dcdd30add34e7",
+    "size": 1279
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_12_v3.png",
+    "sha256": "46e1b823d56239c7f457c500b2b7e811e7b3d4227768c9473a5c7ac900e9b9b1",
+    "size": 1057
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_12_v4.png",
+    "sha256": "01b917352b48035b18206777b8482506465da457659f4d2ef88fbe1358b66459",
+    "size": 1201
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_12_v5.png",
+    "sha256": "53124d9f35e5b77d1c5f461b30c543dfb66db992e82213e589191fd3aec0ee8b",
+    "size": 1227
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_12_v6.png",
+    "sha256": "b2fc81f9b0049c8f34d742c9744770be6c5c719d9d574979db79828dfdb39d0f",
+    "size": 1400
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_12_v7.png",
+    "sha256": "9e8f4abeab0aa9cfbbc2df25a242005c2f084b1a76810ff2fdb9c557a1b1904d",
+    "size": 1321
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_12_v8.png",
+    "sha256": "975af8c81699d8a3cba9c760f602573e44d2770088e2d560fd3ef4f72938e633",
+    "size": 1407
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_12_v9.png",
+    "sha256": "1e44f4fb8e2c27e26cf32d8ab2d8d01a9677b679be67f7730daff7ad4735d5a2",
+    "size": 1456
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_13.png",
+    "sha256": "9820c6b3494882d0f951bc2a0dec5032179b4dc82c10c89c8f39d32c23b4c9a9",
+    "size": 1747
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_13_v1.png",
+    "sha256": "f849e77f3be6c2c5ec03c57deba3c65bfbd99e99caab9efa8bd6075d1589bfa1",
+    "size": 1270
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_13_v10.png",
+    "sha256": "20b569fb440ea30396c8097970637706c2f299b16c364c5de62bef7ca20524c0",
+    "size": 2068
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_13_v11.png",
+    "sha256": "c4b4ab69f60cd0199120c471deb04bf06b8933ac3c05cc3d15e4f149e67060f3",
+    "size": 1719
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_13_v12.png",
+    "sha256": "8536b666fa95e2444af18bcaaaa737304c5f9a9a6692ee82c2d17cedbb63e1b7",
+    "size": 2047
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_13_v13.png",
+    "sha256": "8e38b390f7364a48b9c1306bd941ef99f33550e30cba1f08c027ee2e5dbe71d3",
+    "size": 1884
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_13_v14.png",
+    "sha256": "fe995d9491fe3c59503578ac475aab0a232d7eff29a72ae5b6231378aa56ad25",
+    "size": 1555
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_13_v15.png",
+    "sha256": "9a8ae3ac87b715c2b114781e53fc9047124ebb2d61c1d6c6a9a490596956f502",
+    "size": 1497
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_13_v2.png",
+    "sha256": "82c524b8ce8aa52e26959a001193e72be20daac84c37c266c8b90f7501eaa1df",
+    "size": 1600
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_13_v3.png",
+    "sha256": "4bb9084f0c7a28d4c96fd63528cc9efc176fe80e1e2cb66876010e79396e352c",
+    "size": 1353
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_13_v4.png",
+    "sha256": "9395cbb642704356d54e38633bd3ccb85d48c4232c80c83ed44e439146dc6929",
+    "size": 1617
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_13_v5.png",
+    "sha256": "533a46a403a76ae515755621fac25bd89e765930bd4b5a7103d24dd138745eb6",
+    "size": 1614
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_13_v6.png",
+    "sha256": "3421b4aafa341874d744085674264e44bacd20e2b3b06fdcf0ec25214e59432f",
+    "size": 1820
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_13_v7.png",
+    "sha256": "0c6992a22efe5e5b310c1e82519462842f58f1b6686fea674cfcc82f3a0928c5",
+    "size": 1675
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_13_v8.png",
+    "sha256": "0a362dc70ef6768a5fabd6d769d6b6cbfa084cd96e2224d1d017fd4b9f95a9d3",
+    "size": 1775
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_13_v9.png",
+    "sha256": "5e956cd6f12b31aed2eb8b98e36581250d007c229abb0f75f1dfd6bc568f69a0",
+    "size": 1922
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_14.png",
+    "sha256": "5a6e74fffd29bb7aa8ffcf16b944c3e5911dc270b5aa4ce91c65381c4126f493",
+    "size": 1864
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_14_v1.png",
+    "sha256": "7ca971a2aa1e12d481056d617001e2f611ff4f8dab55fe66dddd3d4a8cb86cf3",
+    "size": 1344
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_14_v10.png",
+    "sha256": "22177aefde8752e0488d68b0f6a6f18f504d0ccd4e2b6e507d6368d7814e4449",
+    "size": 2271
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_14_v11.png",
+    "sha256": "9f9c3a915fd9903079fc0e0382ee4acc7afb0c1111941c93123acf168a077e97",
+    "size": 1852
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_14_v12.png",
+    "sha256": "b577f760423ecac14d982c3f3a3a2497d90a54ea49bef0a9c452f2c402849e74",
+    "size": 2107
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_14_v13.png",
+    "sha256": "808c7b4cf2d14b1fe65491aaa1a644cdc3b3922ef43166799a138c7ac6185a44",
+    "size": 1843
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_14_v14.png",
+    "sha256": "9694b384a2d86150e16068a245a538fbf2f489b6b6eda64ceed6a7a1bbe17de8",
+    "size": 1545
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_14_v15.png",
+    "sha256": "2bd9de0895a24f05db89f6a783a5bc06e9cbe4c9a08876dc7bf9758046fe878e",
+    "size": 1560
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_14_v2.png",
+    "sha256": "eb1ea9ca7dca50707f079952f9ad52c64a86dc547f8cc6b637deba21b575a638",
+    "size": 1694
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_14_v3.png",
+    "sha256": "0de5ce7470ddca05863d8bd4a19628cb18ccc3644c61a275254dbb91365ad4a0",
+    "size": 1405
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_14_v4.png",
+    "sha256": "61d0f08866bf051185cbab90f129a3860a457b8d9f282f6f0f6fc79d5c98af3b",
+    "size": 1592
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_14_v5.png",
+    "sha256": "09ed7efc4d263aed6204c7750b6e34726addfb193dc19fbed1fc3532821b5ec9",
+    "size": 1633
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_14_v6.png",
+    "sha256": "411baa37956412123ce6630c6a64edd0a938d8cc67a1050d105d9ff97fef6a6d",
+    "size": 1886
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_14_v7.png",
+    "sha256": "4c9708166cef96ae5776c0cb9b61b34121ec8862fb6c0b81bf2525796272fa3b",
+    "size": 1766
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_14_v8.png",
+    "sha256": "07ebc1b8aeb1bed907ed9abe65b230b24763be5b1d6cb808b348ac54c82d034f",
+    "size": 1881
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_14_v9.png",
+    "sha256": "ae4820b6849d36c663b3d3595b89570f471067eebca2da74a2298fb4130a347a",
+    "size": 1814
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_15.png",
+    "sha256": "2734c4908aa41d14f04feb5e5ea5bf785f7c02fb53f76ed544a835a1997d849a",
+    "size": 2090
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_15_v1.png",
+    "sha256": "fc2b322441d5a44dc591156195364ebf43b8d82add5a7834c560d738d6e26e8f",
+    "size": 1486
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_15_v10.png",
+    "sha256": "fd6f1760ca9232fbdbc47110240f9ddf25cd8bc765c31091c442eace6a4b941b",
+    "size": 2575
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_15_v11.png",
+    "sha256": "6aa63a816fdc472dc132d750526c44a103af4b60bbd764b135b0f72f31cda6d2",
+    "size": 2055
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_15_v12.png",
+    "sha256": "c543fb9a85dabcdb07febc29305d50e152effc2b4e719bea10c7145aa74e1d59",
+    "size": 2475
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_15_v13.png",
+    "sha256": "a70f257ea6fb8a3c6a58727f13eb62433a6bf67d657a029bee1e2bab38aa05b8",
+    "size": 2150
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_15_v14.png",
+    "sha256": "e28696ced0c178cf7e7ded40eab2aee41a4ea781d0d83a9c9d26a69037eca77c",
+    "size": 1792
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_15_v15.png",
+    "sha256": "34009f6024f690a053e5f06cf6d7e30339e5a928c5b78280fb4152feb9d766d3",
+    "size": 1735
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_15_v2.png",
+    "sha256": "22ec4642a47b8bfe0edd903d90292e672ce0e7fe9455234b50536a3db307ea25",
+    "size": 1891
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_15_v3.png",
+    "sha256": "6741fb6a7830171e59958caaf1653a3cffcb584acb46cebbabcb7dc4530c7ea6",
+    "size": 1567
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_15_v4.png",
+    "sha256": "5075fc2dbe25f0ff5929fde73d5a876e4e513bda27808ac06153c9ca4a3d330f",
+    "size": 1840
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_15_v5.png",
+    "sha256": "69536dcaa2f09cbf6f6475d3468c4e9aa0771e848675cab7fd57408c84eeae9b",
+    "size": 1865
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_15_v6.png",
+    "sha256": "2a8ef9f1dd304b2deb1880b7a37fd04a6276f1aca1f6782413dcaae4d7bbe070",
+    "size": 2159
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_15_v7.png",
+    "sha256": "92ac1cf13fc51cc0018c4286b5e661bdd279887f220ded3fa60d21bc20bf1a16",
+    "size": 1977
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_15_v8.png",
+    "sha256": "f757c1e6b9d95ab111b364bf12173ff9dfae202709ed3a27654fcc003dcb047c",
+    "size": 2111
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_15_v9.png",
+    "sha256": "ca25e2e9af41a29c44448a3d2da5b58874623c7e462934f828504003f6619925",
+    "size": 2147
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_1_v1.png",
+    "sha256": "d27d750d413576459e6b0202998e38ec4571d5f3b7dae611fe35cd433e291bac",
+    "size": 605
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_1_v10.png",
+    "sha256": "d1d97edd3a272440fbc126916011384f3e9e19592d33ba18c844c21bdde3db00",
+    "size": 919
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_1_v11.png",
+    "sha256": "16bf6e212579f1cafb22bd903a66ef5555a160e56969f68c0adc182c99221cd5",
+    "size": 760
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_1_v12.png",
+    "sha256": "54b60d5853d9f73b9e820ad81b9579a74f590d6753299b43a582a95208430c17",
+    "size": 959
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_1_v13.png",
+    "sha256": "f69bdda8aef5d09a69b21ef40f35eca120cae2bb02ec20699d787acbaf6b6f79",
+    "size": 888
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_1_v14.png",
+    "sha256": "6617df91c9fa80a333d7b772b7e990c0ec0edc12466287b54af27a90032e9b4a",
+    "size": 723
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_1_v15.png",
+    "sha256": "0b99b3889c42758b1904274a09b1472fe7089a15e49a2abea92e218747ad0eb0",
+    "size": 699
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_1_v2.png",
+    "sha256": "0d6a91e753e85a89966fc2b549e3da27abce618ce44e22ae1b2885cc8b7eb48b",
+    "size": 750
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_1_v3.png",
+    "sha256": "398b3a8f6bd63aa6790c2cf02b8b4ea64f4702c28d17e59c1f438c11ce6edecc",
+    "size": 567
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_1_v4.png",
+    "sha256": "77076f8b1edd79308b8d4ecd11cf8ae9959535ea963a78b54735898c8c9792b1",
+    "size": 840
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_1_v5.png",
+    "sha256": "c3a9f88eba1e56ba24e41222a21e8f0c2b6922b0bc8b7a72c3ff4031d6f41786",
+    "size": 764
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_1_v6.png",
+    "sha256": "4c85df348f9fab26f66ad960554b4e8f116aaae763ca6e71b55e19f82e068e93",
+    "size": 871
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_1_v7.png",
+    "sha256": "b78eb66945b398033b8021ce09eebcf746cdc125f903c775f6a2dc691886bd89",
+    "size": 771
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_1_v8.png",
+    "sha256": "abc3099e388210f99a9da90a1a4b65855c858595e8afbf1eee05fd5d6dd163dd",
+    "size": 812
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_1_v9.png",
+    "sha256": "0b412e03bc4ad6121ecba127233eb83481857d9ef7189ba1c7d776029313268f",
+    "size": 878
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_2.png",
+    "sha256": "196bc28faa7f466a4ec9538e17c512be6f8be2bbac9cb4b757335477d5502416",
+    "size": 951
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_2_v1.png",
+    "sha256": "7da71168e0b165d4d46a1b7b966edf9221ab4121b6b0006d08529b6b81c5a04d",
+    "size": 760
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_2_v10.png",
+    "sha256": "269fd49714e99e1b4043002cb862aaab923580e39f729d9b03700411e2c3cfbf",
+    "size": 1098
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_2_v11.png",
+    "sha256": "ba330d729a58b995be85f2c9e1ea24c6eee842bedb5f08764183774b72e1af50",
+    "size": 934
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_2_v12.png",
+    "sha256": "19681bb276303cd8fc4ca0192663d632ecf639996438ca80e2428ca5598b30df",
+    "size": 1028
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_2_v13.png",
+    "sha256": "cf3531605225df606c81030dfdf22cf34ae723a7e310dee25c59fe317f733095",
+    "size": 853
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_2_v14.png",
+    "sha256": "9fac8dfeb36b36b1d293b32475ffa62b25af3b12b5fb98548d2138105ad0d3de",
+    "size": 799
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_2_v15.png",
+    "sha256": "c05c32e595a6ae40f698be62c2e445d93460ac873aec5bea995f4cd7a9ceb564",
+    "size": 829
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_2_v2.png",
+    "sha256": "379d455c40c36ca664879ab218cd45fff8bcfc43e9556108a3eed977f167cc74",
+    "size": 936
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_2_v3.png",
+    "sha256": "6affe62dade763953c9cdd490eaadb9e2bb51e9e6fbcd1653a4bc48731e3bd8b",
+    "size": 740
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_2_v4.png",
+    "sha256": "08239ec7993b96bfe58c5ff9b4afcb31a63556f9f2b05fcc2ab96e53900c3385",
+    "size": 795
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_2_v5.png",
+    "sha256": "3a273ece1760d9937ccec87e7eaad3002ee3c33ba1812b440a8214b711a1e582",
+    "size": 842
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_2_v6.png",
+    "sha256": "35b8193c8bc8f44582977c1eefb9c6b4c94600e514c9e17ca772c26970c5560d",
+    "size": 969
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_2_v7.png",
+    "sha256": "864e2bdce7c5ecba57347c7e5944f975ad2841a6698825835f8de06d5b231cbe",
+    "size": 865
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_2_v8.png",
+    "sha256": "f1b2b4d6e66f607a78d70b6836826ad840d8d07447461f25372204623f47068e",
+    "size": 929
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_2_v9.png",
+    "sha256": "99b48f13e0233f82d0f52ecb9c946bde012ccffa6ae48217d469bc39ac5070a3",
+    "size": 783
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_3.png",
+    "sha256": "f0fe574f5ea6e272f84cb1306bf54506ca126ab28e118a2fc83f8b40f4329f1e",
+    "size": 1394
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_3_v1.png",
+    "sha256": "6373b27ac4e05b0f9d99f7242f3c6ad7e2505bd95835d9eca163c88782d394d3",
+    "size": 1016
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_3_v10.png",
+    "sha256": "20e45267feac225b90567239c7818f7fbb8fe1096c4a5198f5f35ac292a71293",
+    "size": 1635
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_3_v11.png",
+    "sha256": "e6eceade7409cba77ddb0af9af44f16f129109cacf51ca060fc9255a2d18b64f",
+    "size": 1333
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_3_v12.png",
+    "sha256": "5efb8662a514fe7a5e9d3c67f7f09cc9504c08afe932ac65de7901c0ee075cb8",
+    "size": 1599
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_3_v13.png",
+    "sha256": "7a7ae1f631843666f569c3cb275a3ee1b7a4fe7834cb7d4defefa97648b87953",
+    "size": 1371
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_3_v14.png",
+    "sha256": "d293429e56ddac72e38fae90d0e583cd8cfabccab9b509faeb191c1e1d242f09",
+    "size": 1145
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_3_v15.png",
+    "sha256": "68ecb38bbab1c70f2b4330ef00ec047ab6c06b6461753a9c082e2a0ab8365f52",
+    "size": 1139
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_3_v2.png",
+    "sha256": "6fa1d8e8b7bf833da449f866bcb6980e777a9e717a2d36c845ddadb2d46a16f1",
+    "size": 1265
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_3_v3.png",
+    "sha256": "610c40830a21ca6e1d18f68a4cb54055be922af2f93bd3482d74730ee7bf780e",
+    "size": 1021
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_3_v4.png",
+    "sha256": "bf4e32df2f52261fae36f22dce5830b127b222c56d445769ad698e2aa0eb6bac",
+    "size": 1257
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_3_v5.png",
+    "sha256": "29cb31232b01fd3f2b5bc1c69e257dc5810168b0303981d2b89332a6248248fe",
+    "size": 1214
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_3_v6.png",
+    "sha256": "22019775711ff6c24930bf7094ee8dd29679282d287c9320078941b2ba1361b7",
+    "size": 1462
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_3_v7.png",
+    "sha256": "8ac04ed71ba141947b67cb924c53339e8013f42e8ae9ba8101fcf7ae0d7f3c71",
+    "size": 1267
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_3_v8.png",
+    "sha256": "40fde8311d89029322dadd8c354bdc4beb51b702c5a130d58e86d86ca3848b8f",
+    "size": 1363
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_3_v9.png",
+    "sha256": "60fee71c3146c11ada5e79085e459f03606ce33781bb5c333acc1e54cafbd22a",
+    "size": 1280
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_4.png",
+    "sha256": "8cc826d3016d0dd6d7d2b6df9e76e20736336449d0ec0db582318f9872bc679f",
+    "size": 902
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_4_v1.png",
+    "sha256": "8f59195ab7657de7224a6d5f2b3e91ee5393abe29c16741fb19c51953ed219ba",
+    "size": 699
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_4_v10.png",
+    "sha256": "f056ccc673ed353f7d39acb3ec1146032aa71ada0700bb1f4a0ad644a26bb8cf",
+    "size": 981
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_4_v11.png",
+    "sha256": "86ebec998959d2d5d12f846d30cae970cee7811ef1ae6e3eee64010319e71eac",
+    "size": 956
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_4_v12.png",
+    "sha256": "f57a1faef93380e6bd33eb4bad45895b35f6547cfcca7e7340c1d99a8e32fbf7",
+    "size": 977
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_4_v13.png",
+    "sha256": "8806e3bc1482810a89fbfc94bc95ec172c3eecbf71eaf6d1b6f006cffbc37fd8",
+    "size": 1023
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_4_v14.png",
+    "sha256": "bfd671d54df6a4ddd8e24de53962d81f5960c8d4a332b869ae49509e17589c65",
+    "size": 811
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_4_v15.png",
+    "sha256": "7d2e4d571b9bfd63d44ca2ea344157541d111b5193c409b5e944ed4bc49afbf2",
+    "size": 749
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_4_v2.png",
+    "sha256": "4f370b97464b92fe6c90f6f1447610699b48dd0b70dfdb1ab537f61587f9e247",
+    "size": 856
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_4_v3.png",
+    "sha256": "094632c144a46b92269acd6f2172cb948d7641a0cd1a1125cbcc5c52710a3ec5",
+    "size": 710
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_4_v4.png",
+    "sha256": "0b0078ff11928391eac0802d6e1f44e2d7045bc30331e3c48caa3cad0419dbf8",
+    "size": 833
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_4_v5.png",
+    "sha256": "bd219fa8ac3f5d3cebc8eaa44ad4702c158bbb995a6bebac83401db3f398196c",
+    "size": 883
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_4_v6.png",
+    "sha256": "067bbd76ff2c79a13aacee273c8839bc8481c67db1bb3c81714a4ab9b0ea0684",
+    "size": 974
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_4_v7.png",
+    "sha256": "1965d043a13c0ff34790b6a5de6ceb0c63b70a2e6a4cf44ee37f9100a26807fe",
+    "size": 910
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_4_v8.png",
+    "sha256": "dca5a8f6c64ed36495cffb7535dbacc5054f01124d81b0be7a0315a536f335f5",
+    "size": 907
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_4_v9.png",
+    "sha256": "5be317e4588b6f84a76a71ee8db0c0ac27bd40016936052c6f0809f1dd1584e6",
+    "size": 975
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_5.png",
+    "sha256": "ce148e3e21d5f1c4c44688724c75149af20fa75d38eaa3985f2ab5c7f9a64484",
+    "size": 1330
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_5_v1.png",
+    "sha256": "05292e4be0145c84be9049c8d1f8993f635f2ebdc610d90661d7ff215d349d80",
+    "size": 972
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_5_v10.png",
+    "sha256": "2e181495cadcf7f50668d203320f67a4f5a667ca7a59523a96b57ee85d2da38e",
+    "size": 1477
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_5_v11.png",
+    "sha256": "a876c3a56c8c99503e11270e76722b07fccc7774a79e2423dee624336bf728af",
+    "size": 1305
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_5_v12.png",
+    "sha256": "32918f9b06ef3145250adb7dfa37a2e5054b4d21d934760460590cc610c2b1fe",
+    "size": 1533
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_5_v13.png",
+    "sha256": "18f5bbccb3f36b1edfb4a756a68edc68052478c97beddbbd8e18fb863f5a3e4d",
+    "size": 1530
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_5_v14.png",
+    "sha256": "57d2e8b6c707b6572c9cb2609006d162f90889017de0910ff4584243ba5580cb",
+    "size": 1221
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_5_v15.png",
+    "sha256": "7732f6f1afea5411f5861dd75c807d491076a59a58e9cd31ade08940475a8f0f",
+    "size": 1128
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_5_v2.png",
+    "sha256": "48f68acc2c1542d769546ff833cb568d61a9b4ea8016359fc9bbfc925fb6913a",
+    "size": 1211
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_5_v3.png",
+    "sha256": "e5a8c73c41dd6a8afd6e3f50c2309155099a9ab2ee1c20efb59c4da63a8e68f9",
+    "size": 996
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_5_v4.png",
+    "sha256": "bb92b37e61fbce766c39ba61d7973e8f9eca97a94cec5a0a270b1ab84a5eb8cc",
+    "size": 1289
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_5_v5.png",
+    "sha256": "1d6a28ad2e49d4a9e87dae6f2ab5c8c30ae723d0d9cd85b6503d1dfff55f7331",
+    "size": 1255
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_5_v6.png",
+    "sha256": "6c0a7acf542b9d2263c26192f819a53c5093c997b74852dc4adcf593236d1b80",
+    "size": 1410
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_5_v7.png",
+    "sha256": "92c3b38641afacf819b8699b891eb44bc8974e7fde69d85ac5fecbc42e795c19",
+    "size": 1318
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_5_v8.png",
+    "sha256": "cae2e6b970afb947f19416df8706ee0704570e314b72b126269b3252d72ef2ce",
+    "size": 1339
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_5_v9.png",
+    "sha256": "d01d71eb275ef80a51ba8c4968e4c08feffaab6476c0586e80cd02fbdb5082fa",
+    "size": 1501
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_6.png",
+    "sha256": "72b28e270cd1ed6d7c8966ea9ab7fa8cd02b3e30143acb396576bd827e751b56",
+    "size": 1549
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_6_v1.png",
+    "sha256": "1a9c7b218b9fe75885556c4ec4f320de8122fdfb4cc2d07fa48fdc00f857ee13",
+    "size": 1175
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_6_v10.png",
+    "sha256": "164ab10a5fcc40e972a0f6868b10385c2a394d79b2971dc023b4a5089c8ee654",
+    "size": 1785
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_6_v11.png",
+    "sha256": "dc0a546c01a895cd0d1b14ad0814b6e51dbb060f76b93466eeb26219c0a4a7ce",
+    "size": 1567
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_6_v12.png",
+    "sha256": "a44124f34f0c9d828ac44f033678ad2cc100ce22feb8514ab211047831a8cc8e",
+    "size": 1705
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_6_v13.png",
+    "sha256": "004d3aa84716fda4790e3fd7d4645394c7c4336514b6f93e1508f765a6521dc9",
+    "size": 1601
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_6_v14.png",
+    "sha256": "1b2fe1cf77c91f61023c533ed9bd533af5820564814e5570d50622160c4e326d",
+    "size": 1340
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_6_v15.png",
+    "sha256": "ec09f91c9f204721486c3603a2a691ccc2302e06c7e80a3b89722a9e1142d666",
+    "size": 1306
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_6_v2.png",
+    "sha256": "31c23f9a4cc62fe1907d8a503a1b4402866bd450f395a8d93fd079f4638ae2b4",
+    "size": 1475
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_6_v3.png",
+    "sha256": "c522d552603c873d07c311eabebaeb036131caa5e955942d6afc32b3ea42d6a7",
+    "size": 1207
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_6_v4.png",
+    "sha256": "d7929aee4c1d586f05d4089bc142f16f004541fff5a57933d2715dc26f57057b",
+    "size": 1351
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_6_v5.png",
+    "sha256": "2294396d3cb11598e6e4d847b1b656058162505273fe1aa78d992f67b115ad44",
+    "size": 1439
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_6_v6.png",
+    "sha256": "e85302dad9fe414a5be1121762334191f138e0477d6539473e466b6a43948d6b",
+    "size": 1635
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_6_v7.png",
+    "sha256": "896d5077e6671e3723324498e686e0f82f4fb58e96cf5c15b1e5ebb5350757f3",
+    "size": 1491
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_6_v8.png",
+    "sha256": "827b9762d9fa27a125cdeeb69a52b442f1e039cc32519e76f7d38520bbe1f6f4",
+    "size": 1560
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_6_v9.png",
+    "sha256": "e44e9bf3c9768bc7c85050ba7664292da05f04d9027d1ca27c068918b6b69e78",
+    "size": 1486
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_7.png",
+    "sha256": "b18476ad61c3084247e8429f639b8ec7690d62df72bf28c886e1b1df9f4fc84d",
+    "size": 1838
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_7_v1.png",
+    "sha256": "db2a56d09d765a49888c4637a99e2a1582638c88cb13603df0e2c1971d5f4346",
+    "size": 1321
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_7_v10.png",
+    "sha256": "7a5f5d3e5ed33a65ff0ead9e47dd536b273ee948f7577d789bfea4874d6c039a",
+    "size": 2121
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_7_v11.png",
+    "sha256": "161e676c2c0589b6b56d020111a65a7e319a92e83e919068ee02d5793a0814f2",
+    "size": 1790
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_7_v12.png",
+    "sha256": "e0f4ec84b6f63a1e9d33b360d925108691c124e3194345973c97ac428582fd2c",
+    "size": 2101
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_7_v13.png",
+    "sha256": "52948a99dfbb2f6f8c00d5092d6cfc1b9893eddb2f3391aa909b45b756d8a35f",
+    "size": 1925
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_7_v14.png",
+    "sha256": "495809f92967af46b66d14f44b4c12a3b5cdc33b54132bfa007e279c32b54dde",
+    "size": 1618
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_7_v15.png",
+    "sha256": "866fab08c5ae66248c54cac2f6422602dfc8db77e37f2fd58c2b9ebe35964fed",
+    "size": 1513
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_7_v2.png",
+    "sha256": "aaf508fd92c7ff38543ea0f407dd3772478de5b6a16d24b9f9d8d6886050fd97",
+    "size": 1682
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_7_v3.png",
+    "sha256": "13eb9235dca10c538659a0e8cc7e0b8a8cd22c9e3bf08a7779c6b9c5fb57a399",
+    "size": 1376
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_7_v4.png",
+    "sha256": "a7cc7c06c45681d2d9046e6198c4bb4429387c4afec681ff269bc59f73bcc522",
+    "size": 1649
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_7_v5.png",
+    "sha256": "98ed0601893036e099de4f318b72c56743e3f92c3fac00aa2937f4cae9e1db3f",
+    "size": 1658
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_7_v6.png",
+    "sha256": "c247b432d0cb144037ac3475beffa34c7a9b187656e290a7f2682c5fb5f7faf0",
+    "size": 1942
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_7_v7.png",
+    "sha256": "cb62b4851ddb2ce2716e15689b54590800119b14dae5f2bb5c2e70e436185138",
+    "size": 1754
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_7_v8.png",
+    "sha256": "980b3fdea330c31a7e1cd5b5392b4874670e4827c8627dac9d7e9a604ea79392",
+    "size": 1821
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_7_v9.png",
+    "sha256": "12d563aedca6a29b627faff499b5e0b4c73d9208ba2df8c2cff95b4a15a9fc14",
+    "size": 1866
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_8.png",
+    "sha256": "d7d2e21008ab27116b4e173da32546c6b867a74b47b32696c3ab92bcedb76436",
+    "size": 838
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_8_v1.png",
+    "sha256": "857eb2453fdec78701ad0b679dfde70265d0330a7f9ab63e90f6811e37612fe5",
+    "size": 676
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_8_v10.png",
+    "sha256": "1c35ad01883242845fd979bb447c254bfba7922da57a9edc93317780e558e6d2",
+    "size": 1030
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_8_v11.png",
+    "sha256": "328058dd0d9f9a8a3ec04f84e92fe1bfa37835712576f09a475446163089a2ab",
+    "size": 822
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_8_v12.png",
+    "sha256": "f2cba2132ef232469a5a0bdf027823b711ec6e6789494b0c798827e62f30eb5d",
+    "size": 904
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_8_v13.png",
+    "sha256": "d0028d6fb4b1ea8937c383ac5056763cedc3513ff7e2d56d9afd507e8efd2e98",
+    "size": 796
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_8_v14.png",
+    "sha256": "264cdda43db3c96814676bd5f46520d92c48e5ca324dd48cbccff3464e9fed25",
+    "size": 707
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_8_v15.png",
+    "sha256": "cf9adb539786d407b832eb1d8734c1db2a008a2eac819e606190a647f06e76a6",
+    "size": 752
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_8_v2.png",
+    "sha256": "e28c1d3ea3b916ac5d4cfb545ae775a02047717b615550f586f934b8f669fed3",
+    "size": 833
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_8_v3.png",
+    "sha256": "76fc67e59a26bbba4ae3152a5c0cf23970e880f4e86058c900d7b3542a222e99",
+    "size": 602
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_8_v4.png",
+    "sha256": "faf45ca277892112335d4e31a4ef9eaf217e57b342e6bb9982b5d042de331811",
+    "size": 730
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_8_v5.png",
+    "sha256": "d6fd16ae7ef00f98b19b7905e54abca3cc8ef4ff3865980fa714d00e25950b31",
+    "size": 771
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_8_v6.png",
+    "sha256": "72400f15a2fa839f65e75c02ff7087608d9a1b673c47a3edd1dc098723069a94",
+    "size": 849
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_8_v7.png",
+    "sha256": "45c0423243b0aebefde67c5475a71f30a28d625b5815e916b4a6935b062742c3",
+    "size": 789
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_8_v8.png",
+    "sha256": "d82118e7eeb9d2288745abead2d53104f07b076b2b0bce91b64f95bde0d184b0",
+    "size": 840
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_8_v9.png",
+    "sha256": "cf5f053defe7933e56e71d9bd658585a110cb1740b6f3f1942eaa70af06cd363",
+    "size": 824
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_9.png",
+    "sha256": "05d3d79916d2b59790354296e39b80a690cc2dbd3709a4b91ac5a8281e4b49f7",
+    "size": 1376
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_9_v1.png",
+    "sha256": "f7e5ef1a5bc991ab97099a6fa7770e187c6ee3e21df66fc3ee0cade776c5aacd",
+    "size": 1009
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_9_v10.png",
+    "sha256": "284d9620940fc1600748359c053487a37ad524389b9129a213caa59cc5960af2",
+    "size": 1618
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_9_v11.png",
+    "sha256": "216506835082395d168dca9c148300e7961cf36dde6095935ed42c2ecc3a0733",
+    "size": 1305
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_9_v12.png",
+    "sha256": "df64426836c61cca906012cd4f13cf6f939ff2a72d4ca6684e69dc78f8ad4afc",
+    "size": 1526
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_9_v13.png",
+    "sha256": "eb3579ce02d7712cd506b064d34ea346255040faec4c9d4b47b48cc410348dac",
+    "size": 1403
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_9_v14.png",
+    "sha256": "41869a052b576780dffd2c67521442df07303d0e7ff035ed84506fb1b094dd31",
+    "size": 1147
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_9_v15.png",
+    "sha256": "5e2b57d8a2f6038b78459b003690f4159086c501190ff787fe38bae1e8f172f1",
+    "size": 1189
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_9_v2.png",
+    "sha256": "cbfad061401677bf3e07c4c450df9045ab1e4f4e60b44223100b7c44b4716192",
+    "size": 1238
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_9_v3.png",
+    "sha256": "b93fe620139874960e9c6ac88d68d02fa616cfb1eacea3070b822bace8328d87",
+    "size": 953
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_9_v4.png",
+    "sha256": "28eaa3f8b09ac9720cde22ceb7cca64b11ba1636eb30e919109e7db81bbfa228",
+    "size": 1271
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_9_v5.png",
+    "sha256": "f8e55743e006517d12422bc9640e81cb589880cb988fff4f3a1ceea5cf0a9bf3",
+    "size": 1235
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_9_v6.png",
+    "sha256": "5d9649953401ad3ad2006903835b64cb6abe8bb3a2bdcc015b9b0f1fa26275d3",
+    "size": 1420
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_9_v7.png",
+    "sha256": "feb4789057ed13c05b6f7646094032bd4390a4ca517400f9ba945286ea2ae201",
+    "size": 1250
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_9_v8.png",
+    "sha256": "065dce35b4c49f696508125976e16f29d8541e42983356a805db98e6135045b9",
+    "size": 1353
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_base/tile_9_v9.png",
+    "sha256": "747c34f573a1186bf336c8be3cd918828fe92f84443e0e6b9908f6c368d47384",
+    "size": 1397
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/labels.png",
+    "sha256": "e5ab3b5bda645a0af15a84d72d732a7654aa634b0657e36b8861c7f3adc15ef9",
+    "size": 4708
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/ramp_0.png",
+    "sha256": "9e188bed129e12b726a05807dcb328c8d6c9e972a28d0a704575d77b41b22929",
+    "size": 6740
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/ramp_1.png",
+    "sha256": "812f7172f112e1de2d3028dad67d1d150df0cab597b5f8058a92fffd03922663",
+    "size": 10631
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/ramp_2.png",
+    "sha256": "31dea9dd710d0e70ec10c18f9dbc643fed42af1a5405351c81db0bfebf17a907",
+    "size": 6307
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/ramp_3.png",
+    "sha256": "5d68767dcfc08f0a4e046a74ba94b62f57de6191b322bf67047600cbab1e62fe",
+    "size": 10822
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/ramps_labels.png",
+    "sha256": "0b92cd3ba700aaff2e018115210b65d611b889c9b3e74944e5befdfc100c506f",
+    "size": 1617
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_0.png",
+    "sha256": "437d17d77862036b2380f058f7ab441bcd5dd316367d3b2393630434c4bc9b1f",
+    "size": 133
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_1.png",
+    "sha256": "769f29b85fbc09af0b52a48f3e4c7b378f25ad225f8b4c0e00bb9178b84ef9f0",
+    "size": 10639
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_10.png",
+    "sha256": "003f58b667a80b0499877927ea4810d4ca7f45b0933c23f58488f73821e92051",
+    "size": 15880
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_11.png",
+    "sha256": "544c6d15fc4f13e7b462fdd0102627862ad7f1106fd6ae1232dbe69a795bda48",
+    "size": 19814
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_12.png",
+    "sha256": "75594e176f2e801e86edbd7189cf0014c25f23bb1cc52ab9242fb5f6dd3c9c5b",
+    "size": 16005
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_13.png",
+    "sha256": "71c387b3533f7a5506450b84c74986cd973201e94dbb578d1722686310c14f4d",
+    "size": 19685
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_14.png",
+    "sha256": "57f1822002d6bf0ae77c2e6e1dbfcecbcafaaca55d8da6334b3dac3b6e68d6ae",
+    "size": 16796
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_15.png",
+    "sha256": "c0d72c2932c78b36a64946b5e56b558912e7a548fa5de88958b000052de7e97d",
+    "size": 17946
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_2.png",
+    "sha256": "11c35ad8b9d1bcd5b8f191c6cc9c0f8e537bcc6f81abfbba93b3d0d443ef54ce",
+    "size": 11434
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_3.png",
+    "sha256": "f39a62b8738b330a01e0ce9641bd9c9a32cf6b28bb493f8cc65b019dde686574",
+    "size": 15835
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_4.png",
+    "sha256": "1ec8d2aa1135e80fdc270978f7d3faff8e85d77a8c48ac23c888067925783b68",
+    "size": 11534
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_5.png",
+    "sha256": "71fc1cd6c0d3ed739f83914245bf60288c6648bfd06ccbf8d17523d89efc93c9",
+    "size": 15631
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_6.png",
+    "sha256": "ffdbf07b867278e74f24e09263237e4207d5cb29a9ae9c7951d03e18449ef3bf",
+    "size": 14013
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_7.png",
+    "sha256": "b817a2fca5feb620db30240afd1a4fae287c72a585f81d64a491d9b521c504cd",
+    "size": 16553
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_8.png",
+    "sha256": "62eef5342c5f452af34208ec1805b2db6f85136e8e7e0afc6fc6d57232a937bf",
+    "size": 10793
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_9.png",
+    "sha256": "dd1c7727a9465bd4c9a53b5e44b0135f00a36c9c6fdabaa762c7987fa37db019",
+    "size": 19919
+  },
+  {
+    "path": "uploaded/warps/dive_into_desert_1.png",
+    "sha256": "e9ef11444406b8fe89912f059041780a8b5b2f67a9497b6d54722a8f7b482776",
+    "size": 31438
   }
 ]
