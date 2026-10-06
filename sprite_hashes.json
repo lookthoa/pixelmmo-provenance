@@ -12843,5 +12843,10 @@
     "path": "terrain/tiles/forest/road.ramps.png",
     "sha256": "e488a40fb72ab9652d9fd52edcafe9e1b068fecae71defacf49dfaf5027add51",
     "size": 3364
+  },
+  {
+    "path": "uploaded/special_items/warp.png",
+    "sha256": "e3c22fdb7bc506715385a207264bafc32104c13771fee855903446d13aba7356",
+    "size": 6365
   }
 ]
