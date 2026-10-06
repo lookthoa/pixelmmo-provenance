@@ -15633,5 +15633,10 @@
     "path": "terrain/tiles/cave_desert/iso_edge/tile_9.png",
     "sha256": "84a9f1bbdb254030124b2310bbed2a379eab74f9ee3054e21fd16465585665a8",
     "size": 19415
+  },
+  {
+    "path": "uploaded/warps/dive_into_desert_1.png",
+    "sha256": "9eed586a52bc74608b50dc8d47c1bb5bc6f62b0d3145f3d17886815d35669c5f",
+    "size": 31162
   }
 ]
