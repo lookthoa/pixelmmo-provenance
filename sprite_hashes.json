@@ -14058,5 +14058,10 @@
     "path": "terrain/tiles/dungeon_test/iso_edge/tile_9.png",
     "sha256": "90d515ffd4d8e8a0c9552039ffdfd0382e4a6bd243870c4c75481702db25cd9e",
     "size": 13242
+  },
+  {
+    "path": "uploaded/special_items/torch.png",
+    "sha256": "13fe37879013b0757543b7c28249b23e851784079fd788be83f2223afefa886c",
+    "size": 669
   }
 ]
