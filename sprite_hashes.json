@@ -15528,5 +15528,110 @@
     "path": "uploaded/warps/dive_into_desert_1.png",
     "sha256": "e9ef11444406b8fe89912f059041780a8b5b2f67a9497b6d54722a8f7b482776",
     "size": 31438
+  },
+  {
+    "path": "terrain/tiles/cave_desert/edge.png",
+    "sha256": "53c3d886c84a3408d9c449c9fd6b6895b48200c32df404251f29cc65d2ddb453",
+    "size": 88501
+  },
+  {
+    "path": "terrain/tiles/cave_desert/edge.ramps.png",
+    "sha256": "9eb19d13813a45766b771abeb3858c727454db40ce97532d1edf7cbf77d3cf05",
+    "size": 39874
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/ramp_0.png",
+    "sha256": "301ed1b92a12973b9d705e7411100b9433b444276180cea78badd4d532476c7b",
+    "size": 6646
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/ramp_1.png",
+    "sha256": "b1610254585f016fbfecbb45f4e4f0165f2153a3a8b59c4373ed32474cc6a686",
+    "size": 10342
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/ramp_2.png",
+    "sha256": "8ad59a27bc4ba65a06759e6d1e7a68b2e111808a44e803c89d7bbb6e4a7ac89b",
+    "size": 6153
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/ramp_3.png",
+    "sha256": "96af55cb2bfcb78cfa8ca2774935df263de2e4eec7aaa25788354700ef43b1d1",
+    "size": 10820
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_1.png",
+    "sha256": "f8a7f4b9b353dc9a8db8546b76b68e79e74daa8756f830eb44ba2c6dc5e7977b",
+    "size": 10431
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_10.png",
+    "sha256": "a37e4c79942c6ec97ec02f0e6c90a6c47b05c67448b83553260fdbac33ba03c6",
+    "size": 15371
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_11.png",
+    "sha256": "40a603e236022c20cdb3e35eb7c69581414ae93f9d2f54a0dd6193921d272fb1",
+    "size": 19434
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_12.png",
+    "sha256": "198d2864fea167504eb84be41117a20d2a0f4bdfb82462ffe0429c41d75a57f1",
+    "size": 15607
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_13.png",
+    "sha256": "21a0b863be42fdb15fe5a996c05b52b4ddb4ead647e319c3c49d432fd1f34a25",
+    "size": 19293
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_14.png",
+    "sha256": "2e0477de8e7590fd8872caeec9fdaa6fb88e84dc1ffd7de2c1d77214af2e6b6f",
+    "size": 16452
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_15.png",
+    "sha256": "587016057b9337b020383e1bf4b55b74054122c021ac22ea82f4e65a60299f9a",
+    "size": 17641
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_2.png",
+    "sha256": "81dc1f0164840c7a43314bcd2f918eee8b8899c0fc07d5c81e6b2d9ac42ab7cd",
+    "size": 10902
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_3.png",
+    "sha256": "531d213ce29a189149613b2bca60a65cf3ee7e3f2571d2589d4be0f1e34e9108",
+    "size": 15434
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_4.png",
+    "sha256": "77a1073b9efb9407a09fa1e04d64a020366658e40fef875ebfaa77bb8a2157d4",
+    "size": 11140
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_5.png",
+    "sha256": "d666a9b58a18d85c108210221153ef8a9f2b05a5ad4f0cabb1c8b078c2cb3c0f",
+    "size": 15324
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_6.png",
+    "sha256": "3ba8ca371b48be46f8f7ce05f9e2de2d0e9d29fd1b0986ec83942db6c86fe7b7",
+    "size": 13640
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_7.png",
+    "sha256": "1d9bc940196d50dd5b18347415739a5bf76f0e9236fe90a8d9fa1601c5ffd78c",
+    "size": 16136
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_8.png",
+    "sha256": "c06c7813d06bcffdf95e03f7f8f967b9aeb4bd11d664d060c1c00c9a8507225c",
+    "size": 10567
+  },
+  {
+    "path": "terrain/tiles/cave_desert/iso_edge/tile_9.png",
+    "sha256": "84a9f1bbdb254030124b2310bbed2a379eab74f9ee3054e21fd16465585665a8",
+    "size": 19415
   }
 ]
