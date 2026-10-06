@@ -13593,5 +13593,395 @@
     "path": "terrain/tiles/forest/wells.png",
     "sha256": "58911f982a40a530d4d75c0289a0bda60e5f66ec7d7d0a87bf796cd096f1ee37",
     "size": 7131
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/base.labels.png",
+    "sha256": "51b4300bbd5d30cd332868b7dbf60dc6878ffcecf6e4f0541f6c7fe1a599b99a",
+    "size": 10555
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/base.png",
+    "sha256": "5d7bdda9d5060c100b761961edfdbade97d05c19e82a468a4c310f4277eff0e0",
+    "size": 43091
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/labels.png",
+    "sha256": "51b4300bbd5d30cd332868b7dbf60dc6878ffcecf6e4f0541f6c7fe1a599b99a",
+    "size": 10555
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_10_v3.png",
+    "sha256": "0ee8fd382a2c80080b9f8f9e4e2ffbcd53f9640b9b277c5d58fc5c90b105c49e",
+    "size": 1032
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_10_v4.png",
+    "sha256": "958faa899c280d2132e4f1987254d8808cf286819c6ce262f921b00116c9cf09",
+    "size": 1194
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_10_v5.png",
+    "sha256": "38d6b4587ff3e26458e0015d59586af09e2756d6023bf3f8a8c4c40def02dfb9",
+    "size": 984
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_10_v6.png",
+    "sha256": "4372ba4b9ce6a00893ba22f875e6342d55ad9b8acf448535d2cd5dc02f447eb2",
+    "size": 1234
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_10_v7.png",
+    "sha256": "6cd4a4600035b08d802a7c9b1cbbe59d9f34cd032ff2a731905cac757bc9d197",
+    "size": 1164
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_11_v3.png",
+    "sha256": "14c938027d58a496faff041aa00c3db97b515fa9615b51c31122a0b51c014622",
+    "size": 1288
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_11_v4.png",
+    "sha256": "5dcf5683eded38b6c3e6c6507184aa1e9713bd65e0e8f317dfa57453b0a9ad78",
+    "size": 1417
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_11_v5.png",
+    "sha256": "b403462affe4c88f34dfcfb3af882c226356b2e4847fb7b6713e37579fea95f4",
+    "size": 1250
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_11_v6.png",
+    "sha256": "ab889823f964fec82231fb4516a45ff77e7fabb5df9ef5af0fdffa5864975cd5",
+    "size": 1550
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_11_v7.png",
+    "sha256": "39ea39ec36750b3266e7348efc4f4ec94cf2c1bd2d09a5f342fbf4be5a8d6ee5",
+    "size": 1454
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_12_v3.png",
+    "sha256": "d6019a08d36ed5b812c917cda624d2bccd4e902eba1ab4a6eb1f58d251f26c9c",
+    "size": 1041
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_12_v4.png",
+    "sha256": "62850f15a82f269ade4c475e817aebb3b1fd6306b3e780d8e8f7a24f2a83a878",
+    "size": 1248
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_12_v5.png",
+    "sha256": "812991063e4082f9cb6fbb8bdcb2bebbbc5c2812ce1672a4e25d9452a05327bd",
+    "size": 1012
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_12_v6.png",
+    "sha256": "2d49214751359739586f966a1e58c65c7e74509e8e455ec955077bdc04ecf5c5",
+    "size": 1269
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_12_v7.png",
+    "sha256": "c66db97b212322410ffc522b93099489a59c6a758929116ca3a62a0e4a854232",
+    "size": 1154
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_13_v3.png",
+    "sha256": "5a6529a6c41fc365620298600a0a7d2c72744523003e435b97d6b08e66ee9fdb",
+    "size": 1302
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_13_v4.png",
+    "sha256": "b895f211d43fc018b0f915e5c799d2e279fccad17cd677f59e28963fc5bde39b",
+    "size": 1447
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_13_v5.png",
+    "sha256": "3c9b71c4cb47ee8f344f39ee0b36df4b77e40e522e5d99010e92a66c62232f92",
+    "size": 1303
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_13_v6.png",
+    "sha256": "6b1fbb2f935d25c6b35aac6d436436f12c305045b3a495942f6421a5269b0a1a",
+    "size": 1559
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_13_v7.png",
+    "sha256": "24b65e5b42ffe4441bc530048e2629b3840b137f5a0416c6912f1b236ae720bd",
+    "size": 1459
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_14_v3.png",
+    "sha256": "20c947826cf05c0ca512ace0e9dbd188da4d321c1b5543f9a9beddbf85529f2a",
+    "size": 1311
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_14_v4.png",
+    "sha256": "e1520794086ec576e0b309dbf12e7ddad45c2ef1f14e41fad28571bf60e3785f",
+    "size": 1533
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_14_v5.png",
+    "sha256": "e01afb771c75266f2c45849bfcb1df559f5afef6c0861ccb69cbb70b842835e1",
+    "size": 1335
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_14_v6.png",
+    "sha256": "45c816a8039cef233dcda8940cf1dce6f7b3d93775558831837a27a6d83ed8b6",
+    "size": 1673
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_14_v7.png",
+    "sha256": "907b31f5903a529844db1a121ccad668e9c7575c85e00d3a46846522d8152a01",
+    "size": 1523
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_15_v3.png",
+    "sha256": "997a4e8d3e7bd86474233bf94332c15367551e7158f7f28758655590e161a0f1",
+    "size": 1445
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_15_v4.png",
+    "sha256": "d0df8fbe37e4346c8a61b82a96b8445587aa7bd1a996b5487e23999390d2b9b8",
+    "size": 1632
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_15_v5.png",
+    "sha256": "a759366ec14c486b39b9139ae7e75be14ae70c4204ef5658b827b857f6e9c4dc",
+    "size": 1469
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_15_v6.png",
+    "sha256": "b1363bb9b33d4bf9fb611241560dff78fdbf428cc732ba2f5172bc47a6bbeb23",
+    "size": 1842
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_15_v7.png",
+    "sha256": "d25aa6ed0958952f9f5674f1aa9d65cf5039ecc0a810ddae5388230880fb0807",
+    "size": 1716
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_1_v3.png",
+    "sha256": "1b466ba72e6c0f48a2e8bca66088159d538aa68fa6055d647b719e2a4964cb6c",
+    "size": 628
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_1_v4.png",
+    "sha256": "b3675e5173922c535a1cb38fa1efb21c0e0547cef5a94177c8a494d0cfe50a0c",
+    "size": 576
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_1_v5.png",
+    "sha256": "7146191b308322147e229743aab4183ff46ffe02043c4b78a43fcd371c97499c",
+    "size": 661
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_1_v6.png",
+    "sha256": "0a9048be415337800fbe41eeddf9d9239905719e067441d061c0e9f6669cbb99",
+    "size": 688
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_1_v7.png",
+    "sha256": "891b02361a2883068ade4e39ca061559dcf4ce6958fc67b8ab8bc0ac34c096c5",
+    "size": 674
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_2_v3.png",
+    "sha256": "6055fb73d2bf57a40a13e76885a7efc5aff01b89545c5ceb68c2d6969a7d08e6",
+    "size": 704
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_2_v4.png",
+    "sha256": "f48312792aac21990eedac9f3c7f9ca02a3f563c1198b76655597bfb087c1aa3",
+    "size": 699
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_2_v5.png",
+    "sha256": "d25aa4e559c2d42d8e0ef58503ac3c20d8522cfe0b6b44c2c66dbfee2128abca",
+    "size": 664
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_2_v6.png",
+    "sha256": "f4732b0d04933aad0a5677f5ad6ba2379477c25fe8ea3bbc5ebc70e1df5bfa91",
+    "size": 838
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_2_v7.png",
+    "sha256": "acc1d473e1466a689aa0f64780de95200fd2d4f63455d0f762a2ff359abbc91b",
+    "size": 816
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_3_v3.png",
+    "sha256": "bffecc7a9ff3c444d00fc6a9c9ece562edec212eaabadddd1aa0a35243e4f82f",
+    "size": 971
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_3_v4.png",
+    "sha256": "1da022cc206dc38b713b2461433fdd042c3f3d0f693f2c72f2b7814c579e6753",
+    "size": 934
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_3_v5.png",
+    "sha256": "fbdffcaae2441117d9d9b197942f6e3f526f29a9bb8e66e0734d2753ba62612a",
+    "size": 1000
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_3_v6.png",
+    "sha256": "d7218ee0c8a0dfd96789346efeb567563dfcbca8a628493cfac27757bffad6fa",
+    "size": 1164
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_3_v7.png",
+    "sha256": "40f245ed9c10725ecaed9e47e5b5c31ba391507e97ad46e4bef1b8e8dac8ec38",
+    "size": 1113
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_4_v3.png",
+    "sha256": "e2a05f5bc8a4d3cca3e9c66e6ab074ed5910ae379fac818770392710e5a6e0e1",
+    "size": 631
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_4_v4.png",
+    "sha256": "aaf7e8b8232ad5a9d0c28815e7410dac7dbb9edb52640684c005bcfb2550d689",
+    "size": 711
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_4_v5.png",
+    "sha256": "b758e3ad523c1d7d6c512b5716ba19937e248f16bd88c83b62dc29bd4561590a",
+    "size": 698
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_4_v6.png",
+    "sha256": "a0335ae5f6847f1cf776ee37772a0a2dfafd2481d25a18a3b23fd7d8afb590a2",
+    "size": 819
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_4_v7.png",
+    "sha256": "c9c489e8f5e1e549e71396f961b8f4362c0428f46051bcccca825a6a9105cea0",
+    "size": 773
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_5_v3.png",
+    "sha256": "75daff428d4c1f1423bfb42702738067fbf55ddd67f73b219ae47c946415f283",
+    "size": 931
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_5_v4.png",
+    "sha256": "574b0aca28227cf0ec1843787bbd27283a701b879b033d3448431797b29f122a",
+    "size": 962
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_5_v5.png",
+    "sha256": "453431234fc383b49d7516259d32241dd3523db7eb3bfeeeba8ebb917414baa1",
+    "size": 997
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_5_v6.png",
+    "sha256": "4569b0ab88b55c9add53db2ba509bacfa8ed929bbf9253cf63017fab8d809939",
+    "size": 1143
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_5_v7.png",
+    "sha256": "283e04a5dfb866f6f3440dfe1d57a795f43927d8755884aa8930acfcecead21b",
+    "size": 1120
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_6_v3.png",
+    "sha256": "0bee24df307fac5c57135c6ed0b54172822a0c51b0f68aac155a4062daf0eb8e",
+    "size": 1101
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_6_v4.png",
+    "sha256": "40c1d817d84d22f9d9cee9e6b5898116b22a8471f46d1dc77fdceb90cdf3ef4e",
+    "size": 1158
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_6_v5.png",
+    "sha256": "aabca41de52f8c80bdb8b16b0ce27de8f17c4819893ddb7376d6ec055f3e7fe6",
+    "size": 1123
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_6_v6.png",
+    "sha256": "dbe2bf42590b2aeffd3f83ed547e702b7bbd3a585f38abf4d80cbb2e9b29b114",
+    "size": 1371
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_6_v7.png",
+    "sha256": "f0562c3bbf7a790b6ef467c45dc57daf603c1a586be2ebb1dfad124ecb1f9250",
+    "size": 1326
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_7_v3.png",
+    "sha256": "5fcc61c373b96db38402dc6d8a07ffa57e46cadbec9708d49802c169e3e16a2d",
+    "size": 1247
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_7_v4.png",
+    "sha256": "d68833abc957b549d4941d301938ad45dfee4e1867bee337603b866cd8ef3f16",
+    "size": 1271
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_7_v5.png",
+    "sha256": "f2894824e63bcc7ca2c5d471c7eecac5edaa8e3747ce25f7601b597433f0be14",
+    "size": 1304
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_7_v6.png",
+    "sha256": "86206e0149c05729ac952e44ab8c5a1f75e3300252bf171c3f016d0df3ef487f",
+    "size": 1570
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_7_v7.png",
+    "sha256": "4e8f012330371118bcc2601af1bff0f77a2b8852addeeec794161f5e63d3d517",
+    "size": 1514
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_8_v3.png",
+    "sha256": "0b9de41d6a4e9f20921347790eb55bd0032531bb5e9dacb6d0a7d093b8509cc4",
+    "size": 715
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_8_v4.png",
+    "sha256": "e9619626bd8543d4279d35c336438b4b4a5d32b8d4a7cfce7613516404d2682c",
+    "size": 885
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_8_v5.png",
+    "sha256": "5196945be2769c3c9d8558064c96c1d2f3271c2b91cdbc67b120ec03018af23c",
+    "size": 640
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_8_v6.png",
+    "sha256": "06ad814b99b15c5a305ec3407b5c34a1d0f8e91e4fdb284e2949a88366ab71bc",
+    "size": 790
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_8_v7.png",
+    "sha256": "3dba7f8a558622c1af68e9ce5a5406f130006e3b867bb503c91d58efedbcc58a",
+    "size": 753
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_9_v3.png",
+    "sha256": "deab589f445058260b5700707321b06daede6234e9189d31f753385f06fb8690",
+    "size": 1082
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_9_v4.png",
+    "sha256": "0be2dda85ec7dfdb3914ee60802ae14cd93ebc049d11c16b00a68d8320d5d663",
+    "size": 1172
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_9_v5.png",
+    "sha256": "3a07168d9aa6df7d172d72e79bdd91b90ac4604d9c7ea50aba5484f868fdc6a9",
+    "size": 1035
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_9_v6.png",
+    "sha256": "3df8b24022d80470fd529a88edcf1c5e5103214fe80d844e19a0bb2f1b7f6599",
+    "size": 1199
+  },
+  {
+    "path": "terrain/tiles/dungeon_test/iso_base/tile_9_v7.png",
+    "sha256": "c7c3bbde76e8ad50025f9c7be8e6230d9d81751fef90646b28be09bdba07f2da",
+    "size": 1106
   }
 ]
