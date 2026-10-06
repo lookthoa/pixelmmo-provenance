@@ -15638,5 +15638,10 @@
     "path": "uploaded/warps/dive_into_desert_1.png",
     "sha256": "9eed586a52bc74608b50dc8d47c1bb5bc6f62b0d3145f3d17886815d35669c5f",
     "size": 31162
+  },
+  {
+    "path": "uploaded/special_items/warp_gate.png",
+    "sha256": "44a479358f1ce973934ba0f7ddf67d38d767c1b01e249482954e692542cd5dbd",
+    "size": 3073
   }
 ]
