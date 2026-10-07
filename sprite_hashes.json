@@ -17248,5 +17248,10 @@
     "path": "terrain/tiles/login_scene/road.ramps.png",
     "sha256": "e488a40fb72ab9652d9fd52edcafe9e1b068fecae71defacf49dfaf5027add51",
     "size": 3364
+  },
+  {
+    "path": "ui/login_background.png",
+    "sha256": "a65516cb047496c6caaef21342f10f40a39f3cf2d6051ff1a4ec80b9cab45a0e",
+    "size": 130726
   }
 ]
