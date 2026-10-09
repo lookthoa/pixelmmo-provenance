@@ -17303,5 +17303,50 @@
     "path": "uploaded/grass/spr_u3amg8lv.png",
     "sha256": "e84f3717359510e7d19fdd520cfb24dbe9b5ab64a5cfd2adddf7c38c2fdb4575",
     "size": 15457
+  },
+  {
+    "path": "ui/icons/chat.png",
+    "sha256": "b3c855da6c1fa69a2ef261451fe6251f80a0d97cf69eeb2bee89f7418e3c01fd",
+    "size": 892
+  },
+  {
+    "path": "ui/icons/crafting.png",
+    "sha256": "0667a89b881aadc8c2e7afedebc01c3b1711267b7eca6d08009de1c0983132eb",
+    "size": 1158
+  },
+  {
+    "path": "ui/icons/settings.png",
+    "sha256": "f8ef47c4615c948db9638b8df49898c730930ae064f85cdb090cee956932da84",
+    "size": 1556
+  },
+  {
+    "path": "ui/login_background.png",
+    "sha256": "df4dc0f185dbcca4da47ec60ccc3d1b7c22edd2562780c648e2581e96e3f258a",
+    "size": 172785
+  },
+  {
+    "path": "uploaded/buildings/stone_house_level_1.png",
+    "sha256": "7db419109d77093c7582adc752b3fbdd3a8e924c67d0e44b43e77494f63fe679",
+    "size": 10628
+  },
+  {
+    "path": "uploaded/buildings/stone_house_level_2.png",
+    "sha256": "81bda89d1405d0861d8573ffdcd67f142889a498638952dafc2d1686635b16c5",
+    "size": 11577
+  },
+  {
+    "path": "uploaded/buildings/stone_house_level_3.png",
+    "sha256": "59d687bc91bd297fd95215ffb9d723eac04947100b21917f642345a0e0bdda81",
+    "size": 11869
+  },
+  {
+    "path": "uploaded/buildings/stone_house_level_4.png",
+    "sha256": "32c9dcb2932ab3edd3c204b8eb9d2be05cf57ef22808872d7f79c2f6b917f3c7",
+    "size": 7988
+  },
+  {
+    "path": "uploaded/buildings/stone_house_level_5.png",
+    "sha256": "a9f6edd4b2977e754441411ceb55cdd59c2bc06f707f0afac25eb64e4d7f5c6c",
+    "size": 9503
   }
 ]
