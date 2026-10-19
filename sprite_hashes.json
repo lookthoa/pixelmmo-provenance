@@ -18688,5 +18688,15 @@
     "path": "terrain/tiles/forest/plateau.ramps.png",
     "sha256": "94c1e8ade787b17f6d37c99f442ee30c77e4864db7850e428d4261be16bfcc8d",
     "size": 23488
+  },
+  {
+    "path": "uploaded/items/poisonous_plant.png",
+    "sha256": "497d0af23f689317c724079bf43bfd0fdd759980467517c9b39ffafdc8ff8f87",
+    "size": 1137
+  },
+  {
+    "path": "uploaded/special_items/poison_plant_fortress.png",
+    "sha256": "90c9e0c372bdb2870ff0f6e40cbc109e00c1cc5503a8eaad234bb9b06eeb4524",
+    "size": 6511
   }
 ]
