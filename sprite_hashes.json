@@ -21328,5 +21328,490 @@
     "path": "terrain/tiles/highlands/moundsplains.ramps.png",
     "sha256": "94c1e8ade787b17f6d37c99f442ee30c77e4864db7850e428d4261be16bfcc8d",
     "size": 23488
+  },
+  {
+    "path": "terrain/tiles/highlands/edge.labels.png",
+    "sha256": "b4484d6fbf946d3c33129e7c38cb00b6e6956a4e963181182f8e2ed0d51fdef5",
+    "size": 1615
+  },
+  {
+    "path": "terrain/tiles/highlands/edge.png",
+    "sha256": "866984d45ae858d0518f87df5c15c57ac7299551b33f441fed9bf881f4ecce24",
+    "size": 3659
+  },
+  {
+    "path": "terrain/tiles/highlands/edge.ramps.labels.png",
+    "sha256": "a86b1dbdf3e8c17e77b188e5c1f4517b2e1c57b77a90db25db25dd167c74a0ae",
+    "size": 664
+  },
+  {
+    "path": "terrain/tiles/highlands/edge.ramps.png",
+    "sha256": "e488a40fb72ab9652d9fd52edcafe9e1b068fecae71defacf49dfaf5027add51",
+    "size": 3364
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_edge/labels.png",
+    "sha256": "b4484d6fbf946d3c33129e7c38cb00b6e6956a4e963181182f8e2ed0d51fdef5",
+    "size": 1615
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_edge/ramp_0.png",
+    "sha256": "c7171d2cdd56fbed0d3addfcbd215ce18deb4ef78a62e34e756903e9ea333cdb",
+    "size": 594
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_edge/ramp_1.png",
+    "sha256": "c7171d2cdd56fbed0d3addfcbd215ce18deb4ef78a62e34e756903e9ea333cdb",
+    "size": 594
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_edge/ramp_2.png",
+    "sha256": "c7171d2cdd56fbed0d3addfcbd215ce18deb4ef78a62e34e756903e9ea333cdb",
+    "size": 594
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_edge/ramp_3.png",
+    "sha256": "c7171d2cdd56fbed0d3addfcbd215ce18deb4ef78a62e34e756903e9ea333cdb",
+    "size": 594
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_edge/ramps_labels.png",
+    "sha256": "a86b1dbdf3e8c17e77b188e5c1f4517b2e1c57b77a90db25db25dd167c74a0ae",
+    "size": 664
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_edge/tile_0.png",
+    "sha256": "52241ef53ca49f2cc90db25724d87cabfbfd9dd8439220e907c7e6056fbf17b4",
+    "size": 98
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_edge/tile_1.png",
+    "sha256": "fc8c6dfaf8b5dd7d164e9ec3e5b586349b9a51d7377d979e3033adf5b221d75a",
+    "size": 358
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_edge/tile_10.png",
+    "sha256": "82f2b6c6266395030a6928f82a798ce5e0a6ecbaaa546bb2776eee7b69486686",
+    "size": 581
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_edge/tile_11.png",
+    "sha256": "44336bff31e09190ab0c653aef6030e03793c4249b9056d0240f3b28c709349e",
+    "size": 654
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_edge/tile_12.png",
+    "sha256": "9c32ffe45a948b665435cc24c738f32688ffb05631833189ef20d93ed65b63f7",
+    "size": 600
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_edge/tile_13.png",
+    "sha256": "17d7bd9b76fd7c4d20694ad1c9b0b99b16365498fc8dccc470e9fcb3a5639ace",
+    "size": 712
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_edge/tile_14.png",
+    "sha256": "7cc28946db4ba32e4619aa402ac54a145b44b7f8b3acd3fe28274f92ab2e60ac",
+    "size": 640
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_edge/tile_15.png",
+    "sha256": "c7171d2cdd56fbed0d3addfcbd215ce18deb4ef78a62e34e756903e9ea333cdb",
+    "size": 594
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_edge/tile_2.png",
+    "sha256": "4f6b511c7944e5ec655b9f91b54adde0a7cd304b5b33d84744e99cef970b5e10",
+    "size": 464
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_edge/tile_3.png",
+    "sha256": "d5c8e1904b0a954be0a37a5884072c6db21da45e4a149b8b81ff9b0ba12c37f7",
+    "size": 540
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_edge/tile_4.png",
+    "sha256": "aa5efa1129e6f090b47a4e012472378fac01393ed123f95e2c21a41d97d69a26",
+    "size": 486
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_edge/tile_5.png",
+    "sha256": "aa09c56969a2df79ffe90b5300af45929531565899c45b6fc7fdb5fd5e1513cc",
+    "size": 573
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_edge/tile_6.png",
+    "sha256": "1bef35c5d920899d8ae6eec0cd420b9235528308fd4a4a9a542b783eadf23c27",
+    "size": 623
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_edge/tile_7.png",
+    "sha256": "d45fd36d8acbf642c30deecfaedde47c13e994b9b467a9d30620091982158ee1",
+    "size": 596
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_edge/tile_8.png",
+    "sha256": "860e87bb6dda319742be22b55ab8373feb7dfb964003137f425736fbf9a494c4",
+    "size": 387
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_edge/tile_9.png",
+    "sha256": "6e37122095db1e14f8ac090477b25dc55c6cd7b0221cd138a48bc61c62b307d0",
+    "size": 570
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_outside/labels.png",
+    "sha256": "9d4ec8bb21cfadf7aaaa485782eff69dc3b18d5c45e9041c2654056f61299774",
+    "size": 1470
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_outside/tile_0.png",
+    "sha256": "52241ef53ca49f2cc90db25724d87cabfbfd9dd8439220e907c7e6056fbf17b4",
+    "size": 98
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_outside/tile_1.png",
+    "sha256": "b8273f1053e706b9ed5d8dc99e9f451f10870ecee4be54b94479fd15c0808824",
+    "size": 381
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_outside/tile_10.png",
+    "sha256": "eb6cf788c60610c498f0452ab432cc17704bf78e9c20136f11fe0a8e7735623a",
+    "size": 518
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_outside/tile_11.png",
+    "sha256": "bfb25cfac91294aaece37bb2814e9b0f0a1776bb61268bde362611539190794d",
+    "size": 598
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_outside/tile_12.png",
+    "sha256": "3db74f9484e5749bc2ce0caf4c425adf9e23aa954cd90ec348c910ca0e27fb91",
+    "size": 535
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_outside/tile_13.png",
+    "sha256": "f369b9befd7af476fb13eca068e152a71e8b89dd4b94fe1bf16cd10f5ea14162",
+    "size": 634
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_outside/tile_14.png",
+    "sha256": "91f8114382283c4ea903bd8d05675768d872944142549ca78f4bd495032710fb",
+    "size": 615
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_outside/tile_15.png",
+    "sha256": "8d79286da69dbe6120ba17c0b48fcf8943593b7a1bfa4da0ebb5cf9501a0d7f2",
+    "size": 614
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_outside/tile_2.png",
+    "sha256": "2fb1e7fb1e66885f379b5794ffaf6d13add929ea06811884da31a332af62f2a1",
+    "size": 377
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_outside/tile_3.png",
+    "sha256": "9ea1cdc32f7da489bfb406e6df061732162e74b917e7ecdfc22ab19c80f26f2d",
+    "size": 524
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_outside/tile_4.png",
+    "sha256": "81ec6a9208f9c8ea5f87978c3974fffcbc0a782d93ed832b41e2782586e4aefb",
+    "size": 438
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_outside/tile_5.png",
+    "sha256": "35a45fa3e3021ec681214922f9472a53237f73f629dd9e50ea8ac1c5634072b4",
+    "size": 568
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_outside/tile_6.png",
+    "sha256": "02b881a8b0f35d51361fdf1fbf74e6d20c6637f0bce9d3364d8b5683e0edef99",
+    "size": 582
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_outside/tile_7.png",
+    "sha256": "e858adb070b15c327e906b8b82a141f9c93ee6e4836a3e149de8e7749310f3fb",
+    "size": 626
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_outside/tile_8.png",
+    "sha256": "d63cc03dab739859a13555bf44ca9efaed50c8a3dae672be6ab9f043ef65da04",
+    "size": 369
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_outside/tile_9.png",
+    "sha256": "79e32adadfe2b3ec6ed205b2015ced1973a7a6f332e37efed34dfe5f00e65896",
+    "size": 528
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_road/labels.png",
+    "sha256": "87a8438ae32bbf8faa96c659c8c7ef34c925354f50f5795ee1f527f041947666",
+    "size": 1343
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_road/ramp_0.png",
+    "sha256": "ade5564926b8e1558e6128502bb4b5eb9ac21903528d5eac6152093e38ab28c9",
+    "size": 5901
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_road/ramp_1.png",
+    "sha256": "ade5564926b8e1558e6128502bb4b5eb9ac21903528d5eac6152093e38ab28c9",
+    "size": 5901
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_road/ramp_2.png",
+    "sha256": "ade5564926b8e1558e6128502bb4b5eb9ac21903528d5eac6152093e38ab28c9",
+    "size": 5901
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_road/ramp_3.png",
+    "sha256": "ade5564926b8e1558e6128502bb4b5eb9ac21903528d5eac6152093e38ab28c9",
+    "size": 5901
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_road/ramps_labels.png",
+    "sha256": "a86b1dbdf3e8c17e77b188e5c1f4517b2e1c57b77a90db25db25dd167c74a0ae",
+    "size": 664
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_road/tile_0.png",
+    "sha256": "52241ef53ca49f2cc90db25724d87cabfbfd9dd8439220e907c7e6056fbf17b4",
+    "size": 98
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_road/tile_1.png",
+    "sha256": "61b4aa88f9057bee677a3f6fbf86ce6fb21915487778e8237c733e11983bc2a9",
+    "size": 1724
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_road/tile_10.png",
+    "sha256": "7c7a78237465f48b177424bd06445563f2de2aa47c9efdf65f999ccac17b1488",
+    "size": 3238
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_road/tile_11.png",
+    "sha256": "c5324975f4e2723be2757567a57f63ed848439922418bd2189cb151cfe7a064b",
+    "size": 4588
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_road/tile_12.png",
+    "sha256": "a59c2a0360deae324b702286c70102f4ae5e0099f3e7c3b332f0491299a4a559",
+    "size": 3194
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_road/tile_13.png",
+    "sha256": "223b74eee231dd62482ea93dc77e1a0b7e24d341059ab2fe16eb00f4eb57b982",
+    "size": 4565
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_road/tile_14.png",
+    "sha256": "7e0135735d6411791288950f190ddf40f7eddc71e551e5fcfe591228ac8b920d",
+    "size": 4652
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_road/tile_15.png",
+    "sha256": "ade5564926b8e1558e6128502bb4b5eb9ac21903528d5eac6152093e38ab28c9",
+    "size": 5901
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_road/tile_2.png",
+    "sha256": "d0b08261f738d4666355880dc8999ae1e69218fde2a6c9be1ec9887f10f8afc3",
+    "size": 1790
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_road/tile_3.png",
+    "sha256": "d6ea6682a8e76f3173676804b734552728c7012a49c185650a8d90124ca18f49",
+    "size": 3219
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_road/tile_4.png",
+    "sha256": "ee425bc23a48c0e7197b5a6e7d3c6c5b9c2e004ed32bacbf790bd806de01609f",
+    "size": 1723
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_road/tile_5.png",
+    "sha256": "a234d28edf6641809779f875fc7a43188d05138886ed4c981ce19110d7aaa8b3",
+    "size": 3160
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_road/tile_6.png",
+    "sha256": "1d1cb8fa8091f98c4353f18bfa01090811ab852fd2a52d755ab7955a57c406b1",
+    "size": 3283
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_road/tile_7.png",
+    "sha256": "e861ac19655e5f661e9a610a0d4c666ed1eeef0371fd05e3f0da17dd261df2dc",
+    "size": 4607
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_road/tile_8.png",
+    "sha256": "5d665b91e473638e9036389b9528a5d83b8277df52f3ede10ad3f92a64c43b6d",
+    "size": 1746
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_road/tile_9.png",
+    "sha256": "b5c91f235dfce42cd95be6ccc9752434da6167ad3f849f1d2393a72739f7fd6e",
+    "size": 3137
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_wells/labels.png",
+    "sha256": "b37e86a410a94b52e782dfa5df9ae4fa9fb3dbe865e518a6d032276c8e77bca7",
+    "size": 1731
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_wells/ramp_0.png",
+    "sha256": "52241ef53ca49f2cc90db25724d87cabfbfd9dd8439220e907c7e6056fbf17b4",
+    "size": 98
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_wells/ramp_1.png",
+    "sha256": "52241ef53ca49f2cc90db25724d87cabfbfd9dd8439220e907c7e6056fbf17b4",
+    "size": 98
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_wells/ramp_2.png",
+    "sha256": "52241ef53ca49f2cc90db25724d87cabfbfd9dd8439220e907c7e6056fbf17b4",
+    "size": 98
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_wells/ramp_3.png",
+    "sha256": "52241ef53ca49f2cc90db25724d87cabfbfd9dd8439220e907c7e6056fbf17b4",
+    "size": 98
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_wells/ramps_labels.png",
+    "sha256": "0d2383fa9d702068b93be6e4dfe8ad347b5697c172f186bb3aae80b657870ea8",
+    "size": 98
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_wells/tile_0.png",
+    "sha256": "52241ef53ca49f2cc90db25724d87cabfbfd9dd8439220e907c7e6056fbf17b4",
+    "size": 98
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_wells/tile_1.png",
+    "sha256": "0a32249dfcd5a8ad844771f2abca4f76e6efed28124dc083455d06265bad703c",
+    "size": 864
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_wells/tile_10.png",
+    "sha256": "f7bc07f02f1f091eccb81ceba9c7d8e8f9270a6832b1aaf5dc5f4a37cbe3b08b",
+    "size": 564
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_wells/tile_11.png",
+    "sha256": "93c5e3131f49893b37c4ac19a7c9f415b119da91ac6a7934542d700ac1edaaec",
+    "size": 621
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_wells/tile_12.png",
+    "sha256": "210ce1378a36c2ee786ecc5eba0e7c4dfd44b66831383ee2867e5ed0612315a1",
+    "size": 1678
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_wells/tile_13.png",
+    "sha256": "2e1569bf3f13d9ee8da62e9c5dfdb551ae18d73572ff9dcda52ead96f3124324",
+    "size": 2060
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_wells/tile_14.png",
+    "sha256": "5071540f97100d26c33877c6cf58b9e8eb0a3e3bf26bc20c5011b8ffff9d19d9",
+    "size": 806
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_wells/tile_15.png",
+    "sha256": "db8a58cec82c119cc972bbd914f29aede545338967135b7f54aabe12f22feed6",
+    "size": 650
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_wells/tile_2.png",
+    "sha256": "722e817f5864df0162b5f0b623a93d44eaf94039387a9689a284fe30ef181376",
+    "size": 401
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_wells/tile_3.png",
+    "sha256": "8301893f0709d085f6ae0f43dc13ccef7a596bea96d0650d67e4725ee23c8aa9",
+    "size": 525
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_wells/tile_4.png",
+    "sha256": "fbb9f1f0908d325bb0d7cdfc37a40ddbbbfc64760e135b342ca9c178b33ad406",
+    "size": 1206
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_wells/tile_5.png",
+    "sha256": "6376ea87bc141fc91990a7d35be1dfd22d2091aec46def7c857fbbe655aecd68",
+    "size": 1672
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_wells/tile_6.png",
+    "sha256": "09bfd668204c46c7de27e8022acfc0721de9a15d79496af6192a03ed09ed3564",
+    "size": 821
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_wells/tile_7.png",
+    "sha256": "6ba598c011583bf7605e98107a32d96e1a47525c7dce740bbd0fd53da81a3168",
+    "size": 805
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_wells/tile_8.png",
+    "sha256": "e7876a733b9bdaf9ac8e90810acbb1dc36500905a9ac987913bd4a10e6864724",
+    "size": 908
+  },
+  {
+    "path": "terrain/tiles/highlands/iso_wells/tile_9.png",
+    "sha256": "a845554d49445ec5988552ce7b07d1333c75d76a223c291eff0b9cc1dab343b1",
+    "size": 1483
+  },
+  {
+    "path": "terrain/tiles/highlands/outside.labels.png",
+    "sha256": "9d4ec8bb21cfadf7aaaa485782eff69dc3b18d5c45e9041c2654056f61299774",
+    "size": 1470
+  },
+  {
+    "path": "terrain/tiles/highlands/outside.png",
+    "sha256": "84d44d724eeb4d7c53682fcc13b798d0c44c2c9e3ab4a0f91820237401cbbffd",
+    "size": 3446
+  },
+  {
+    "path": "terrain/tiles/highlands/road.labels.png",
+    "sha256": "87a8438ae32bbf8faa96c659c8c7ef34c925354f50f5795ee1f527f041947666",
+    "size": 1343
+  },
+  {
+    "path": "terrain/tiles/highlands/road.png",
+    "sha256": "77c506e15ce1678876442c1692c2dc4e2142ebc8e3c45cee36ba77d5b4a903c5",
+    "size": 19647
+  },
+  {
+    "path": "terrain/tiles/highlands/road.ramps.labels.png",
+    "sha256": "a86b1dbdf3e8c17e77b188e5c1f4517b2e1c57b77a90db25db25dd167c74a0ae",
+    "size": 664
+  },
+  {
+    "path": "terrain/tiles/highlands/road.ramps.png",
+    "sha256": "767002f997d9e574c2e377cec8fa98691e1082e67dca85ad8da2d4b435873958",
+    "size": 11285
+  },
+  {
+    "path": "terrain/tiles/highlands/wells.labels.png",
+    "sha256": "b37e86a410a94b52e782dfa5df9ae4fa9fb3dbe865e518a6d032276c8e77bca7",
+    "size": 1731
+  },
+  {
+    "path": "terrain/tiles/highlands/wells.png",
+    "sha256": "58911f982a40a530d4d75c0289a0bda60e5f66ec7d7d0a87bf796cd096f1ee37",
+    "size": 7131
+  },
+  {
+    "path": "terrain/tiles/highlands/wells.ramps.labels.png",
+    "sha256": "0d2383fa9d702068b93be6e4dfe8ad347b5697c172f186bb3aae80b657870ea8",
+    "size": 98
+  },
+  {
+    "path": "terrain/tiles/highlands/wells.ramps.png",
+    "sha256": "6a5f2e755c03043e45094dce3fa6bed69f5596b3efdef15800503c7ad7180b11",
+    "size": 933
   }
 ]
