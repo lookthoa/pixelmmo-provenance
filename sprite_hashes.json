@@ -21943,5 +21943,10 @@
     "path": "terrain/tiles/highlands/wildwood.ramps.png",
     "sha256": "24f1b93a4c620eda34d8e68074c95f16b63ffb8773f41c4be50575da33f333d0",
     "size": 10120
+  },
+  {
+    "path": "uploaded/items/poisonous_plant.png",
+    "sha256": "14003d0cd58fcac5a6b77f2b9ecee2d4d13f7813cc8e332b0ea5479655f99b97",
+    "size": 1154
   }
 ]
