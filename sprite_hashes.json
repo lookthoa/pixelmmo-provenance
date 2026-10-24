@@ -21948,5 +21948,240 @@
     "path": "uploaded/items/poisonous_plant.png",
     "sha256": "14003d0cd58fcac5a6b77f2b9ecee2d4d13f7813cc8e332b0ea5479655f99b97",
     "size": 1154
+  },
+  {
+    "path": "models/lookdev/thorn_bloom_ThornBloomPalette.png",
+    "sha256": "92cb77ca65b14670506652ccf6aeb01ade41ca7fb6c87b50d4dee1566df6f3ea",
+    "size": 307
+  },
+  {
+    "path": "terrain/textures/voxel_grass_8x8.png",
+    "sha256": "fb686976c096de2796bff59d24d17fc2d1d00fe11ace6c7f6ed6467dd47630d3",
+    "size": 306
+  },
+  {
+    "path": "terrain/textures/voxel_terrain_8x8.png",
+    "sha256": "3bfb30fa91ef8b82adb6c8fe825b8ab1cf26522df67524595cbe6adb8779f955",
+    "size": 368
+  },
+  {
+    "path": "ui/character_icons/face_antennae.png",
+    "sha256": "2762a709060e7e3077c75dfa7a16448b176cb793545cc79274528ccfb36da38d",
+    "size": 3699
+  },
+  {
+    "path": "ui/character_icons/face_base.png",
+    "sha256": "ed8ede0ecab1a2fa405e5aeb2aaebc7b07433c9ca65be06eb62b83f500de0c5d",
+    "size": 3672
+  },
+  {
+    "path": "ui/character_icons/face_beard_face.png",
+    "sha256": "6adbed75a77a7837b0b38051f3801a545c1a4cac595253be832fcc914ed04454",
+    "size": 3972
+  },
+  {
+    "path": "ui/character_icons/face_cheerful.png",
+    "sha256": "7c52b40f10d34c2d427d68d300ba1821f9ee3029a45a42a6609335de89cfee00",
+    "size": 3823
+  },
+  {
+    "path": "ui/character_icons/face_cleft_eyes.png",
+    "sha256": "951c46d3ef0dbf7e28d84e08895f2e82cb4c8391cfa4eb56baa2167329f4e451",
+    "size": 3666
+  },
+  {
+    "path": "ui/character_icons/face_cool.png",
+    "sha256": "0c5ed8bb2cbbedcc6f4c06dbacec4beb8659101fffef5ff488d472f24cfc1566",
+    "size": 3579
+  },
+  {
+    "path": "ui/character_icons/face_crafty_face.png",
+    "sha256": "57ebf613c36915cbb4a95103bacadb4465c770019cf7125839c55882d84d2d5a",
+    "size": 3541
+  },
+  {
+    "path": "ui/character_icons/face_drowsy.png",
+    "sha256": "903a513dc4a13727404e3d0bfae74e6c778bbde6d46305dd2e635a829b4367ce",
+    "size": 3562
+  },
+  {
+    "path": "ui/character_icons/face_elegant.png",
+    "sha256": "b1536af4de1dbce96240b0b9320b31639e684bbc04ba2214aea30d7b58e9e468",
+    "size": 3632
+  },
+  {
+    "path": "ui/character_icons/face_elf.png",
+    "sha256": "dc3e90e2456fed88d7711eae0e8be4399db0583938718f6727d846c416f79748",
+    "size": 3982
+  },
+  {
+    "path": "ui/character_icons/face_fighter.png",
+    "sha256": "2680c38ea704f11ad36d3152ee025610652b2ae0bcea8402146a23b1c3a2cb58",
+    "size": 3698
+  },
+  {
+    "path": "ui/character_icons/face_kind.png",
+    "sha256": "f0e60cde26b1912c2e1571504e2757b07c53ec2df7457b2e54e697d7f5ef7bef",
+    "size": 3669
+  },
+  {
+    "path": "ui/character_icons/face_lazy.png",
+    "sha256": "49be125212886664c0c3014e5e1e99f3792d89278c643a7c3023de1e05e11653",
+    "size": 3475
+  },
+  {
+    "path": "ui/character_icons/face_light_sweet_face.png",
+    "sha256": "f1661887328531cd316d3c22148d40eab97515567545eef577dd61a2c6b77bd8",
+    "size": 3913
+  },
+  {
+    "path": "ui/character_icons/face_scholar.png",
+    "sha256": "f9118527756e7ef74ae80c6391d77fb499a68c6a21e6aeebe69a5a2e7f75ee98",
+    "size": 3793
+  },
+  {
+    "path": "ui/character_icons/face_shy.png",
+    "sha256": "e9f235547eed8b3fa4078f08eabf84fbb837af768a953f534142497edc9cc272",
+    "size": 3753
+  },
+  {
+    "path": "ui/character_icons/face_stationary_page.png",
+    "sha256": "77bcc1364d958c9021e3dc6620e392717cb717e3d0d2a2da251138d9b2c942f2",
+    "size": 3876
+  },
+  {
+    "path": "ui/character_icons/face_sunny.png",
+    "sha256": "cff2bbf6b45fd951f2fedcc26b919aed951e12bc27dab83be83a1866e289b212",
+    "size": 3694
+  },
+  {
+    "path": "ui/character_icons/face_swordsman.png",
+    "sha256": "85935ae748a9e9e14dd910e4d4e7d3de5ac35da9d95b5bb786ed4a49b0835006",
+    "size": 3627
+  },
+  {
+    "path": "ui/character_icons/hair_braid.png",
+    "sha256": "917c9b836dd623b79d113061d8a6cd236bbafedcbc5998f586e11911070d0fd5",
+    "size": 4500
+  },
+  {
+    "path": "ui/character_icons/hair_buja.png",
+    "sha256": "f7492b99d2f9a888fd06abc78a0f06640da547d55a4a73c5560d9732e2ea6ecc",
+    "size": 4087
+  },
+  {
+    "path": "ui/character_icons/hair_buns.png",
+    "sha256": "4ead824ab80a7a4014f431dff7ac20f0e60f451d2bde4517d1670cc90364afb4",
+    "size": 4337
+  },
+  {
+    "path": "ui/character_icons/hair_center_part.png",
+    "sha256": "049be788c70d1452b94be350641963a11ee1688626d3d77f5d2626d33f13e97b",
+    "size": 3798
+  },
+  {
+    "path": "ui/character_icons/hair_curly.png",
+    "sha256": "ab7168ffcf9623fef7c9868e410b455cf74b40a2529b1959005b96465ce57c7e",
+    "size": 4351
+  },
+  {
+    "path": "ui/character_icons/hair_hime.png",
+    "sha256": "3890920181f24add5b68ddaa4e204efe4e3e6606492797e1433dc3bd8e143db6",
+    "size": 3604
+  },
+  {
+    "path": "ui/character_icons/hair_kim_huu.png",
+    "sha256": "62df518e98dd534b7bf1a5b3d7c23e69d1e9d64c08c30d43f6631bc478d78969",
+    "size": 4790
+  },
+  {
+    "path": "ui/character_icons/hair_long_hair_bundled.png",
+    "sha256": "a06e9e9ed7fd51bd40929908c2987379f799895d21236622a2d4227c317c5d07",
+    "size": 3792
+  },
+  {
+    "path": "ui/character_icons/hair_long_wavy_hair.png",
+    "sha256": "5655cc4c962343858ea90073cc02e920bb7b0661f9b0aa8793a378581ee053e6",
+    "size": 4557
+  },
+  {
+    "path": "ui/character_icons/hair_messy_brown_spiky.png",
+    "sha256": "b876ab6c6235ac50f5cf6cf7f7d2ec89931485112cd236f947c602eece4a5358",
+    "size": 4658
+  },
+  {
+    "path": "ui/character_icons/hair_mohawk.png",
+    "sha256": "83aca54a9c7b5a8ec40499317c086d2b7e6720fbb4b3ce3c2465edb4f4c29b43",
+    "size": 3911
+  },
+  {
+    "path": "ui/character_icons/hair_neat_short.png",
+    "sha256": "dcfc837d98f33a4e6e7becca72d991eb6e4571e83105e52bd0e0b48681b1f3f7",
+    "size": 3735
+  },
+  {
+    "path": "ui/character_icons/hair_pixie.png",
+    "sha256": "d2d6e24483a6fa69d95e73f9b2d266419e2560f38060014e24bc0f491eb8f6c4",
+    "size": 3899
+  },
+  {
+    "path": "ui/character_icons/hair_ponytail.png",
+    "sha256": "f4568cbd86385774c62e57dcee14862b317e16519f892e2ca450ecc9db7805c2",
+    "size": 3890
+  },
+  {
+    "path": "ui/character_icons/hair_ringlets.png",
+    "sha256": "d4ada225928b9a703d53fce666424e93da03c6ad84f7607cc8d13d3eb4fa370a",
+    "size": 4621
+  },
+  {
+    "path": "ui/character_icons/hair_short_hairstyles.png",
+    "sha256": "f8d26799d4fabd6daa2da4ad2ed01eab17bec89362d87f7defac02f402b1570e",
+    "size": 4040
+  },
+  {
+    "path": "ui/character_icons/hair_topknot.png",
+    "sha256": "2bed788dd0dfb969a31e184211d1a3e1b3feadb3e8f91fb617ef4f260e548abf",
+    "size": 3935
+  },
+  {
+    "path": "ui/character_icons/hair_twintails.png",
+    "sha256": "1540db676231fb86e726b493e6408f3e963d991c2e2a254814e51dd82eb2245a",
+    "size": 4246
+  },
+  {
+    "path": "ui/character_icons/hair_undercut.png",
+    "sha256": "1c854cd1b9cdadb2bdd375de5d4e402791bde1eceb35989da4533a3046925bda",
+    "size": 3630
+  },
+  {
+    "path": "ui/character_icons/hair_wanderer.png",
+    "sha256": "6fcd0c3f144eaf88262f8e8f77448a64c7238b5952230374eb5befd641821ad4",
+    "size": 3910
+  },
+  {
+    "path": "ui/character_icons/head_base.png",
+    "sha256": "22f4a1df2f3ce936bc5cbe9875b4320c914543cc96c2655898471e486524fee5",
+    "size": 483
+  },
+  {
+    "path": "ui/character_icons/outfit_leaf_sets.png",
+    "sha256": "71b52669bb5c235fbc87eecc03e70f8793d4405671cf29c330cef6c1ae1fe8d8",
+    "size": 5581
+  },
+  {
+    "path": "ui/character_icons/outfit_leather_costumes.png",
+    "sha256": "02367aa6ac8cbae5e2da4ce532ff240cf6af8f813800c70c1f73bef647a1c68f",
+    "size": 5087
+  },
+  {
+    "path": "ui/character_icons/outfit_undergarment.png",
+    "sha256": "2e077699c5a332a05d25eabeed3538e7902e51429ffd552d22ccec8e439f5f52",
+    "size": 3045
+  },
+  {
+    "path": "ui/character_icons/outfit_villager_costumes.png",
+    "sha256": "e3542c94157a3ef120a266cacbb7c0fd2dd5657c612623131cac14df2ecc6d4c",
+    "size": 738
   }
 ]
