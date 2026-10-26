@@ -22183,5 +22183,25 @@
     "path": "ui/character_icons/outfit_villager_costumes.png",
     "sha256": "e3542c94157a3ef120a266cacbb7c0fd2dd5657c612623131cac14df2ecc6d4c",
     "size": 738
+  },
+  {
+    "path": "models/lookdev/tripo_bonsai_tree_NormalGL_305610c9-cf87-4a75-afb8-1d27d536cf87.png",
+    "sha256": "59853e7ed843e553fb759f79f8b32f10ba5ac356e43967d88ef449079deeb89f",
+    "size": 681750
+  },
+  {
+    "path": "models/lookdev/tripo_oak_tree_NormalGL_90ca49c7-5d61-4f82-8f08-5d8a15f61336.png",
+    "sha256": "697d76b2680b25a29bad6d573fd39a9f8762a7d12f19d91f784fd878d0a6f26c",
+    "size": 572481
+  },
+  {
+    "path": "models/rig/character_female_VOX_Original_Pixel_Colors.png",
+    "sha256": "e39458553d4b2a57dcaaaf33d4eb0527d636ffb58ee3b512e3f08fb70cb11460",
+    "size": 4071
+  },
+  {
+    "path": "models/rig/character_male_VOX_Original_Pixel_Colors.png",
+    "sha256": "835f6694484d3459e2da4d85269925d386bd28005a919423f44a0265c2e4efe1",
+    "size": 4017
   }
 ]
