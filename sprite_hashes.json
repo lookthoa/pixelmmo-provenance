@@ -22808,5 +22808,110 @@
     "path": "actors/outfits/sailor_set_hat/icon.png",
     "sha256": "7115354c760c9fbf5e771ef5d08ca46bf0c27a3dcbad581692a788050f23eb8f",
     "size": 1280
+  },
+  {
+    "path": "items/icon3d/copper_nugget.png",
+    "sha256": "85653d96baaa9295f59b1a93129dca181f5fb62a1b4a0c78581b2165d622196b",
+    "size": 1664
+  },
+  {
+    "path": "items/icon3d/corn_sheath.png",
+    "sha256": "9e246f11d64994a81b45af3ea48f674714211672c92de26a39bad8035a66fc8a",
+    "size": 1320
+  },
+  {
+    "path": "items/icon3d/diamond.png",
+    "sha256": "15d6ad52cc71dc30eda229127a8f4c871e9ece611b96b52c18299491d11b52a9",
+    "size": 1717
+  },
+  {
+    "path": "items/icon3d/door_wood_slider.png",
+    "sha256": "dc8926f015c7363c2511021508a48e7aa154636705f365a04e8a96726241e1cf",
+    "size": 1410
+  },
+  {
+    "path": "items/icon3d/gold_nugget.png",
+    "sha256": "f05fff70a199296cc7381de1b772db68f91a64c5e4cd4f359a4d4829caf09ed8",
+    "size": 1642
+  },
+  {
+    "path": "items/icon3d/hp_potion.png",
+    "sha256": "9016387022516e1217c8aac13913b98e27b0437b16eb6e50321ba71b3c509494",
+    "size": 1592
+  },
+  {
+    "path": "items/icon3d/hp_potion_m.png",
+    "sha256": "f2a576e521cebb2457bd2e9de9e87fe925789445673493f34c04ef70d5ab15bc",
+    "size": 1479
+  },
+  {
+    "path": "items/icon3d/hp_potion_xl.png",
+    "sha256": "f5d4b54ebe5bb98e837f53ee7a7b07de8da7efb9e428b146273af23cb60a47b4",
+    "size": 1652
+  },
+  {
+    "path": "items/icon3d/iron_nugget.png",
+    "sha256": "d8153f92bb814b1168c822943f447f9c1e8a83ce6eb66cdb82e21e6fdef3841d",
+    "size": 1527
+  },
+  {
+    "path": "items/icon3d/leaf.png",
+    "sha256": "fae0665d768cbc9ecc5e8a42322252b3e4eeab9fd03be3fc0a3c6173f22dd64a",
+    "size": 1162
+  },
+  {
+    "path": "items/icon3d/logs.png",
+    "sha256": "0de90c9b4fea1304d5f2f2814b80772156f9956dd3ed307389707bd789f59d0c",
+    "size": 1718
+  },
+  {
+    "path": "items/icon3d/plant_fiber.png",
+    "sha256": "13f57c2339838e1f3726fdb0955c5d4c33bd03c9830331e8ecbe82ede8e5cf01",
+    "size": 1564
+  },
+  {
+    "path": "items/icon3d/poisonous_plant.png",
+    "sha256": "9aa979c3b2d2bd1460afaec1e8cfe8c546ba5c91fe0e9e2e054bf74da56a26e3",
+    "size": 1587
+  },
+  {
+    "path": "items/icon3d/silver_nugget.png",
+    "sha256": "47d96bfa4ff73427043a70a273c57efee66c2d3563368a68d238903b4fceffe7",
+    "size": 1504
+  },
+  {
+    "path": "items/icon3d/stone.png",
+    "sha256": "318a6deb387c2022fb84da77ac088c746e6ca589366a05ab6e002e11cefd00a7",
+    "size": 1263
+  },
+  {
+    "path": "items/icon3d/sulfur_nugget.png",
+    "sha256": "7fc450896283f769920c8168ea28dc9c46603cc3308294d36013740e5fcb20bf",
+    "size": 1622
+  },
+  {
+    "path": "items/icon3d/titanium_nugget.png",
+    "sha256": "b694109434d8f9bb23033ec8795bed643fd7569c69e400eb5ca1ae33787038b3",
+    "size": 1734
+  },
+  {
+    "path": "items/icon3d/vip_card_1.png",
+    "sha256": "fbf5163d826014bcd4bedf3ca8ff869c65aa12512e344a17db7ca65014e11ed8",
+    "size": 1797
+  },
+  {
+    "path": "items/icon3d/vip_card_2.png",
+    "sha256": "0cbc340bb738a25d153e9fe5c973a279f704e08eb67848155d2ff3cf75b15896",
+    "size": 1806
+  },
+  {
+    "path": "items/icon3d/vip_card_3.png",
+    "sha256": "7a5bf768316b56a3107d85fe9a5fd0abd2567dfbed90a8da91f38e8484cd9d2d",
+    "size": 1818
+  },
+  {
+    "path": "items/icon3d/wild_berries.png",
+    "sha256": "82116cbd06ba57ae8600ac7769e9af7946c2bdb609372d42eadf670812087891",
+    "size": 1931
   }
 ]
