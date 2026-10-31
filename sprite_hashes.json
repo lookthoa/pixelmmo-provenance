@@ -22503,5 +22503,245 @@
     "path": "items/icon3d/wooden_fence_gate.png",
     "sha256": "6845a1a626c27d34540409394aeb99d069df25ada45704158ed1c8065323cbf7",
     "size": 1406
+  },
+  {
+    "path": "actors/outfits/knight_set_bottom/icon.png",
+    "sha256": "aaacb7ca9b1b477eaeadc7f8c3e370217f21e66f2ca09b1645e5889835926e3d",
+    "size": 1705
+  },
+  {
+    "path": "actors/outfits/knight_set_shoes/icon.png",
+    "sha256": "e34da6c33ca8fdfb4173620bff3d989e44edffffe91926ec6cb1d7fe99a298d6",
+    "size": 1561
+  },
+  {
+    "path": "actors/outfits/knight_set_top/icon.png",
+    "sha256": "d99ab6bf83edde3f38c7e30e090517ecb751954432c03bef30aceef3c25d6a5f",
+    "size": 1786
+  },
+  {
+    "path": "actors/outfits/mage_set_bottom/icon.png",
+    "sha256": "0fb6d6a86a6baa91e7d9659f92a71745eedd3a123a928abb727a89d241c438b9",
+    "size": 1298
+  },
+  {
+    "path": "actors/outfits/mage_set_shoes/icon.png",
+    "sha256": "b3fb1daa835fcf0494709c66e73697939c7d266f95f2656750eae6225873a747",
+    "size": 1612
+  },
+  {
+    "path": "actors/outfits/mage_set_top/icon.png",
+    "sha256": "e6335016707c473e1dd5475cc109a908a41e71c1fdc5a373723ce5099b711d70",
+    "size": 1551
+  },
+  {
+    "path": "actors/outfits/ninja_set_bottom/icon.png",
+    "sha256": "ca0ed3a5142b9ddc91343fa1787981dca5561148a4eda7f485608af79a26dcbc",
+    "size": 1481
+  },
+  {
+    "path": "actors/outfits/ninja_set_shoes/icon.png",
+    "sha256": "44545ec66149b8ab3f4513ddfee1ef8f1ca846e50211f5434658bf5f11ed1859",
+    "size": 1528
+  },
+  {
+    "path": "actors/outfits/ninja_set_top/icon.png",
+    "sha256": "69a65a98a16111b7028fd22358658093cdf9a35f1c77f52ab3c5dcd787b25ae6",
+    "size": 1544
+  },
+  {
+    "path": "actors/outfits/nomad_set_bottom/icon.png",
+    "sha256": "5e64f1455eeecabbfc5c623020732080844d0c1bd83ed2726d0cfe2cea357b44",
+    "size": 1530
+  },
+  {
+    "path": "actors/outfits/nomad_set_shoes/icon.png",
+    "sha256": "956a0132758ac4cb8f5d1420f4e9cd9962e99e5eda9023f613ed6f63fa80b61f",
+    "size": 1614
+  },
+  {
+    "path": "actors/outfits/nomad_set_top/icon.png",
+    "sha256": "b81f9c6f482302b5bb99825bd6cb625df1e77f65851d8f0d9243a6459a5d4bee",
+    "size": 1647
+  },
+  {
+    "path": "actors/outfits/sailor_set_bottom/icon.png",
+    "sha256": "a5e94e8037f8799ad898d60699adc67be71e0bab591b2aebe8d4fbd5fb1174e2",
+    "size": 1520
+  },
+  {
+    "path": "actors/outfits/sailor_set_shoes/icon.png",
+    "sha256": "46f6c518c56a19043bba71e6ee6ef9f0a58e3b003048b3888399a8dc8f811e47",
+    "size": 1370
+  },
+  {
+    "path": "actors/outfits/sailor_set_top/icon.png",
+    "sha256": "6e43e2f0d28b1910d7f68bdffc888779f5a3eaf204651a6595343ba9bd72753e",
+    "size": 1646
+  },
+  {
+    "path": "items/icon3d/axe_iron.png",
+    "sha256": "01d372e9520ebbbb5016980d3e8cf36feba40b27c847403ce9ef10505aa4aff5",
+    "size": 1322
+  },
+  {
+    "path": "items/icon3d/axe_stone.png",
+    "sha256": "0e4363e631c8b625cbe50b4ef0844365a5445b6285d2ea8d9eae8f2c4baf9bb2",
+    "size": 1310
+  },
+  {
+    "path": "items/icon3d/big_furnace.png",
+    "sha256": "989822c52d769304cb4e91a3049ef39e0efe0326248ae9c8778761f87ec166af",
+    "size": 1792
+  },
+  {
+    "path": "items/icon3d/bomb_ancient.png",
+    "sha256": "5c9864072e043ca392cd7da6f11cde67a3862b397421414b45987adaa9df62bf",
+    "size": 1537
+  },
+  {
+    "path": "items/icon3d/box_big.png",
+    "sha256": "e9395eecc446a811f6deff2784665dbabb80fde69560082a5121b6c6e05ab141",
+    "size": 1844
+  },
+  {
+    "path": "items/icon3d/box_small.png",
+    "sha256": "400e4083f0f88cb61a0fe9da273a816017cda49c13c5650fe58b7e7b4bfe55dc",
+    "size": 1895
+  },
+  {
+    "path": "items/icon3d/charcoal.png",
+    "sha256": "283c34787938edea38c7540824cd0f94a375bf4542b1029a63548c059ed76794",
+    "size": 1368
+  },
+  {
+    "path": "items/icon3d/crafting_table.png",
+    "sha256": "4df892de0a83a1b257d7007b1bf7c21080c34c84284e416ffbd67cda39883efa",
+    "size": 1808
+  },
+  {
+    "path": "items/icon3d/furnace.png",
+    "sha256": "5fdde75870627106ebb54a099d39373b4754b06a0b234e5a5b59d1c71474a910",
+    "size": 1828
+  },
+  {
+    "path": "items/icon3d/gold_ingot.png",
+    "sha256": "58122f44654bcf9e2349b1a9f13258791d2108a889e8c326028dc69295338fb1",
+    "size": 1307
+  },
+  {
+    "path": "items/icon3d/gunpowder.png",
+    "sha256": "1a1609599377c8999eefedf61ba9094648ce37ced270407f7da4e5a91dbc3ee0",
+    "size": 1595
+  },
+  {
+    "path": "items/icon3d/hammer_wood.png",
+    "sha256": "71357db287ddabcda5e42741f45ee8a1536adf44a6fda928ec623434c3c3d2b7",
+    "size": 1483
+  },
+  {
+    "path": "items/icon3d/hedge_fence.png",
+    "sha256": "363ae14b33a3aacc2104f21a9862050bc3e5e9008d58fd3191aa052b6cecb4de",
+    "size": 1895
+  },
+  {
+    "path": "items/icon3d/hedge_fence_gate.png",
+    "sha256": "1eb5f3960430b15a6866ca1fe7e385c7b7b80862e503c31b7c09158b7f1dd7bd",
+    "size": 1590
+  },
+  {
+    "path": "items/icon3d/hoe.png",
+    "sha256": "26b28da1fe0496aaeac5e1f23202d9973d2cc5398cd4f0f2af7f3be31b0c561f",
+    "size": 1297
+  },
+  {
+    "path": "items/icon3d/hp_potion_s.png",
+    "sha256": "b44eca336436723667ab073ad8f9b2cb86af4f096cada960c68ab43c8abf91ac",
+    "size": 1401
+  },
+  {
+    "path": "items/icon3d/iron_ingot.png",
+    "sha256": "f4e64ababe2c5a655c2c0cf19d733b8f121dc27031dd67e6a35ce3c92d5dfcda",
+    "size": 1285
+  },
+  {
+    "path": "items/icon3d/iron_pickaxe.png",
+    "sha256": "feb76918c5f597b95e3476900474b24d295ef8aa783278145ff5373e1e5d9c42",
+    "size": 1376
+  },
+  {
+    "path": "items/icon3d/leaf_sets_bottom.png",
+    "sha256": "2724defcb631276eb5f50527e3eb647c1a1072541441366e6c990ffd2964edd5",
+    "size": 1560
+  },
+  {
+    "path": "items/icon3d/leaf_sets_shoes.png",
+    "sha256": "82bb50ffd0409937787839822d9a9afed001ba5d7dd96e7bf2ceb73a9df920fc",
+    "size": 1777
+  },
+  {
+    "path": "items/icon3d/leaf_sets_top.png",
+    "sha256": "6059fb069c5e63c26e05e51c8c140faaca76967b0006f9e10b6e8558b647df2a",
+    "size": 1860
+  },
+  {
+    "path": "items/icon3d/plank.png",
+    "sha256": "8aa97338d047f92cc8ed425d5d42877ec0ac77444b995a5479e5302bec8515ba",
+    "size": 1216
+  },
+  {
+    "path": "items/icon3d/silver_ingot.png",
+    "sha256": "0b5191a34928b5b23bcd7c9a7c3154f2d055cc322077204219426e418c0d9076",
+    "size": 1304
+  },
+  {
+    "path": "items/icon3d/stone_fence.png",
+    "sha256": "76fc1ca12aa5b13c238287f556bd89153f117740a8367903d7c1a1488bbb5e51",
+    "size": 1433
+  },
+  {
+    "path": "items/icon3d/stone_fence_gate.png",
+    "sha256": "4e01caa7a710ac1375a62946bbfacf9c38bbfffeaf485d24f50a2950a54105dd",
+    "size": 1465
+  },
+  {
+    "path": "items/icon3d/stone_pickaxe.png",
+    "sha256": "62865b6dfce7411f593301ff1bdb65eebdba308e416dd837a04b76b5356c479d",
+    "size": 1397
+  },
+  {
+    "path": "items/icon3d/sulfur.png",
+    "sha256": "017e0994cf0989ffa066573abc8f46f36566acdd07593d83fcf5ee06014b88bf",
+    "size": 1625
+  },
+  {
+    "path": "items/icon3d/territorial_cabinet.png",
+    "sha256": "09c67bd1ae9b16c921f51fa949744dca5aa958752b6563ac688963fc77889972",
+    "size": 1438
+  },
+  {
+    "path": "items/icon3d/titanium_ingot.png",
+    "sha256": "3d9a759729530d96422992b196ca91d9e74dfb666bb846b0d6e12b69089fdff6",
+    "size": 1330
+  },
+  {
+    "path": "items/icon3d/wood_bow.png",
+    "sha256": "5e670770dcece004b9ef4212b89bc69fcc0d1b92873778497e05cb34bb549218",
+    "size": 1215
+  },
+  {
+    "path": "items/icon3d/wood_sword.png",
+    "sha256": "9b277ffdafe59e4f97c43e31b48f142f7563e389034a683107b9357ff73bd7b0",
+    "size": 1310
+  },
+  {
+    "path": "items/icon3d/wooden_fence.png",
+    "sha256": "1b0fc5b7a5f7834ad8e52c0ff4c3fa085e192ca8a21241507fe06f865bc059bb",
+    "size": 1189
+  },
+  {
+    "path": "items/icon3d/wooden_fence_gate.png",
+    "sha256": "4b0c971deb3cb8c57243d47f94d192464ce6536fd21b0870f697e27cee3780ff",
+    "size": 1383
   }
 ]
