@@ -22753,5 +22753,35 @@
     "path": "uploaded/furniture/wooden_chair.png",
     "sha256": "9d07f0968239542ba2a0b0fcce0aa80bf0c82c7a4c2a30d67a2b90347b25f477",
     "size": 1653
+  },
+  {
+    "path": "items/icon3d/hedge_fence.png",
+    "sha256": "64a1e5bc30effbe18e23da29af2d734ba522f7f6691a79ffa60b7e2d7d9c8626",
+    "size": 1792
+  },
+  {
+    "path": "items/icon3d/hedge_fence_gate.png",
+    "sha256": "ffbd718760dff938d37cd3871af99e0fbb2cb6c865553f8af4008b61b1cb20b7",
+    "size": 1572
+  },
+  {
+    "path": "items/icon3d/stone_fence.png",
+    "sha256": "790e6b2535a17288d89357b6934172c2461e3d9aef336d6f4a0fb4138e5faa10",
+    "size": 1384
+  },
+  {
+    "path": "items/icon3d/stone_fence_gate.png",
+    "sha256": "135a4506589a1a8d846959e0c177707d7d94f88fd46efd960c48bb4d8a444298",
+    "size": 1419
+  },
+  {
+    "path": "items/icon3d/wooden_fence.png",
+    "sha256": "69f5b53967d5d81537b3478284a7064924f48e7c9158a53dd23a930f57f657e9",
+    "size": 1205
+  },
+  {
+    "path": "items/icon3d/wooden_fence_gate.png",
+    "sha256": "c28a6253787b9c00c8f59e1c16ef3fc736ba3eaa492e7081fc78dbaaaf9ecfe5",
+    "size": 1373
   }
 ]
