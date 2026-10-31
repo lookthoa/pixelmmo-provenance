@@ -22783,5 +22783,30 @@
     "path": "items/icon3d/wooden_fence_gate.png",
     "sha256": "c28a6253787b9c00c8f59e1c16ef3fc736ba3eaa492e7081fc78dbaaaf9ecfe5",
     "size": 1373
+  },
+  {
+    "path": "actors/outfits/knight_set_hat/icon.png",
+    "sha256": "d9b6585509f77ff48191a88b4b66d9f6df081e104bc83415ceb2533805f88d2a",
+    "size": 1587
+  },
+  {
+    "path": "actors/outfits/mage_set_hat/icon.png",
+    "sha256": "5cebda323cd0b1bac430919eb20d674ed02f0a08e8dff2bf7617ab81a17a9cfa",
+    "size": 1334
+  },
+  {
+    "path": "actors/outfits/ninja_set_hat/icon.png",
+    "sha256": "2ea9f1f442d53702a83c2955f3e30838cdac6fc8cbfc207d33f0ef2b74189922",
+    "size": 1348
+  },
+  {
+    "path": "actors/outfits/nomad_set_hat/icon.png",
+    "sha256": "e351e694c4313a1ba4e2de9a106d991da52ef3a77d9bbd5d222357b333ddc6a3",
+    "size": 1249
+  },
+  {
+    "path": "actors/outfits/sailor_set_hat/icon.png",
+    "sha256": "7115354c760c9fbf5e771ef5d08ca46bf0c27a3dcbad581692a788050f23eb8f",
+    "size": 1280
   }
 ]
