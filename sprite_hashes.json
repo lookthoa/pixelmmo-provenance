@@ -22353,5 +22353,155 @@
     "path": "actors/outfits/sailor_set_top/icon.png",
     "sha256": "2b472363c148e05eb18a1ac8043b8da45a0241d12e241296b7b8fd0b57397c65",
     "size": 1636
+  },
+  {
+    "path": "items/icon3d/axe_iron.png",
+    "sha256": "c598c33870bf7c9df16efb9ad2998f5afefdf5c360d6e285f5993cea104d775e",
+    "size": 1351
+  },
+  {
+    "path": "items/icon3d/axe_stone.png",
+    "sha256": "035555535f5e3c77bad5e2bab67a54008c86f56affa753f126ffa140a14e2812",
+    "size": 1333
+  },
+  {
+    "path": "items/icon3d/big_furnace.png",
+    "sha256": "344a16ddd71655d123349d682967a28710d34774b54ec7ab5fa5209c33584fbb",
+    "size": 1823
+  },
+  {
+    "path": "items/icon3d/bomb_ancient.png",
+    "sha256": "e1e929eb9f45fba5cf9729104d8c426b8cb08e4f0583fe023533e519c3f43636",
+    "size": 1509
+  },
+  {
+    "path": "items/icon3d/box_big.png",
+    "sha256": "96a9f6cf289ec50773035a92bdc76ab6a04c7b26f7e5bbbdec5a6a051950ecef",
+    "size": 1865
+  },
+  {
+    "path": "items/icon3d/box_small.png",
+    "sha256": "5002ea78907056098ba2d576baee5a09d0ebd2ee2e55e13c98ed742d9033c568",
+    "size": 1918
+  },
+  {
+    "path": "items/icon3d/charcoal.png",
+    "sha256": "2bcfd38b6185c949cbd97b9f5820a94820b84ad1fc968c9ef475508073061af5",
+    "size": 1372
+  },
+  {
+    "path": "items/icon3d/crafting_table.png",
+    "sha256": "a5b23d870fcd7a25c97334b0cbc800cfe9692c016e6b40d72e2302484db21521",
+    "size": 1814
+  },
+  {
+    "path": "items/icon3d/furnace.png",
+    "sha256": "7e898b3da99fb6cfa3dd302ebd1ba6bdd67809a4779f61ebf2a6622124a84a16",
+    "size": 1833
+  },
+  {
+    "path": "items/icon3d/gold_ingot.png",
+    "sha256": "f93c12e277d7536db36a2ad5cc82352fb9a45bd080db0a44f21d2721593e2a45",
+    "size": 1326
+  },
+  {
+    "path": "items/icon3d/gunpowder.png",
+    "sha256": "0620567511db239c241a181c195826719cfaafcc8781df7717d4ba9848859224",
+    "size": 1584
+  },
+  {
+    "path": "items/icon3d/hammer_wood.png",
+    "sha256": "3a70f3045cadffdc99714be3fe2f3e8b865ca3197dbc7e566bc84125d2fa3c39",
+    "size": 1514
+  },
+  {
+    "path": "items/icon3d/hedge_fence.png",
+    "sha256": "f0748f959c30ca29f8795d663d86e1365f9c129dcc6af55b426788511d54aa79",
+    "size": 1851
+  },
+  {
+    "path": "items/icon3d/hedge_fence_gate.png",
+    "sha256": "d9e208846d5be43db36f466e4b4b1c5c5827b95c458bd4962096f85c46c0448c",
+    "size": 1609
+  },
+  {
+    "path": "items/icon3d/hoe.png",
+    "sha256": "4488b4368ba87ac5e7525e55006fb1e5e7505fb93afe46ee8ec0d69d59ab2f21",
+    "size": 1282
+  },
+  {
+    "path": "items/icon3d/hp_potion_s.png",
+    "sha256": "a919891dc566bf463b175d7e889b7fad1d0b5a6c8e80ea23e5ce415500e13472",
+    "size": 1443
+  },
+  {
+    "path": "items/icon3d/iron_ingot.png",
+    "sha256": "581b2b067c723dbb39d0dcd0ee46db7008b5096104b2a9a5ea6dedb6d6c60450",
+    "size": 1275
+  },
+  {
+    "path": "items/icon3d/iron_pickaxe.png",
+    "sha256": "3eff01059e3b4d22fa2437bbabf2d802d11d1e32e814a47b50171f6f3822e1bc",
+    "size": 1388
+  },
+  {
+    "path": "items/icon3d/plank.png",
+    "sha256": "8257dafffeb56f6d301f33e88ccb11abea5546906536ac1191935a6f326873b6",
+    "size": 1206
+  },
+  {
+    "path": "items/icon3d/silver_ingot.png",
+    "sha256": "75eeff92198206b05b80017eb32e1b2587d8d21fe29e627a38e169b9000f312a",
+    "size": 1306
+  },
+  {
+    "path": "items/icon3d/stone_fence.png",
+    "sha256": "36266e5f82208ed5fc9c0546cecd9644e5424ef0279e3e94921c4beb7c45ef0a",
+    "size": 1459
+  },
+  {
+    "path": "items/icon3d/stone_fence_gate.png",
+    "sha256": "687c71333fcb970f236fbd5c8073b8f0863d77186653129a78e67059dca218e5",
+    "size": 1461
+  },
+  {
+    "path": "items/icon3d/stone_pickaxe.png",
+    "sha256": "2ec1583cb54c09f400523ccf2dc8c244d0db2199baaf9f8c541be2d17047ab2f",
+    "size": 1392
+  },
+  {
+    "path": "items/icon3d/sulfur.png",
+    "sha256": "708c4c26a81ac151ad758cf0a382336c308c8e858dd8270eec0ff786a15c979a",
+    "size": 1607
+  },
+  {
+    "path": "items/icon3d/territorial_cabinet.png",
+    "sha256": "b8b2bf031e5b65dd26473c60983ac43217c48f7ba6b6ee0b48b166b5bd09b042",
+    "size": 1454
+  },
+  {
+    "path": "items/icon3d/titanium_ingot.png",
+    "sha256": "4a3befe5175b83a69fdc0f069767d7afdd1721d0d4136fbc30f06f799096623c",
+    "size": 1310
+  },
+  {
+    "path": "items/icon3d/wood_bow.png",
+    "sha256": "e0c086c658d55491eb66d5af2a88f99a4a86b55ef11c84eefaca87452107df7b",
+    "size": 1210
+  },
+  {
+    "path": "items/icon3d/wood_sword.png",
+    "sha256": "9a4d6c19c6424e383ede7c67b241c2cf478f928a5b1b88bdc856cfc1d47114f6",
+    "size": 1317
+  },
+  {
+    "path": "items/icon3d/wooden_fence.png",
+    "sha256": "f2de862fa298dcf66193a53b7644763f398b4804f7a97fc655e5a4a16492a0cc",
+    "size": 1227
+  },
+  {
+    "path": "items/icon3d/wooden_fence_gate.png",
+    "sha256": "6845a1a626c27d34540409394aeb99d069df25ada45704158ed1c8065323cbf7",
+    "size": 1406
   }
 ]
