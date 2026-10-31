@@ -22743,5 +22743,15 @@
     "path": "items/icon3d/wooden_fence_gate.png",
     "sha256": "4b0c971deb3cb8c57243d47f94d192464ce6536fd21b0870f697e27cee3780ff",
     "size": 1383
+  },
+  {
+    "path": "items/icon3d/wooden_chair.png",
+    "sha256": "9d07f0968239542ba2a0b0fcce0aa80bf0c82c7a4c2a30d67a2b90347b25f477",
+    "size": 1653
+  },
+  {
+    "path": "uploaded/furniture/wooden_chair.png",
+    "sha256": "9d07f0968239542ba2a0b0fcce0aa80bf0c82c7a4c2a30d67a2b90347b25f477",
+    "size": 1653
   }
 ]
