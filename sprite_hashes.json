@@ -22203,5 +22203,80 @@
     "path": "models/rig/character_male_VOX_Original_Pixel_Colors.png",
     "sha256": "835f6694484d3459e2da4d85269925d386bd28005a919423f44a0265c2e4efe1",
     "size": 4017
+  },
+  {
+    "path": "actors/outfits/knight_set_bottom/icon.png",
+    "sha256": "9c082aa5a7fc76863ffa11b0309766785e5a0af8b0ad16379c7d37547adbd82a",
+    "size": 1782
+  },
+  {
+    "path": "actors/outfits/knight_set_shoes/icon.png",
+    "sha256": "35c274e89acbd5f55020a95378bb8c24257a6bfdee000a933849cfa3684062f1",
+    "size": 1735
+  },
+  {
+    "path": "actors/outfits/knight_set_top/icon.png",
+    "sha256": "207a8a179722658c83704282dbb1c2a8955aef7415cd64a7419591ff3322e475",
+    "size": 1759
+  },
+  {
+    "path": "actors/outfits/mage_set_bottom/icon.png",
+    "sha256": "5a1f653312ad94728d23c9c5289bf820ad4fd4ddee627b0073ab7146ca40533d",
+    "size": 1382
+  },
+  {
+    "path": "actors/outfits/mage_set_shoes/icon.png",
+    "sha256": "b3b4f561505b243cc120592c337717a291c42229d320875dc8aa4ec0e80cefb5",
+    "size": 1522
+  },
+  {
+    "path": "actors/outfits/mage_set_top/icon.png",
+    "sha256": "4f1a2afc1903c7d7ffbad8808fd1f0c259a3cd2468b6ab4bfba7c00825d53fa1",
+    "size": 1632
+  },
+  {
+    "path": "actors/outfits/ninja_set_bottom/icon.png",
+    "sha256": "f268ce0f836ebec674e28e474fd8835f56cd68dd1d813b9c1066c1aead8d133e",
+    "size": 1462
+  },
+  {
+    "path": "actors/outfits/ninja_set_shoes/icon.png",
+    "sha256": "eb466e3254c4556d1f52022bf8147c736c4175114c1f17fd78c37dd5888865e7",
+    "size": 1453
+  },
+  {
+    "path": "actors/outfits/ninja_set_top/icon.png",
+    "sha256": "617f38d1b509e3bbf6956a911d5a14d52f8fb682c6a0b9033abbd77dcb4cf190",
+    "size": 1656
+  },
+  {
+    "path": "actors/outfits/nomad_set_bottom/icon.png",
+    "sha256": "0c63f57f13227e554731486668525550e7a9089fd566b5dddd2b5f14e4f1f6a3",
+    "size": 1546
+  },
+  {
+    "path": "actors/outfits/nomad_set_shoes/icon.png",
+    "sha256": "5e0f56c47f4be5fce6f77a8fd6183c9aa2bd47c2300639efcb84cc263803c721",
+    "size": 1758
+  },
+  {
+    "path": "actors/outfits/nomad_set_top/icon.png",
+    "sha256": "82c53018bf30f477687e567afebcb794019a12edbdcb39755e6360500f316368",
+    "size": 1777
+  },
+  {
+    "path": "actors/outfits/sailor_set_bottom/icon.png",
+    "sha256": "c86afe47772e88ac0b9fac243abf26e2317dbc1af380a8d47327d8d4b585cee2",
+    "size": 1563
+  },
+  {
+    "path": "actors/outfits/sailor_set_shoes/icon.png",
+    "sha256": "aebf99a1220c710f278f12a767c777f619400d3da3af5c9e5d31d52e1fbd811e",
+    "size": 1416
+  },
+  {
+    "path": "actors/outfits/sailor_set_top/icon.png",
+    "sha256": "9bf98b1111995aeac25fb32cc36fd48ab08e47fd109dbbf83462264f7dca8b3f",
+    "size": 1695
   }
 ]
