@@ -23568,5 +23568,10 @@
     "path": "items/icon3d/stone_pickaxe.png",
     "sha256": "386e63639480defca1273a3cf302f177590fe436ed67103f7301ea3fd946ef48",
     "size": 976
+  },
+  {
+    "path": "uploaded/special_items/cave_mouth_mine.png",
+    "sha256": "e3c22fdb7bc506715385a207264bafc32104c13771fee855903446d13aba7356",
+    "size": 6365
   }
 ]
