@@ -23548,5 +23548,25 @@
     "path": "items/icon3d/wood_sword.png",
     "sha256": "388a668faddefdf56e8332e92cad63b8c79584f2e9c8d91d90d678ebe110e59e",
     "size": 952
+  },
+  {
+    "path": "items/icon3d/hammer_wood.png",
+    "sha256": "669a3ec5dea8b89149a5a570fd359fe62e44eadb890d1ba262caef03ef37f509",
+    "size": 1007
+  },
+  {
+    "path": "items/icon3d/hoe.png",
+    "sha256": "0f9e16378b039126c00441c4d0d0ca7778f30fbf96b0a7decf2bec4b9986a31e",
+    "size": 890
+  },
+  {
+    "path": "items/icon3d/iron_pickaxe.png",
+    "sha256": "24277f6f2cebb1b87ca20ce482e5b43510be70b09fcf22f509d905916df339be",
+    "size": 900
+  },
+  {
+    "path": "items/icon3d/stone_pickaxe.png",
+    "sha256": "386e63639480defca1273a3cf302f177590fe436ed67103f7301ea3fd946ef48",
+    "size": 976
   }
 ]
