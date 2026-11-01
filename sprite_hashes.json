@@ -23203,5 +23203,280 @@
     "path": "items/icon3d/wooden_fence_gate.png",
     "sha256": "402b21bf6639a8fe5c6724727af15d34c6e17a47ec84581fa8bd98be86a19673",
     "size": 638
+  },
+  {
+    "path": "items/icon3d/axe_iron.png",
+    "sha256": "329851d904722376749110d9cb912d6d7296cf6fa9073a03b81b9dd17ad05b7c",
+    "size": 988
+  },
+  {
+    "path": "items/icon3d/axe_stone.png",
+    "sha256": "b57625d02841b574233a16618b1e3bdf8870f3752c8c2b653c88824ef8ba5dec",
+    "size": 1161
+  },
+  {
+    "path": "items/icon3d/berry_tree_seed.png",
+    "sha256": "a9892f6c440d52f00083b34f82075b2cc935d8a97c997acb601651ac475dd90f",
+    "size": 688
+  },
+  {
+    "path": "items/icon3d/big_furnace.png",
+    "sha256": "2e321dd4640aa571f4198563ee4f87c4d389cceb549dd9aab4e2d6209115c8aa",
+    "size": 1014
+  },
+  {
+    "path": "items/icon3d/bomb_ancient.png",
+    "sha256": "19ddd33d92629d3464821e71cb7214ac2e0816bf22a6c006ca02d6c41c812ad6",
+    "size": 766
+  },
+  {
+    "path": "items/icon3d/box_big.png",
+    "sha256": "31a46f5acf735c3acbb61b1abba4127459ac33c859c4805e6562e7540b8dd3c5",
+    "size": 853
+  },
+  {
+    "path": "items/icon3d/box_small.png",
+    "sha256": "21651893cc325871d62050e27cf968b147698e115362c687d0ba0ec68f4a70d4",
+    "size": 737
+  },
+  {
+    "path": "items/icon3d/charcoal.png",
+    "sha256": "c04528ba8fdb4e41b28d0c439d65aeab9a55892ed5239b3c719eae08cbc9496f",
+    "size": 603
+  },
+  {
+    "path": "items/icon3d/copper_nugget.png",
+    "sha256": "9d0cb34acffef7f7418a0712de3698a456ff8d214921d020bc104d8673b2930a",
+    "size": 770
+  },
+  {
+    "path": "items/icon3d/corn_sheath.png",
+    "sha256": "8791457ffad0998527dad9d385287bc5cdf1ab2305736c83ea764a29f8cd86d0",
+    "size": 851
+  },
+  {
+    "path": "items/icon3d/crafting_table.png",
+    "sha256": "4ed0e8266dcaf7ae79c582e329a1722f04ad59a2dc1bd78b23e61d101e7701cf",
+    "size": 942
+  },
+  {
+    "path": "items/icon3d/diamond.png",
+    "sha256": "5ee5951b45a247ef4aa0ed84019fc91102b179577c4d208e40a73fa750c228ec",
+    "size": 999
+  },
+  {
+    "path": "items/icon3d/door_wood_slider.png",
+    "sha256": "4d297b83558b51983c314fa03bdac32803278ae7b5417d17803762ed02161fc7",
+    "size": 599
+  },
+  {
+    "path": "items/icon3d/fence.png",
+    "sha256": "80e0dfa93da705f0bb39f36e86eb3872441decc00f605e30a8c13ca33f59e8f9",
+    "size": 638
+  },
+  {
+    "path": "items/icon3d/furnace.png",
+    "sha256": "e30856c00728350fddd4eac63a97927658e4f14af1f2fd43647f8f961241d6f3",
+    "size": 830
+  },
+  {
+    "path": "items/icon3d/gold_ingot.png",
+    "sha256": "e78adffdd197d30ff5ba98c2c14b7d646c6a9cd3f116173fc10f42cef289e245",
+    "size": 429
+  },
+  {
+    "path": "items/icon3d/gold_nugget.png",
+    "sha256": "8074b4fdcdf91948b0c5b7092b8982cc3f45a87d3b25635747904cea32cf969e",
+    "size": 822
+  },
+  {
+    "path": "items/icon3d/gunpowder.png",
+    "sha256": "3ab15f7b2051d29a633533d2092e9242365b73a71869b538ceb024705b819d96",
+    "size": 580
+  },
+  {
+    "path": "items/icon3d/hammer_wood.png",
+    "sha256": "2920d8e650eaf2a34660ae53e835b0e656f217132235a74953f7d8f4f9100001",
+    "size": 617
+  },
+  {
+    "path": "items/icon3d/hedge_fence.png",
+    "sha256": "711275fa69e0353849596338bc1e0ec43c2cfad828d4400002a10af8ff6fed76",
+    "size": 971
+  },
+  {
+    "path": "items/icon3d/hedge_fence_gate.png",
+    "sha256": "644250b169a5f07377160229c12f82f324f5ecce124138dfaed72936378cc269",
+    "size": 822
+  },
+  {
+    "path": "items/icon3d/hoe.png",
+    "sha256": "183ed86f83659926ca638c56912683f4811d79a45dfb67835246ee3ba7526fd8",
+    "size": 808
+  },
+  {
+    "path": "items/icon3d/hp_potion.png",
+    "sha256": "98a603d4f1b1c5800bf9ed1d20feb9e6f8120db82782d7e68e139c5c0f2cffd4",
+    "size": 911
+  },
+  {
+    "path": "items/icon3d/hp_potion_m.png",
+    "sha256": "3641e166294be4067b90f85fd43690544826c5b1e2370a83435bc440587d2b49",
+    "size": 953
+  },
+  {
+    "path": "items/icon3d/hp_potion_s.png",
+    "sha256": "33bec700044cbf7aac95030f1756696c6946e082f26f6db643c0e189e70cb097",
+    "size": 558
+  },
+  {
+    "path": "items/icon3d/hp_potion_xl.png",
+    "sha256": "22f74e8677d3ef9f075919add8763dca2a524970f72a4f71275735f011d91e25",
+    "size": 1300
+  },
+  {
+    "path": "items/icon3d/iron_ingot.png",
+    "sha256": "67cf2c7128fb4f14775bcfac943d427617e5d007a8e95c7d881729e805667785",
+    "size": 433
+  },
+  {
+    "path": "items/icon3d/iron_nugget.png",
+    "sha256": "4a1bd2a5be3038efbd3e49ebe1146ae7d2d20da8c3b1c3b11424dd4290be9924",
+    "size": 983
+  },
+  {
+    "path": "items/icon3d/iron_pickaxe.png",
+    "sha256": "34e5001fbf1dbfe0c5d2d3941ad7e34c2055d342d4d293de75ccbc46981ce072",
+    "size": 675
+  },
+  {
+    "path": "items/icon3d/leaf.png",
+    "sha256": "7aeef8789bd33cb5eb4acc4b3bbfd26c304a1833908f78ee8e06332b6df7ae8f",
+    "size": 505
+  },
+  {
+    "path": "items/icon3d/logs.png",
+    "sha256": "d53138c427f9cdb757e51b2c971adcba5aacf17f6b461326c03efa020d1f48b2",
+    "size": 928
+  },
+  {
+    "path": "items/icon3d/maize_seed.png",
+    "sha256": "91f2a89beb3a3f04b015297066702b87ca655102f652080a02ddfd46c8d2b2cf",
+    "size": 672
+  },
+  {
+    "path": "items/icon3d/plank.png",
+    "sha256": "8cf585c15d030206f5dbc7a2df937c38e7e3aa90ef9ff9df13be00656d77dc0d",
+    "size": 554
+  },
+  {
+    "path": "items/icon3d/plant_fiber.png",
+    "sha256": "7147c5f10e0da11895da927732f7369f3d6f74eb62c01166951c28595828d137",
+    "size": 1289
+  },
+  {
+    "path": "items/icon3d/poisonous_plant.png",
+    "sha256": "fe60ce11f071615e87551941db200ea5ae24441b29046fc4085c3579040fb54a",
+    "size": 1022
+  },
+  {
+    "path": "items/icon3d/pumpkin_fruit.png",
+    "sha256": "199b4c69b9985689854ce5775e55f6f8d1955398d74825852ca1a3559a33fed3",
+    "size": 1224
+  },
+  {
+    "path": "items/icon3d/pumpkin_tree_seed.png",
+    "sha256": "b8cc3d93a67c9a87648b705e9433ac7487f823571a55e0d0e583deb4cea0e586",
+    "size": 764
+  },
+  {
+    "path": "items/icon3d/silver_ingot.png",
+    "sha256": "a6bae4a861faabb8e21545770e1c1420356887e3ee95f74ed7c8f15a711012a1",
+    "size": 438
+  },
+  {
+    "path": "items/icon3d/silver_nugget.png",
+    "sha256": "cff01ddd3a0ec29eb6a2c9b493491844cea732d4e671e0e7143537f0ffd4badc",
+    "size": 721
+  },
+  {
+    "path": "items/icon3d/stone.png",
+    "sha256": "e1b19c66af585f0222462ae242b91fa5663b945c7292f81cd5f07049ef9d3aa6",
+    "size": 683
+  },
+  {
+    "path": "items/icon3d/stone_fence.png",
+    "sha256": "6a3e9d2f8957427cf294381ab10b8bf91a0bd6c51d2d33854d8f01df47917a91",
+    "size": 722
+  },
+  {
+    "path": "items/icon3d/stone_fence_gate.png",
+    "sha256": "66514548b06c7230a2cc1b426fb6c84775370cb414dd68aed7d5cf9ad849bc8a",
+    "size": 742
+  },
+  {
+    "path": "items/icon3d/stone_pickaxe.png",
+    "sha256": "78312c39c5d86fa697efcb97a6196ffd36493a8fef30c8bb4d5b1b321a141395",
+    "size": 671
+  },
+  {
+    "path": "items/icon3d/sulfur.png",
+    "sha256": "dec5327702fd3efe8875ee16771110d62a1e05d29315a2beaf9ecdf5156d4447",
+    "size": 520
+  },
+  {
+    "path": "items/icon3d/sulfur_nugget.png",
+    "sha256": "af8713dda6798001f357171c1ca7c7989a11e05a6f82f0cb26f2fb9f4ab501f1",
+    "size": 760
+  },
+  {
+    "path": "items/icon3d/territorial_cabinet.png",
+    "sha256": "b36976fb8a1023f45232dd5c0abe379c44b984cfbd8348168faa68a127a0277f",
+    "size": 666
+  },
+  {
+    "path": "items/icon3d/titanium_ingot.png",
+    "sha256": "1103cd9866891f0816d739a657f2a1b54bd0a622dc42eb3472213af54d00aff3",
+    "size": 433
+  },
+  {
+    "path": "items/icon3d/titanium_nugget.png",
+    "sha256": "cb088c9613b65d29d416bf58581c41898bea1bf3501b09d74e3bf8b223835ab0",
+    "size": 732
+  },
+  {
+    "path": "items/icon3d/wild_berries.png",
+    "sha256": "50e915754d1e19e840ea3196e5b2a1a9d52dc488152c70ce46bf20d0baf5c0cb",
+    "size": 1050
+  },
+  {
+    "path": "items/icon3d/wild_berry.png",
+    "sha256": "cd8f609e9a095922de0fcbabc691b5d10e19f4f6223b505ad98acd2ca0709b63",
+    "size": 1013
+  },
+  {
+    "path": "items/icon3d/wood_bow.png",
+    "sha256": "a8b5e35f50cc7345a4b598c2a6777abc26b0f3d3dbecab058219d3a456ebe43a",
+    "size": 952
+  },
+  {
+    "path": "items/icon3d/wood_sword.png",
+    "sha256": "4d764ddaf5eb76a35ac5e5548c0bdca60f0ff4d7dd95f59a2ef85b83a79c8f2d",
+    "size": 1035
+  },
+  {
+    "path": "items/icon3d/wooden_chair.png",
+    "sha256": "f7e068c3afa03fa52f821365bc53e327126305d51c40b82b78d4123886890ac8",
+    "size": 632
+  },
+  {
+    "path": "items/icon3d/wooden_fence.png",
+    "sha256": "80e0dfa93da705f0bb39f36e86eb3872441decc00f605e30a8c13ca33f59e8f9",
+    "size": 638
+  },
+  {
+    "path": "items/icon3d/wooden_fence_gate.png",
+    "sha256": "d8e634fd06cbe274eb720c5d753d6ee94b4aa35cfd10ddde02ba76327c605d84",
+    "size": 780
   }
 ]
