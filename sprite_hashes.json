@@ -23478,5 +23478,75 @@
     "path": "items/icon3d/wooden_fence_gate.png",
     "sha256": "d8e634fd06cbe274eb720c5d753d6ee94b4aa35cfd10ddde02ba76327c605d84",
     "size": 780
+  },
+  {
+    "path": "items/icon3d/axe_iron.png",
+    "sha256": "ec28d817970d297e1e43fc210aef8ea44bf114c89c33ef1e538ec0a9ece653a9",
+    "size": 1018
+  },
+  {
+    "path": "items/icon3d/axe_stone.png",
+    "sha256": "63bb04b48b69188fe804c3c9701b7a6d2bbced2f113a3138628afc77fce4fb3a",
+    "size": 1154
+  },
+  {
+    "path": "items/icon3d/big_furnace.png",
+    "sha256": "50d1b9fa7d11ca372ddafff4730fe9d41be7fcc475e5a486a3d90b01ab30a237",
+    "size": 890
+  },
+  {
+    "path": "items/icon3d/bomb_ancient.png",
+    "sha256": "b46e4e76cbe7c0affcacbb697a158f5568fafe3ba42a2fd8c91b47c4d59966d9",
+    "size": 1284
+  },
+  {
+    "path": "items/icon3d/furnace.png",
+    "sha256": "ba887e2bd300c168bacb3c277e28e0c037fdf248fa4462e307160df01fc45302",
+    "size": 1019
+  },
+  {
+    "path": "items/icon3d/hammer_wood.png",
+    "sha256": "4c98432ba5b453ef15a682d5e30a73e7fdbfe85cfeeb4a881abe6f56a3c8daeb",
+    "size": 1043
+  },
+  {
+    "path": "items/icon3d/hoe.png",
+    "sha256": "928307b629f32b6058765a5437211f42e08f36f82b2d202a86ade3d0ec262b0c",
+    "size": 1032
+  },
+  {
+    "path": "items/icon3d/iron_pickaxe.png",
+    "sha256": "d1ff6764955cb2760f778ab99ea301ec144d3267c1b8dcf381ff557d765df5c2",
+    "size": 880
+  },
+  {
+    "path": "items/icon3d/leaf.png",
+    "sha256": "42da05db017afc2a64a51dda899cff3a069869295ba9b2d14e3cf545541c21f1",
+    "size": 871
+  },
+  {
+    "path": "items/icon3d/stone_pickaxe.png",
+    "sha256": "78420e89a3f0fe976692d6e4d3ad2ee55b1859b113c249c7fe6c10439a42171d",
+    "size": 946
+  },
+  {
+    "path": "items/icon3d/territorial_cabinet.png",
+    "sha256": "5c7a2e92df4d094e602ce44a90883e323b909afe626afcd813429521eebda6a9",
+    "size": 787
+  },
+  {
+    "path": "items/icon3d/wild_berry.png",
+    "sha256": "bc39c48b72c251432f0bc91f07b7d04a20db8d569bdeeba95101055103408ad8",
+    "size": 1932
+  },
+  {
+    "path": "items/icon3d/wood_bow.png",
+    "sha256": "c5c4c3ee10673ef27765ca086e529aae6214a2c35d4ee03d5491e22e272b71bc",
+    "size": 876
+  },
+  {
+    "path": "items/icon3d/wood_sword.png",
+    "sha256": "388a668faddefdf56e8332e92cad63b8c79584f2e9c8d91d90d678ebe110e59e",
+    "size": 952
   }
 ]
