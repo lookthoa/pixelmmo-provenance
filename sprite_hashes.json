@@ -23573,5 +23573,45 @@
     "path": "uploaded/special_items/cave_mouth_mine.png",
     "sha256": "e3c22fdb7bc506715385a207264bafc32104c13771fee855903446d13aba7356",
     "size": 6365
+  },
+  {
+    "path": "items/icon3d/axe_iron.png",
+    "sha256": "de44f6679495f472b6659bc821701666b8bc5554b141108a53a1febf32e31d39",
+    "size": 851
+  },
+  {
+    "path": "items/icon3d/axe_stone.png",
+    "sha256": "a2c3f8d2ff26b97c35d676eab34526081033806a7fac43858554a0eef6de1c93",
+    "size": 879
+  },
+  {
+    "path": "items/icon3d/hammer_wood.png",
+    "sha256": "0d35ca9b33e1576f23056554af16d6f1555898d53e73d9f0efe1c364ca271d76",
+    "size": 799
+  },
+  {
+    "path": "items/icon3d/hoe.png",
+    "sha256": "01b6aaf2d27342a34ea903b8b00b60b4d8777b14d8920a5eacecfa0eda265fd8",
+    "size": 694
+  },
+  {
+    "path": "items/icon3d/iron_pickaxe.png",
+    "sha256": "0b01e751091fec4677ea7e9c9e833f4fca5f73f27e1978b9b0b7fdf0f7e757b7",
+    "size": 656
+  },
+  {
+    "path": "items/icon3d/stone_pickaxe.png",
+    "sha256": "07c5fb4375d2af64ba3a21f6cde5ae7cfe02f8cdbefcbfdb8dcda03306a06e44",
+    "size": 689
+  },
+  {
+    "path": "items/icon3d/wood_bow.png",
+    "sha256": "1247dbb8a488668664f006588b7c1613e15a0109a71dce2a0d603fd6a305533b",
+    "size": 681
+  },
+  {
+    "path": "items/icon3d/wood_sword.png",
+    "sha256": "a77f83f18d65d7434c348e78e881a165efe0b6915868171d23c0b781ba79b0fa",
+    "size": 797
   }
 ]
