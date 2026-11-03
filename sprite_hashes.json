@@ -24273,5 +24273,10 @@
     "path": "items/icon3d/wooden_fence_gate.png",
     "sha256": "ab8c8ff30837713ba7e6a95a0bfa561c6233ecb5312ddf6a0d5f426467116d84",
     "size": 782
+  },
+  {
+    "path": "items/icon3d/plant_fiber.png",
+    "sha256": "082ced25784ac87bfb0ad2e869b1ffdccdeece689c2acca7d490b3d4d9be7621",
+    "size": 1420
   }
 ]
