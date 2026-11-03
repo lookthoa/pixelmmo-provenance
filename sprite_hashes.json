@@ -24278,5 +24278,45 @@
     "path": "items/icon3d/plant_fiber.png",
     "sha256": "082ced25784ac87bfb0ad2e869b1ffdccdeece689c2acca7d490b3d4d9be7621",
     "size": 1420
+  },
+  {
+    "path": "items/icon3d/mp_potion.png",
+    "sha256": "ac3034966ae6f069eb23219e7dfc8d8bbe65e87a0e095f10c2744dec25627234",
+    "size": 920
+  },
+  {
+    "path": "items/icon3d/mp_potion_m.png",
+    "sha256": "61358726010f3cd3542fa7d3349d5b865e6f608741fe7ce4e2a17ebaf4a2ca3d",
+    "size": 993
+  },
+  {
+    "path": "items/icon3d/mp_potion_s.png",
+    "sha256": "ce3eb4c00b1b49fdf51d5e470c863cc8b843ce0f011955e8890e316cfec43912",
+    "size": 587
+  },
+  {
+    "path": "items/icon3d/mp_potion_xl.png",
+    "sha256": "8f0b45724e2024d23f42e5486c3e2010f4a0d18c27f0a7961b96b65dbf9ee670",
+    "size": 1353
+  },
+  {
+    "path": "uploaded/items/mp_potion.png",
+    "sha256": "1e560ac0e3e17ebfdddd488365569d609374ab3e84b0185fe0da816c2c2dc3d6",
+    "size": 815
+  },
+  {
+    "path": "uploaded/items/mp_potion_m.png",
+    "sha256": "40d6e7ae153de2555cf8f854549bc65354b5a18ec7e7e829091af45131ee31dd",
+    "size": 801
+  },
+  {
+    "path": "uploaded/items/mp_potion_s.png",
+    "sha256": "e5aac9e6cd630e1e527f7eb2db070cecf3d57deb89f1abdcd40769e1180bfe8b",
+    "size": 632
+  },
+  {
+    "path": "uploaded/items/mp_potion_xl.png",
+    "sha256": "ac5a0cd27eb4f0550c6d18f20c26d682a914f86a212197b5297af9e9907e4436",
+    "size": 1149
   }
 ]
