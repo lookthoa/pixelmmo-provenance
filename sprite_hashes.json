@@ -24333,5 +24333,160 @@
     "path": "items/icon3d/wood_tome.png",
     "sha256": "da6c532f613668673cb5e167d4b38fcbeac46cb59031e6b6a774b61b9f0acac5",
     "size": 824
+  },
+  {
+    "path": "items/icon3d/fish_angelfish.png",
+    "sha256": "d1200c2555769511d005d4098368e981d30cfb9f63912ab3e70746f4519fad92",
+    "size": 1073
+  },
+  {
+    "path": "items/icon3d/fish_betta.png",
+    "sha256": "1540c40a88f033f226b3faaa7ac22c16e0e3289253390251c03d140fa4823223",
+    "size": 1013
+  },
+  {
+    "path": "items/icon3d/fish_butterflyfish.png",
+    "sha256": "dea98a3a07fd9f6ff8ba3a5d43ed417e3bf47be7fd28a64b33508a2be1934c89",
+    "size": 842
+  },
+  {
+    "path": "items/icon3d/fish_catfish.png",
+    "sha256": "d7c2eca937a1185dbfe214d57f1285f740405f37ece096c735ecaa69cf7e4929",
+    "size": 843
+  },
+  {
+    "path": "items/icon3d/fish_clownfish.png",
+    "sha256": "58240162dad4c2011be8f2222c2eed32442608be0bdfa2aca779e48a5e3c33eb",
+    "size": 981
+  },
+  {
+    "path": "items/icon3d/fish_eel.png",
+    "sha256": "b0b20ea26fd6e0f98d2f8cd731d821136e450c543beb87c834423cbae7e7ee39",
+    "size": 854
+  },
+  {
+    "path": "items/icon3d/fish_flounder.png",
+    "sha256": "a266d05161ae6f758f384249734f4ea40bd261a0bf7f05baa2825826a3b7787a",
+    "size": 857
+  },
+  {
+    "path": "items/icon3d/fish_flowerhorn.png",
+    "sha256": "cae78a2d978fc35618975eafbea83ca1409ca856de9d039ad54f044891a2b9e7",
+    "size": 1019
+  },
+  {
+    "path": "items/icon3d/fish_goatfish.png",
+    "sha256": "b967cf87577e64af3576d374c70643edf13bae546bc4912ce71154cd44db24a7",
+    "size": 1129
+  },
+  {
+    "path": "items/icon3d/fish_goby.png",
+    "sha256": "e003c78cf7cb4113df36346afe64ee08eae762296a404d27b234795a0cdd4294",
+    "size": 958
+  },
+  {
+    "path": "items/icon3d/fish_goldfish.png",
+    "sha256": "93f8645a957599971edc76b600faded4daf55cd0c634c61736bc79509ef2f9d6",
+    "size": 1026
+  },
+  {
+    "path": "items/icon3d/fish_gourami.png",
+    "sha256": "954b54a00c8da96c1077d0a341db163de0d3e14dfdf86289b2f7e44b1d831006",
+    "size": 1105
+  },
+  {
+    "path": "items/icon3d/fish_grouper.png",
+    "sha256": "e019c827821fee476fa084fdc7c722d53017d39724f13248f3daa07920f0ee5a",
+    "size": 1006
+  },
+  {
+    "path": "items/icon3d/fish_guppy.png",
+    "sha256": "970426a2b771553ba1e6b87cbe9087808ea4bf4ac31a206bd2e6ded0ca57f5c6",
+    "size": 989
+  },
+  {
+    "path": "items/icon3d/fish_halfbeak.png",
+    "sha256": "54b82b304f49f48fc22d0bc72216602fe474a48f3302b0dbcbd930c7b64f53ad",
+    "size": 773
+  },
+  {
+    "path": "items/icon3d/fish_harlequin_rasbora.png",
+    "sha256": "3518ecbe708bd64a257e9e2ef8cf5372b2a970045d6170f5f804e6afc59fb64f",
+    "size": 829
+  },
+  {
+    "path": "items/icon3d/fish_lionfish.png",
+    "sha256": "42f653142eec5416134630c0135e14c304a780bc8e8cf68499d7218512fa5c47",
+    "size": 913
+  },
+  {
+    "path": "items/icon3d/fish_mudskipper.png",
+    "sha256": "1960dfc8d07072935ae62e5118d5ee3ad714d03914f0f9430cd4a51945c3dbe3",
+    "size": 975
+  },
+  {
+    "path": "items/icon3d/fish_parrotfish.png",
+    "sha256": "92ff3418355e13525d794434885a0d4cbc847b7db1c10133458499dbca812434",
+    "size": 1188
+  },
+  {
+    "path": "items/icon3d/fish_puffer.png",
+    "sha256": "c88bfcf48f3686010d8e790ddd9ebb2b15f6544f40cc15ff3bae05cac031b7a6",
+    "size": 1155
+  },
+  {
+    "path": "items/icon3d/fish_sardine.png",
+    "sha256": "e6f227ba418491eb0146a668d30175810d9ea6340ba06fe1bffb46f7cebd69e5",
+    "size": 903
+  },
+  {
+    "path": "items/icon3d/fish_short_mackerel.png",
+    "sha256": "25378c417a59ad5c09e772a76fc8fb02ab29f1b5a5b7a8855443f9ce6f078a77",
+    "size": 998
+  },
+  {
+    "path": "items/icon3d/fish_silver_barb.png",
+    "sha256": "6aeaeae68baead19813fe6e99d645f3c228dc29ac3f2113b5bcb3daaf2f8955a",
+    "size": 1293
+  },
+  {
+    "path": "items/icon3d/fish_snakehead.png",
+    "sha256": "0eaff68060fadcfe39e925f6735f429b150796d9423cc63efde063328a4f8446",
+    "size": 635
+  },
+  {
+    "path": "items/icon3d/fish_stingray.png",
+    "sha256": "3d66f88e549fde7fe11cc9ef5edc32b5eccea33ce3537c52c6889782d0040f6c",
+    "size": 948
+  },
+  {
+    "path": "items/icon3d/fish_tiger_barb.png",
+    "sha256": "8dc8905d47fc3068d79048b0ebc18548354ff0666715f348542f237149c3016f",
+    "size": 989
+  },
+  {
+    "path": "items/icon3d/fish_tilapia.png",
+    "sha256": "5ffb43d5fb01a1b09aa202b1e72c92e8bc220075615680304279da36634c2a9c",
+    "size": 1009
+  },
+  {
+    "path": "items/icon3d/fish_trout.png",
+    "sha256": "3fed46c9a7631b386dc546f5363153aeed73ef49bacbc6c1747c508467627a3c",
+    "size": 1022
+  },
+  {
+    "path": "items/icon3d/fish_yellow_tang.png",
+    "sha256": "806f2cda0ce9f0d87ab0590c868bc9e2ee4aeadb2c4b533e35424eea5771a0dd",
+    "size": 799
+  },
+  {
+    "path": "items/icon3d/fish_zebra_danio.png",
+    "sha256": "4d2d81438e1bffb76510c9e502c7a75443295fe9629b017a5b08f26af0682971",
+    "size": 835
+  },
+  {
+    "path": "items/icon3d/fishing_rod.png",
+    "sha256": "e57b02f06b31c429483e0de1e312bdc7ae0b92564d439cb61d09b9006356cebb",
+    "size": 950
   }
 ]
