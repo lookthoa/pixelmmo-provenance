@@ -24318,5 +24318,20 @@
     "path": "uploaded/items/mp_potion_xl.png",
     "sha256": "ac5a0cd27eb4f0550c6d18f20c26d682a914f86a212197b5297af9e9907e4436",
     "size": 1149
+  },
+  {
+    "path": "items/icon3d/wood_daggers.png",
+    "sha256": "e164a05e077ad941a656c343ccbb17a8777e0802353206fd2779e0478205106e",
+    "size": 1015
+  },
+  {
+    "path": "items/icon3d/wood_staff.png",
+    "sha256": "7651151f58820a6fb26037ba9216677b5dad36aef9780d6a99a6d21aaf0304e2",
+    "size": 802
+  },
+  {
+    "path": "items/icon3d/wood_tome.png",
+    "sha256": "da6c532f613668673cb5e167d4b38fcbeac46cb59031e6b6a774b61b9f0acac5",
+    "size": 824
   }
 ]
