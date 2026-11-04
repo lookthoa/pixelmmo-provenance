@@ -25238,5 +25238,25 @@
     "path": "ui/skills/sword_wounded_fury.png",
     "sha256": "37c8a947c7112897e12cdc4a831f9fe24d96c71dfd6844eb49742003cbd1cd88",
     "size": 727
+  },
+  {
+    "path": "items/icon3d/fishing_rod.png",
+    "sha256": "7d939e02228ed01d8b08d3387702f20def494833f4aae73660ef52bb9419dd89",
+    "size": 781
+  },
+  {
+    "path": "items/icon3d/wood_bow.png",
+    "sha256": "dd8606c25a57cc46a7a8511b591e53e74c6fd3bc8c1fd67c14f933f94b1eeb56",
+    "size": 801
+  },
+  {
+    "path": "items/icon3d/wood_staff.png",
+    "sha256": "f70e9878e65f69b1b603c3a4771ad2cedd8e2662cfd48bc144ddf9ada01f4acb",
+    "size": 703
+  },
+  {
+    "path": "items/icon3d/wood_sword.png",
+    "sha256": "1bd5f66f2a911ca6a0799cca253dc0658f27815e755b81ec3f3a6acff0c5e3c3",
+    "size": 824
   }
 ]
