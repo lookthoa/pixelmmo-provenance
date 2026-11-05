@@ -26178,5 +26178,275 @@
     "path": "ui/skills/sword_wounded_fury.png",
     "sha256": "f93edb8fe28b8608618e8ecc5daf29d68ea6dc70619827d786f69b7e73a06b2a",
     "size": 34755
+  },
+  {
+    "path": "uploaded/furniture/village_banner_post.png",
+    "sha256": "ce7c5ba7fc03e3103e663523925055bbd06aae074bb95dffcf5eca81032bf275",
+    "size": 159316
+  },
+  {
+    "path": "uploaded/furniture/village_barrel_stack.png",
+    "sha256": "8080c54b351455b4b792cca0dea3b731063eb9f3d1c666b9c98d26d33b1ae5b3",
+    "size": 205637
+  },
+  {
+    "path": "uploaded/furniture/village_bench_stone.png",
+    "sha256": "b06d2342a9bf55ffc418ff7a2b53c7663f654732c8f05fdabd2bea6760b1e612",
+    "size": 164453
+  },
+  {
+    "path": "uploaded/furniture/village_bird_bath.png",
+    "sha256": "194caa57903d22fae5e3277c028468e10a9cf65e72799e2bf10d0ff98e10e8a1",
+    "size": 178586
+  },
+  {
+    "path": "uploaded/furniture/village_bucket.png",
+    "sha256": "cbf3c7790505cbc9051c1d9630679016788c102d4a45f94553bdd09ac5590832",
+    "size": 192554
+  },
+  {
+    "path": "uploaded/furniture/village_bush_1.png",
+    "sha256": "ba07ba58c43f48667af50133e092f83d0516f5ad404ee1373227a68cf894a51d",
+    "size": 194367
+  },
+  {
+    "path": "uploaded/furniture/village_bush_2.png",
+    "sha256": "34bc2124de8ba50592ffc5c323c063a6097a0df2af2cf9a07e6801710a6086fa",
+    "size": 192021
+  },
+  {
+    "path": "uploaded/furniture/village_campfire.png",
+    "sha256": "41be8e27856d41abcb3286f54c8652f981fd0f64973c6addb766b615153214c6",
+    "size": 172429
+  },
+  {
+    "path": "uploaded/furniture/village_cart_hand.png",
+    "sha256": "73b36fa4da0e7ccaeefa759bddb7cc014d4e006532d6143ba13f21d407fd463b",
+    "size": 174045
+  },
+  {
+    "path": "uploaded/furniture/village_chicken_coop.png",
+    "sha256": "6412c9cb283813e019736305aa9a80e05ba1c49ca0ee1c75bfbd8aaa263a91a7",
+    "size": 215043
+  },
+  {
+    "path": "uploaded/furniture/village_crate_stack.png",
+    "sha256": "d1a7ea89294ec521f0ed92c9914f4cdca0386ff39133070aef6ce63e8abb662a",
+    "size": 212812
+  },
+  {
+    "path": "uploaded/furniture/village_display_table.png",
+    "sha256": "91c28b69fd1395c8bffaeb4dfc803bb2a54f6501b87bbca2bea890097b51997a",
+    "size": 186899
+  },
+  {
+    "path": "uploaded/furniture/village_fence_col.png",
+    "sha256": "32cc8abed8778366941426dc64638fbfd1f4f4ff777b91843ed02f37a2adf7b8",
+    "size": 161206
+  },
+  {
+    "path": "uploaded/furniture/village_fence_corner.png",
+    "sha256": "07f0968aff3288bdb8a28d4c5a23eeccec1234aa7fd5b521392b61e5dd94cd1e",
+    "size": 186096
+  },
+  {
+    "path": "uploaded/furniture/village_fence_row.png",
+    "sha256": "63bc219641d6cb362b24049ec32cefe1d8b459c31b67e4abb3e3e1ef51f43b94",
+    "size": 168351
+  },
+  {
+    "path": "uploaded/furniture/village_flower_bed_col.png",
+    "sha256": "401cd62a5408d4827fc36f79fc31778afb95fa5716628792ef471038389dfa38",
+    "size": 168818
+  },
+  {
+    "path": "uploaded/furniture/village_flower_bed_round.png",
+    "sha256": "9dd302100d365d301b5e387a7b0ae9259824a3185ba54aa832e2d44be93d400c",
+    "size": 190457
+  },
+  {
+    "path": "uploaded/furniture/village_flower_bed_row.png",
+    "sha256": "e40e228bd59e55529e1404dd0539a99d9c74c3147a77997c5d82efb300d8c76c",
+    "size": 178232
+  },
+  {
+    "path": "uploaded/furniture/village_flower_pot_2.png",
+    "sha256": "b1907ff0cbaf090922eb86645ad7f47af646a6b43bee598e5bc13e26709ce305",
+    "size": 192698
+  },
+  {
+    "path": "uploaded/furniture/village_flower_pot_3.png",
+    "sha256": "a2fafdb1b1f313085c24d69d8d9a61dc2abcfad4d305b9295b2410b0f50e2d4e",
+    "size": 180240
+  },
+  {
+    "path": "uploaded/furniture/village_flowers_wild_1.png",
+    "sha256": "c5851e612b552fb7445acdcf4d3e79ef21819c5e14837248dea5b90851302f12",
+    "size": 185772
+  },
+  {
+    "path": "uploaded/furniture/village_flowers_wild_2.png",
+    "sha256": "3419617dea728618d3e191ed1ef8ecff28a07550a33e2ca611af9f9c62600445",
+    "size": 177788
+  },
+  {
+    "path": "uploaded/furniture/village_flowers_wild_3.png",
+    "sha256": "59dbc0e743b7afd79c8667e188c7a20e4fa10918d5f0ca6b122e15eec607e2bf",
+    "size": 177944
+  },
+  {
+    "path": "uploaded/furniture/village_gate_ew.png",
+    "sha256": "b7b4c042f752d60e69c8bbe99f0ac92b25bee96dde236966b5ec51b595e10348",
+    "size": 173425
+  },
+  {
+    "path": "uploaded/furniture/village_gate_ns.png",
+    "sha256": "c2396734df9deb93b4b26945e4f3d3acc3794474c7165c98b7df97aadd98d579",
+    "size": 176534
+  },
+  {
+    "path": "uploaded/furniture/village_grass_patch_1.png",
+    "sha256": "515e544054d6640c304223b72c95a0bee68e392d445caf55ad82518feeaefa25",
+    "size": 185087
+  },
+  {
+    "path": "uploaded/furniture/village_grass_patch_2.png",
+    "sha256": "c3c1ea65f99f5b7060d443138aacb32fd6f21c4f688282afa009096bc17b7db1",
+    "size": 186152
+  },
+  {
+    "path": "uploaded/furniture/village_grass_patch_3.png",
+    "sha256": "1b4bfcdc5eda8076ececc7ec35b09b08a940e9dff559bfb630e2cae31074ca8c",
+    "size": 175291
+  },
+  {
+    "path": "uploaded/furniture/village_grass_patch_4.png",
+    "sha256": "49a0eecd322cd4323387dda827e0d4b74e5ee11e7278762aec50033059623b98",
+    "size": 192977
+  },
+  {
+    "path": "uploaded/furniture/village_grass_tall_patch.png",
+    "sha256": "43113917f0111f69d749867fdc6b4702239e6c3f9ed7d219541756b28826ccd0",
+    "size": 216222
+  },
+  {
+    "path": "uploaded/furniture/village_hay_bale.png",
+    "sha256": "5427a7ff481c38964a5bc312faffd5b46fb1cf1d2ba46900d53b6e7a012ca6e5",
+    "size": 213012
+  },
+  {
+    "path": "uploaded/furniture/village_hedge_col.png",
+    "sha256": "897e1baba0ad8acc81118de2da93fc9c0626e9b15446f1f3c4a566ec7d71ddd6",
+    "size": 169656
+  },
+  {
+    "path": "uploaded/furniture/village_hedge_row.png",
+    "sha256": "9d268723fe9074a037f35c77cb9fcc7544bf081f00a8ee457e6e940c7bfb54c4",
+    "size": 180225
+  },
+  {
+    "path": "uploaded/furniture/village_lantern_string_col.png",
+    "sha256": "e3e7d92bbec995ba753826f88e52737f3287bbef8b40aa68d88cc7ad245e9a78",
+    "size": 156057
+  },
+  {
+    "path": "uploaded/furniture/village_lantern_string_row.png",
+    "sha256": "ba9424754e2aeefa33f1fa874edd58aaf12d84b1efb8888af12ab0b5fc77499d",
+    "size": 158277
+  },
+  {
+    "path": "uploaded/furniture/village_notice_board.png",
+    "sha256": "81c9496c22de1bf6fd6cfb95ad5bcf61c178ec914dfc14308d60b0f8593a6c13",
+    "size": 192496
+  },
+  {
+    "path": "uploaded/furniture/village_planter_box.png",
+    "sha256": "08a1af84dfd589e6de5193bbdaf4419307267732feb94e4740f3783873b67c90",
+    "size": 210467
+  },
+  {
+    "path": "uploaded/furniture/village_rain_barrel.png",
+    "sha256": "9c01cc114b38e6d33448b26fa5ea5f9f7ddacad1d1ff01a99dfa517c4807e929",
+    "size": 199776
+  },
+  {
+    "path": "uploaded/furniture/village_rope_coil.png",
+    "sha256": "1b047f8709afbb5b6fd4da8aba8618ac84bf1e699da5f4e96fe9f930f606ed83",
+    "size": 165972
+  },
+  {
+    "path": "uploaded/furniture/village_sacks_pile.png",
+    "sha256": "0eae15a623de03f892aa388360b7ed2db3a31bdc5bd53fe44c46195e6c6d01bb",
+    "size": 193962
+  },
+  {
+    "path": "uploaded/furniture/village_scarecrow.png",
+    "sha256": "f09e551290814a21abbf0ccf0bbb425a43fed37ae8d39ab02568be993f78ed49",
+    "size": 169858
+  },
+  {
+    "path": "uploaded/furniture/village_stall_cloth.png",
+    "sha256": "0f8216317c343e5198d02155c04a4031382f5f62c2140edb07a45d36794fdc6f",
+    "size": 242169
+  },
+  {
+    "path": "uploaded/furniture/village_stall_fish.png",
+    "sha256": "16aacc7b0f9731293f0dc4bc978cc8947f391224584bc31e6ffc98036314603b",
+    "size": 240173
+  },
+  {
+    "path": "uploaded/furniture/village_stall_fruit.png",
+    "sha256": "f3721b8205132e1dd1dd603f2006f31484da2dcc5c453524489a4fbfb924cf3f",
+    "size": 242140
+  },
+  {
+    "path": "uploaded/furniture/village_stall_pottery.png",
+    "sha256": "599149907e46d77defb13bb0dd59d231d70fec8c1a6a722ffdf6fc36e876c0e5",
+    "size": 248825
+  },
+  {
+    "path": "uploaded/furniture/village_statue.png",
+    "sha256": "97788d1c6d9b7c489d187f381b0bfcac751f233526d4e6df152f13ba07b0b534",
+    "size": 191969
+  },
+  {
+    "path": "uploaded/furniture/village_stool.png",
+    "sha256": "aa1f013fdbc5c7e5de325dc8bb3d9ca9360e794a32f54e01f22e23d7d6c180a8",
+    "size": 189385
+  },
+  {
+    "path": "uploaded/furniture/village_table_round.png",
+    "sha256": "2569b1e3e335905ec35ba748c9504739e03a18e2f661b3eea2c3c7aa17cf9404",
+    "size": 178730
+  },
+  {
+    "path": "uploaded/furniture/village_tree_blossom.png",
+    "sha256": "434d95637bd1d5c24ff4b5c7c4119ad24d5ac120bba9ec56387377cafa0c57a3",
+    "size": 186435
+  },
+  {
+    "path": "uploaded/furniture/village_tree_small_1.png",
+    "sha256": "275ba44b2bd69996b4bca6cf3a241f27577d8edae8dd03446fddd14eabfc0473",
+    "size": 185075
+  },
+  {
+    "path": "uploaded/furniture/village_tree_small_2.png",
+    "sha256": "39503e2189b93f2bae365563e583211f8a1b364e30d19948cc19d821191715a8",
+    "size": 179286
+  },
+  {
+    "path": "uploaded/furniture/village_trellis.png",
+    "sha256": "765eb29ca171d0f2b2c6e39714a8a49fc0c56b5a4749ea271507efe54a5f53c4",
+    "size": 209856
+  },
+  {
+    "path": "uploaded/furniture/village_wagon_goods.png",
+    "sha256": "6d0e9315afaeb6b9e9b36865679456f40dcfa889b4463e48276d7b5d1a2ac3cb",
+    "size": 180940
+  },
+  {
+    "path": "uploaded/furniture/village_water_trough.png",
+    "sha256": "fe071c32cf10ea99a84f036e3908d49625ab36d7d7ff65b38f08c0e7a015e937",
+    "size": 172921
   }
 ]
