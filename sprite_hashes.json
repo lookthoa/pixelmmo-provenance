@@ -25258,5 +25258,120 @@
     "path": "items/icon3d/wood_sword.png",
     "sha256": "1bd5f66f2a911ca6a0799cca253dc0658f27815e755b81ec3f3a6acff0c5e3c3",
     "size": 824
+  },
+  {
+    "path": "uploaded/furniture/npc_apothecary.png",
+    "sha256": "02483b0bbf781d2398dcf89d229e032a254f77bb35b15e77b04b272e83bc0c8a",
+    "size": 1805
+  },
+  {
+    "path": "uploaded/furniture/npc_blacksmith.png",
+    "sha256": "02483b0bbf781d2398dcf89d229e032a254f77bb35b15e77b04b272e83bc0c8a",
+    "size": 1805
+  },
+  {
+    "path": "uploaded/furniture/npc_farmer.png",
+    "sha256": "02483b0bbf781d2398dcf89d229e032a254f77bb35b15e77b04b272e83bc0c8a",
+    "size": 1805
+  },
+  {
+    "path": "uploaded/furniture/npc_mage.png",
+    "sha256": "02483b0bbf781d2398dcf89d229e032a254f77bb35b15e77b04b272e83bc0c8a",
+    "size": 1805
+  },
+  {
+    "path": "uploaded/furniture/npc_tailor.png",
+    "sha256": "02483b0bbf781d2398dcf89d229e032a254f77bb35b15e77b04b272e83bc0c8a",
+    "size": 1805
+  },
+  {
+    "path": "uploaded/furniture/shop_apothecary.png",
+    "sha256": "7878690a715ae4b05265d24b1c97b69d220798e3c3bab7ec7a1703be41a4e821",
+    "size": 6733
+  },
+  {
+    "path": "uploaded/furniture/shop_blacksmith.png",
+    "sha256": "012d27d7340313fbd60655c1da1a644327846615652632d4b9527fc0f2385470",
+    "size": 6534
+  },
+  {
+    "path": "uploaded/furniture/shop_clothes.png",
+    "sha256": "bbee0482a5b81ebdd92071bd291b7c100122d02f27ef3180bfcdd85e3dc413d0",
+    "size": 7401
+  },
+  {
+    "path": "uploaded/furniture/shop_farm.png",
+    "sha256": "48d1ed090fff435c226308416c19d615e0061bcce37a7bb8419f8f69a801d3a6",
+    "size": 3128
+  },
+  {
+    "path": "uploaded/furniture/shop_magic.png",
+    "sha256": "73d0d106d7ba096975ff60ca45624188dfafe7288f1e20b4cb0d13ed6e98ae79",
+    "size": 5697
+  },
+  {
+    "path": "uploaded/furniture/village_anvil.png",
+    "sha256": "5f5df7e67ea1aa40323d00e590612263c8865c2cb6e81267285d5d1ab2c6472a",
+    "size": 3728
+  },
+  {
+    "path": "uploaded/furniture/village_barrel.png",
+    "sha256": "1c752c06ace320d4abd70603769cc5ef555f2ad0fcbedc2761792507906965bd",
+    "size": 4389
+  },
+  {
+    "path": "uploaded/furniture/village_bench.png",
+    "sha256": "e370ac8062d62904825655f03321423537e50a678ec33a534a9dc60aa5bc1039",
+    "size": 2028
+  },
+  {
+    "path": "uploaded/furniture/village_crate.png",
+    "sha256": "2dba98b3e00ba07decef8d642cc254cc66ff869450f514d309f6adbd6e9c21a4",
+    "size": 4523
+  },
+  {
+    "path": "uploaded/furniture/village_firewood_pile.png",
+    "sha256": "d5c57697521d5cf305762c75e6cf655c62e0633aedf32411306f923ad3b58144",
+    "size": 4214
+  },
+  {
+    "path": "uploaded/furniture/village_flag_pole.png",
+    "sha256": "88092738ca5490960c42c404671255fb155a5a803a21b143d65a914177ab9d78",
+    "size": 1149
+  },
+  {
+    "path": "uploaded/furniture/village_flower_pot.png",
+    "sha256": "2a099a1a4aad59dae2b0b3e4852991aa4668cbe7076d98a67705526fe0f1b6b3",
+    "size": 3631
+  },
+  {
+    "path": "uploaded/furniture/village_lamp_post.png",
+    "sha256": "424bebba32191958548b3ebe0833eec09d1b9f3b7055b77d5e7e87efad3aa51a",
+    "size": 1171
+  },
+  {
+    "path": "uploaded/furniture/village_lamp_post_double.png",
+    "sha256": "128aeacaef304df6f6c773a2648cab31034ef676c7794e92edf3d6e34b62273e",
+    "size": 1626
+  },
+  {
+    "path": "uploaded/furniture/village_low_fence.png",
+    "sha256": "c77dca1267c28d4e5226157a96ca0543aba893590e664fb0abb8f93c93fc0e87",
+    "size": 2216
+  },
+  {
+    "path": "uploaded/furniture/village_market_stall.png",
+    "sha256": "9762a54fb5240bdeef44a04b2579dcfa421e77698653ec978b10c4cd8bba34c7",
+    "size": 5117
+  },
+  {
+    "path": "uploaded/furniture/village_signpost.png",
+    "sha256": "2e8450b31ba554ba06499adc8c4605acda26ebe581841cb1fd8b630195fca00f",
+    "size": 1810
+  },
+  {
+    "path": "uploaded/furniture/village_well.png",
+    "sha256": "849e61ce553c52144fe330d09af216d26d2c343e3076de81c2e3da803d4126b9",
+    "size": 3975
   }
 ]
