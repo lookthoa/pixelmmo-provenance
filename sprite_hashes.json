@@ -25428,5 +25428,755 @@
     "path": "uploaded/buildings/iron_house_level_5.png",
     "sha256": "a9f6edd4b2977e754441411ceb55cdd59c2bc06f707f0afac25eb64e4d7f5c6c",
     "size": 9503
+  },
+  {
+    "path": "ui/skills/bolt.png",
+    "sha256": "660d56763167d08d67042f3e00409490dc6ddec8355aa3065829c6b3e5e5b93c",
+    "size": 33711
+  },
+  {
+    "path": "ui/skills/heal_bark_skin.png",
+    "sha256": "9228c6e41b8249d7e7684d607fab281ca33fa90c6742e8bdd3aa71f8b8a4281b",
+    "size": 36129
+  },
+  {
+    "path": "ui/skills/heal_bramble_ring.png",
+    "sha256": "ab347cc538188727aeb0788d64d8fa02b59d38729a77bb534f0c9d63fc9a54fd",
+    "size": 36484
+  },
+  {
+    "path": "ui/skills/heal_calm_spring.png",
+    "sha256": "afc54fc9391cc069b7191754d2b1f72ae9318e30fcad0d66a71e36bbd1c47bea",
+    "size": 33653
+  },
+  {
+    "path": "ui/skills/heal_dew_flow.png",
+    "sha256": "e1d8b4ab0daa7a474459c4fa43d2bdda51dd4bf651042dbc4fe1a236bb9148c6",
+    "size": 29187
+  },
+  {
+    "path": "ui/skills/heal_forest_rest.png",
+    "sha256": "41671c7a10783bf1e76f3a6d62ec159e2b13961b5fb9819409b5ad12518b410f",
+    "size": 32045
+  },
+  {
+    "path": "ui/skills/heal_gentle_heart.png",
+    "sha256": "aebcf0ea7201f549643211519ed0c0ecc46b151772c8aba0cabae91fb074f2ec",
+    "size": 33449
+  },
+  {
+    "path": "ui/skills/heal_great_sanctuary.png",
+    "sha256": "d7a36e0d71f4dad99bb7ba0280a0e4178be4377fbe22bcd6a73d8f50232e0530",
+    "size": 36399
+  },
+  {
+    "path": "ui/skills/heal_green_pact.png",
+    "sha256": "dfefff985fe5bb15e437e62f8afa844144d9ac88d66be0ebc4111df215ac0b37",
+    "size": 36522
+  },
+  {
+    "path": "ui/skills/heal_grove_burst.png",
+    "sha256": "794271399ab30a587485c5a8180c17e815d26ec1836c12a8a4371714197ccfc9",
+    "size": 32889
+  },
+  {
+    "path": "ui/skills/heal_hush_pollen.png",
+    "sha256": "4d52dca0a2645bb6fc13e39915925a762b0d079b80e8d8c4c3fdd671f975c129",
+    "size": 31411
+  },
+  {
+    "path": "ui/skills/heal_last_leaf.png",
+    "sha256": "9f07b666b754db7758b6ff79ca60d5376beac96f8f1bf2668d10616d08af6665",
+    "size": 32834
+  },
+  {
+    "path": "ui/skills/heal_leaf_step.png",
+    "sha256": "db5fe0bc2b315a0453510f5f29dfa81b77b63bd05cab569adf607789434c6293",
+    "size": 33077
+  },
+  {
+    "path": "ui/skills/heal_moss_focus.png",
+    "sha256": "a4815a529b5bf9932727672de70941dda295dff7a0ba6bc0fd2feecd6b307899",
+    "size": 33969
+  },
+  {
+    "path": "ui/skills/heal_overgrowth.png",
+    "sha256": "6fafdc9e460bd2466976a3252d53370a49b42be2bf393cb1830d6940bc0d5a24",
+    "size": 35397
+  },
+  {
+    "path": "ui/skills/heal_purify.png",
+    "sha256": "a1fbafefdb83ca8bf972b480cbc916654bfb3f8e4e03e14c66d4ed0f15fc9d0f",
+    "size": 31916
+  },
+  {
+    "path": "ui/skills/heal_revive.png",
+    "sha256": "ab00fd9d5bdb82258b466cf8523903b3acd8e1c45b33e8de9c78dfb990f4a999",
+    "size": 31703
+  },
+  {
+    "path": "ui/skills/heal_root_snare.png",
+    "sha256": "8fa4f484cef42597dfe8a8b378a7ed34ea375443e3bb67582894211a52b27ef6",
+    "size": 35128
+  },
+  {
+    "path": "ui/skills/heal_seed_hail.png",
+    "sha256": "1500d991bc93cb99fe906b74a69a2c3b5c544e903db7a936ec5b563115a30d30",
+    "size": 32932
+  },
+  {
+    "path": "ui/skills/heal_spirit_sap.png",
+    "sha256": "56b6c79ccb3d4b5018f1a875c61b4c21df36d68c54c323c1cc34ce65217e56a1",
+    "size": 33897
+  },
+  {
+    "path": "ui/skills/heal_spore_burst.png",
+    "sha256": "bd388e8610521850a8a44d3422c323581d17c15c107c5a57d38daefdaf94408e",
+    "size": 33530
+  },
+  {
+    "path": "ui/skills/heal_sprout.png",
+    "sha256": "82b92320b8b905d0ead42cbe8e169b72be935a5b4e671a8d80f1793c86c5f291",
+    "size": 31666
+  },
+  {
+    "path": "ui/skills/heal_sun_beam.png",
+    "sha256": "82fd9c6bf6be55d877f777ad8989e5ad0e2f8d4bc73abcee8e424adb7a097647",
+    "size": 36059
+  },
+  {
+    "path": "ui/skills/heal_thorn_dart.png",
+    "sha256": "a1763c40220f52793302ea293bda9c5c36919da11ee5be382d7c92c9b7bfcc00",
+    "size": 32383
+  },
+  {
+    "path": "ui/skills/heal_thorn_skin.png",
+    "sha256": "9dee9632f04205982e653cf68c59276c9400491f0453c31413c1b0a929ca8dad",
+    "size": 36115
+  },
+  {
+    "path": "ui/skills/heal_vine_lash.png",
+    "sha256": "37613febed0a40779107da032907623ded7a0958bb2f15ffd4887371202b3761",
+    "size": 34403
+  },
+  {
+    "path": "ui/skills/heal_vine_pull.png",
+    "sha256": "4efc212f76fb689926c951113f15a37d937c5cebb5b30fae360a068479344441",
+    "size": 34092
+  },
+  {
+    "path": "ui/skills/heal_ward_leaf.png",
+    "sha256": "52f9dc68e3be87fe6406cd153ce48c9da0f694cb246c095632de69654dde094c",
+    "size": 32736
+  },
+  {
+    "path": "ui/skills/heal_wild_chant.png",
+    "sha256": "ed6165c4aaeb98b0d9f952e0a656f19607ce73208c91c5a0e4b45ba15f232182",
+    "size": 31332
+  },
+  {
+    "path": "ui/skills/heal_wind_gait.png",
+    "sha256": "152f4ae01fb9d1ac67c1dc297f21cf1a61bedc1b4bdfca8834bfed0d2409d7cb",
+    "size": 31957
+  },
+  {
+    "path": "ui/skills/heal_world_tree.png",
+    "sha256": "7a55bba9882bc2286d82b858b560df77b2a877d6c0e799ae5f5444b55c3013fd",
+    "size": 36184
+  },
+  {
+    "path": "ui/skills/hunt_armor_break.png",
+    "sha256": "aebbdaa434ca1a83a1310cb8a148c7c8bd2fd3de277acf06dc5f64f06e7b2961",
+    "size": 35729
+  },
+  {
+    "path": "ui/skills/hunt_arrow_rain.png",
+    "sha256": "57486fa9749f3f01a46608ca6ba6bc6f41bc10165a28ff6f6c1b6cd5b67fefe8",
+    "size": 35091
+  },
+  {
+    "path": "ui/skills/hunt_backflip.png",
+    "sha256": "0d6634c6c39ed2750e44850b22dcecc16e8555d85f5a58db1bd2dd3086acc4e5",
+    "size": 34306
+  },
+  {
+    "path": "ui/skills/hunt_bleed_barb.png",
+    "sha256": "82ec7073e3e6d03e8ce355211d90ff208c81eb9620457e0668d2db505ef546cb",
+    "size": 34913
+  },
+  {
+    "path": "ui/skills/hunt_calm_breath.png",
+    "sha256": "2be445a478d642a62d74aeb7a2c411f8787ee961d83fae1571846ab7f3a914c0",
+    "size": 31176
+  },
+  {
+    "path": "ui/skills/hunt_camouflage.png",
+    "sha256": "1d8b00366b21ac0dd806503769cd513be30bcf6265d5706edcfb5f15f33b611b",
+    "size": 36558
+  },
+  {
+    "path": "ui/skills/hunt_dragon_shot.png",
+    "sha256": "58438a2a0d496b9be4e986eb618b82ee715f9c4d8d862f4dd26e129a86fb491f",
+    "size": 36703
+  },
+  {
+    "path": "ui/skills/hunt_eagle_eye.png",
+    "sha256": "b55e6e2e75b2174d10af01bc284aefd1334cc21199ce80b3126a005b96f54de7",
+    "size": 34352
+  },
+  {
+    "path": "ui/skills/hunt_fan_volley.png",
+    "sha256": "72add7c300785c0e4180b446b7bba57fab5f034075aaae72203e5cb7e00447b0",
+    "size": 35141
+  },
+  {
+    "path": "ui/skills/hunt_fire_arrow.png",
+    "sha256": "f891c729fab6f1da5baaa6352071109a62ce9a8d62c923f02138da12d011255e",
+    "size": 34753
+  },
+  {
+    "path": "ui/skills/hunt_focus.png",
+    "sha256": "bd9593a37fa319c86c2b186d72d3ba9819bd90823f2296e57a9b9e6ca45e8aba",
+    "size": 32916
+  },
+  {
+    "path": "ui/skills/hunt_frost_trap.png",
+    "sha256": "7acb041b4c8a56e1498e1c5e7fb06f8665bfae91629fe3f8ce280dc37939ab8f",
+    "size": 36277
+  },
+  {
+    "path": "ui/skills/hunt_gale_shot.png",
+    "sha256": "75101aed3deb8cc91b24b8efd4f82eac47e7e0d97b620f85f87c72e577c0e415",
+    "size": 34104
+  },
+  {
+    "path": "ui/skills/hunt_headshot.png",
+    "sha256": "cc899896f15bd5bce616e4968d905496874686e3a9c2b66b00c81b1a4cdf9e9c",
+    "size": 30890
+  },
+  {
+    "path": "ui/skills/hunt_hunter_pack.png",
+    "sha256": "09efbe1335e563d812f9ef8f46f196b26b4569b6724ea715e2f948da2018c7af",
+    "size": 34409
+  },
+  {
+    "path": "ui/skills/hunt_keen_tip.png",
+    "sha256": "48caa15a65f94e109835183ba62285b4cd2f97a6c772fa984c04dd748a59a0ff",
+    "size": 33994
+  },
+  {
+    "path": "ui/skills/hunt_light_foot.png",
+    "sha256": "2d5fee2450c94742ad1dcdf9748bd75ae5ad7d2f390db4de5e945451b1c00f92",
+    "size": 34107
+  },
+  {
+    "path": "ui/skills/hunt_long_shot.png",
+    "sha256": "1ed35be3edafe2e0cd7a12cbae000db9fe34bb51eddf3288c124c12ced78331d",
+    "size": 33884
+  },
+  {
+    "path": "ui/skills/hunt_mark_prey.png",
+    "sha256": "b88229817863acaf30bb99356842f620be00e2b9651ab0c5cbf514ad3acd1a14",
+    "size": 33398
+  },
+  {
+    "path": "ui/skills/hunt_night_hunt.png",
+    "sha256": "35f8d46a1ad50b5c7616cc0e21426b481b1496382b1fe9494ef848251a78a929",
+    "size": 33761
+  },
+  {
+    "path": "ui/skills/hunt_pin_shot.png",
+    "sha256": "f5e72e9dfa787fa18b31415badbce3ba7b0f9fac083b51cae0a2ba674c20dd5b",
+    "size": 35436
+  },
+  {
+    "path": "ui/skills/hunt_poison_arrow.png",
+    "sha256": "3dd46fdd623b608dc5d7bddce19780e81a472da3e7ab0ffa14afb27a5ae7e7c2",
+    "size": 33435
+  },
+  {
+    "path": "ui/skills/hunt_prey_sense.png",
+    "sha256": "b67a2a7911e8659043f2814c8ecd978927b4499603ff6aa83f880424b4c0195a",
+    "size": 32302
+  },
+  {
+    "path": "ui/skills/hunt_quick_draw.png",
+    "sha256": "7485881ca922553557d3aeb0d2c01bc6e3fe1b380f237dfcdf04d017724ae8c4",
+    "size": 35047
+  },
+  {
+    "path": "ui/skills/hunt_retreat.png",
+    "sha256": "e78f1e47242a385cdeaa814b70662196827de2662947e2bdef758b18a0b03aee",
+    "size": 29559
+  },
+  {
+    "path": "ui/skills/hunt_ricochet.png",
+    "sha256": "f861ad6c8e8b9bb8d96800da742b39157c093d32c561e89d38974f420b828437",
+    "size": 35148
+  },
+  {
+    "path": "ui/skills/hunt_snare_trap.png",
+    "sha256": "4de1fe2ad85c0e7ef3dc05d8c0dfed703cb1c12dec8e5d4595f3f60cd405afa7",
+    "size": 36354
+  },
+  {
+    "path": "ui/skills/hunt_storm_of_arrows.png",
+    "sha256": "5908677792f23ca038ae13457d1ddcb72dd57573d8b6fd2c7383a4782ad92a91",
+    "size": 34552
+  },
+  {
+    "path": "ui/skills/hunt_twin_shot.png",
+    "sha256": "414fcfde96325a4b902aecafa1d6bbadb64426096fb232f7e4b03e6cc980c555",
+    "size": 34484
+  },
+  {
+    "path": "ui/skills/hunt_wind_dash.png",
+    "sha256": "bcc8a7be565ce72315baa89a70e4bf9ff2d544d7b6403d041cc95cc6eb3395b7",
+    "size": 34015
+  },
+  {
+    "path": "ui/skills/mage_absolute_zero.png",
+    "sha256": "daba2ea1dc1986dcf94ceb798c490e82d52e7db99f5c3acefe629b93db094423",
+    "size": 35420
+  },
+  {
+    "path": "ui/skills/mage_arc_blink.png",
+    "sha256": "5000fe7b76fce841f9008c02654db6cafeb08a1ba98cee3e4141de539690a08a",
+    "size": 32659
+  },
+  {
+    "path": "ui/skills/mage_arcane_focus.png",
+    "sha256": "2a8b1900a8dbb90f20b91e4106a7c1cdfdf74fbf43dfed97bf8793d64b3fad4b",
+    "size": 35878
+  },
+  {
+    "path": "ui/skills/mage_arcane_ward.png",
+    "sha256": "1a1ae969035bf4785111630f48c56cd3e1743a364ed774af76e6dc10b77c93cf",
+    "size": 33765
+  },
+  {
+    "path": "ui/skills/mage_conduct.png",
+    "sha256": "f6f2ea4ffd83be647061dc389be745a48dd326d85957ddd2b23c5e0c703e8a37",
+    "size": 32273
+  },
+  {
+    "path": "ui/skills/mage_elem_attune.png",
+    "sha256": "4286b915b5438a03877f4de59f16a67fbbbbfa1f05b3b745fccc1ce153a92e0a",
+    "size": 37160
+  },
+  {
+    "path": "ui/skills/mage_elemental_veil.png",
+    "sha256": "536641bccfa3b4dfc7cd73f8b738e1505c4efb28bae99e90931d573614c12436",
+    "size": 34860
+  },
+  {
+    "path": "ui/skills/mage_ember_ring.png",
+    "sha256": "dc495c049f62574f25a663a72ac941313f833f1774ddd9aebd97a6496e225f3b",
+    "size": 34057
+  },
+  {
+    "path": "ui/skills/mage_fireball.png",
+    "sha256": "dfbba45cbbad526061d9c0df06a97f403fb0eb7665853473bd84ac4a3fda79cd",
+    "size": 33022
+  },
+  {
+    "path": "ui/skills/mage_flame_wave.png",
+    "sha256": "290a5987f0886f0d44267faf3fcdbd61e7cbd98eee7cab70dc0f7f868461b0f1",
+    "size": 34992
+  },
+  {
+    "path": "ui/skills/mage_frost_nova.png",
+    "sha256": "195951df969367171c0845b6e145af93a7be084b8f3ea6e62b90dab0b5abac1a",
+    "size": 36227
+  },
+  {
+    "path": "ui/skills/mage_frost_shard.png",
+    "sha256": "23b25568b69b5f8560254239599adee0f4e84d3fc25536f76c7daaa30221b8cc",
+    "size": 33156
+  },
+  {
+    "path": "ui/skills/mage_frost_snare.png",
+    "sha256": "3781da532ddd887b0dea0ce58dd7146a6c6cdbe73819e9e92740df8271690bad",
+    "size": 35941
+  },
+  {
+    "path": "ui/skills/mage_glacier_field.png",
+    "sha256": "bc466423bd3489b3e5512261743632c96c31c5ed221066b22329a2af52c23a16",
+    "size": 34479
+  },
+  {
+    "path": "ui/skills/mage_hush.png",
+    "sha256": "bc2b4de5935b859d998b64e6c466f1f98cb0878a3109378510dd7e599eeec82c",
+    "size": 34164
+  },
+  {
+    "path": "ui/skills/mage_ice_veins.png",
+    "sha256": "8bde918ec5b1418b79ee218455444aeec9a943ccbb8072d0778143a24251613c",
+    "size": 35025
+  },
+  {
+    "path": "ui/skills/mage_ignite_burst.png",
+    "sha256": "f1032b291e13d5062750ed8e7fd7d8613b74013c7a62a18e9647d79c7782b95c",
+    "size": 32813
+  },
+  {
+    "path": "ui/skills/mage_kindling.png",
+    "sha256": "4e25304be141c50e50949c8535bacc9492312f674bccdb5969b4452061be4f76",
+    "size": 30640
+  },
+  {
+    "path": "ui/skills/mage_lightning_lance.png",
+    "sha256": "5f41052c4f09a8a579e02c1e94c4a8d842df8ca91bbcad860f7a9902629f8b7b",
+    "size": 31079
+  },
+  {
+    "path": "ui/skills/mage_mana_flow.png",
+    "sha256": "a2778ea89680313f57de3fb43fcd8850f09a6b31895c3cb1aac8ff44ba40f17a",
+    "size": 33832
+  },
+  {
+    "path": "ui/skills/mage_mana_share.png",
+    "sha256": "b3c655f9b4e141711a347bc3346642878fad4552f8b444ae6e4318ebe0c01bb1",
+    "size": 34997
+  },
+  {
+    "path": "ui/skills/mage_meteor_fall.png",
+    "sha256": "cd95867f81fe1514bcd3188f0172103d160f8cbbbe70e7875dbe54774cfdb54a",
+    "size": 32319
+  },
+  {
+    "path": "ui/skills/mage_overcharge.png",
+    "sha256": "da6c54c4c14361319d07097a475fb2f7f8c5445ff85ae639c36d57f67a6840b2",
+    "size": 35461
+  },
+  {
+    "path": "ui/skills/mage_prism_aura.png",
+    "sha256": "84de1f05c6af5529f1d5080135218a8538aec0257f6381f616bc60c8addbb77a",
+    "size": 35303
+  },
+  {
+    "path": "ui/skills/mage_shatter.png",
+    "sha256": "10b7c559001176ca4ad711016797dd6ac081c690551a494b3c109d6f647980b3",
+    "size": 36218
+  },
+  {
+    "path": "ui/skills/mage_spark_chain.png",
+    "sha256": "cb1c2ba9af7d02bba5dbb7407b151d1e10f29f1aba4edbd92963a9fe7eee7d07",
+    "size": 35324
+  },
+  {
+    "path": "ui/skills/mage_static_stun.png",
+    "sha256": "9de67f0d9e39ef72c8fce684044294cb8c888a2ff40f3c67a635bab5cc89e4df",
+    "size": 30553
+  },
+  {
+    "path": "ui/skills/mage_thunder_step.png",
+    "sha256": "8236383fbd2a66d1e6e376e831b9b82b3c1f11a8e141227efcc863702e2f0d35",
+    "size": 37176
+  },
+  {
+    "path": "ui/skills/mage_thunderstorm.png",
+    "sha256": "45ea00cd048394855304fe9bb9234d0eb3591e1e5e40b9969097eba4a6aa3f12",
+    "size": 35181
+  },
+  {
+    "path": "ui/skills/ninja_armor_pick.png",
+    "sha256": "9d3789fe108ccedfb937fda24c95c2199f4a2c996caa303cf59d2e7b906620c9",
+    "size": 35911
+  },
+  {
+    "path": "ui/skills/ninja_backstab.png",
+    "sha256": "b7a987d6c813aeb5d1b8aeb010667f05a32b80085468dfc59fe1935f84a89c42",
+    "size": 29954
+  },
+  {
+    "path": "ui/skills/ninja_bleed_slash.png",
+    "sha256": "ae421e211010f29f222d8c9a8cd65c05b24d1b00ecd2b34d340cdcc4d8c11275",
+    "size": 34255
+  },
+  {
+    "path": "ui/skills/ninja_blink_step.png",
+    "sha256": "be30dd976ba337f8527dea340835d33f32bf031639d4e2c4087edc60306f3a4c",
+    "size": 31774
+  },
+  {
+    "path": "ui/skills/ninja_decoy_puppet.png",
+    "sha256": "d02d31957c063f32106ce3994ba081606b3faa96fc2d06da2c57b192bb7c9639",
+    "size": 34092
+  },
+  {
+    "path": "ui/skills/ninja_focus_edge.png",
+    "sha256": "1d498de55e0c0144b4f9c9335ee6a5ada0cf49f537e6f62130a60668687dd2ae",
+    "size": 32660
+  },
+  {
+    "path": "ui/skills/ninja_hundred_shadows.png",
+    "sha256": "2d6b43f4f42bb13ac6744898ae732a03c25a0652ecb1a4bbd74bb94fe2784773",
+    "size": 36552
+  },
+  {
+    "path": "ui/skills/ninja_keen_edge.png",
+    "sha256": "abb1ff620ad1fd522ea55aefb107d30897e11986e0fa793396a97fc81197b18b",
+    "size": 33667
+  },
+  {
+    "path": "ui/skills/ninja_light_step.png",
+    "sha256": "2957171d689682259ac6a89984cf956204b2eb3e9e84e5452e77f7dc92fd85fd",
+    "size": 29760
+  },
+  {
+    "path": "ui/skills/ninja_nimble_dodge.png",
+    "sha256": "fcba660966a413a2a70117955bc66d2d3b58b18dfafc9e96c38b5961766d0efb",
+    "size": 30924
+  },
+  {
+    "path": "ui/skills/ninja_pack_signal.png",
+    "sha256": "de0597bff0ded3e5c53adf50bb926de193bed3764abcef36c1322a186adfa4f0",
+    "size": 34465
+  },
+  {
+    "path": "ui/skills/ninja_pin_needle.png",
+    "sha256": "5a676f1e17c223660532e1038052a010dbb8e8edb61e7095fd4f9bd443f4af31",
+    "size": 33433
+  },
+  {
+    "path": "ui/skills/ninja_poison_cloud.png",
+    "sha256": "3ecdb6ec1ff0b58c48dfdcfd045519220f8d5819ed5219013187cc4678b869f9",
+    "size": 32560
+  },
+  {
+    "path": "ui/skills/ninja_poison_coat.png",
+    "sha256": "e982601be8088e8641999582883377ac7528afc20458d2f8c9ac0db0b14ccdd3",
+    "size": 30414
+  },
+  {
+    "path": "ui/skills/ninja_rear_hunter.png",
+    "sha256": "3a1885190db2ac206e1f9ff7ff8fc0dc87b3789b368c2627a10564d77422d1ed",
+    "size": 32564
+  },
+  {
+    "path": "ui/skills/ninja_ricochet_stars.png",
+    "sha256": "c079039396e666cb97b54372ac5189817004ed62db50f9ce3a5ae866b28ad08a",
+    "size": 34473
+  },
+  {
+    "path": "ui/skills/ninja_shadow_clone.png",
+    "sha256": "d7cf14cc09c4867bb8ffb37d7ad9139ccc3d60d690de1fee767bb393e93f4929",
+    "size": 35742
+  },
+  {
+    "path": "ui/skills/ninja_shadow_dash.png",
+    "sha256": "a11c55aad8e4f105693c3acff628c089592c6a2b189ba0c933c90155fcae7e6c",
+    "size": 27852
+  },
+  {
+    "path": "ui/skills/ninja_silence_needle.png",
+    "sha256": "bc5f6c88e61ebb4ae57793ccfe1f3285e6578755c3a399659f495d5c832ed5dd",
+    "size": 31125
+  },
+  {
+    "path": "ui/skills/ninja_smoke_bomb.png",
+    "sha256": "e7c610bffe910ed41636947b6c371a5f80f7eeaaa32a2bc140825dda515bb68e",
+    "size": 29248
+  },
+  {
+    "path": "ui/skills/ninja_smoke_veil.png",
+    "sha256": "f0420220a6a190a232f8ed8a29327001282c9e143e66b745819250f9bcda865e",
+    "size": 30181
+  },
+  {
+    "path": "ui/skills/ninja_star_fan.png",
+    "sha256": "82129c2df73d18683b9777b210843deff3909369017edad1f3efe5c11da9a1f1",
+    "size": 35078
+  },
+  {
+    "path": "ui/skills/ninja_star_toss.png",
+    "sha256": "b067f59d0909a06adddc3eabaae0f314951dfbfbffc45970fccd9896544fdf62",
+    "size": 33412
+  },
+  {
+    "path": "ui/skills/ninja_swift_breath.png",
+    "sha256": "5afa62ad4b17767a8318e5b9ee667d120403c343f7820fd7862a4171f07c6bb2",
+    "size": 33234
+  },
+  {
+    "path": "ui/skills/ninja_thousand_cuts.png",
+    "sha256": "48923e5853726cf6a4a6e88cc6ed18eab4e6675d8d262bf28c294b75aa74420e",
+    "size": 36719
+  },
+  {
+    "path": "ui/skills/ninja_twin_slash.png",
+    "sha256": "3432687d0ed8f1e5d121bc67d2d81fbbe50b0c50b6df201abac69ff88a92349a",
+    "size": 33344
+  },
+  {
+    "path": "ui/skills/ninja_vanish.png",
+    "sha256": "8b4bd1fa97fd50586d6acac29ada8dc5b8b0384cf3c21df651030bd5380c1d49",
+    "size": 28397
+  },
+  {
+    "path": "ui/skills/ninja_venom_blade.png",
+    "sha256": "6c4ddb18493b5ed576d3e3ad119f70b094292e055e2c11651d59c7dec21f3ea5",
+    "size": 33017
+  },
+  {
+    "path": "ui/skills/ninja_vital_strike.png",
+    "sha256": "942c260504dd2d9754f133b1a1276de4809702badfc85ba931aa74d97f32233a",
+    "size": 32392
+  },
+  {
+    "path": "ui/skills/ninja_whirl_blades.png",
+    "sha256": "264d76e9e92ee080dc31c383f99e36b65c3105d3b34749ad2ae351c319eb3547",
+    "size": 34548
+  },
+  {
+    "path": "ui/skills/sword_armor_pierce.png",
+    "sha256": "6dd9ee3f9e16fbff6d034a95fb73dea49a4d41d1316eca72a55d6268b3214381",
+    "size": 34205
+  },
+  {
+    "path": "ui/skills/sword_bastion_shield.png",
+    "sha256": "59174c6b2c01db7fc90849763d68e409769c74f9f3ff9ab6332886ebeffd45b7",
+    "size": 34997
+  },
+  {
+    "path": "ui/skills/sword_battle_chant.png",
+    "sha256": "e33cc82b5cd11673b11e4b24097c98f807a0131a0e0c2dec2dc5f2f63ecd5bc5",
+    "size": 35780
+  },
+  {
+    "path": "ui/skills/sword_battle_tempo.png",
+    "sha256": "e03ebae03164760c1e94a751ef463f46b3670168be56f792af283f007795efab",
+    "size": 34996
+  },
+  {
+    "path": "ui/skills/sword_blade_frenzy.png",
+    "sha256": "bbe298892ffa31f4a42a7e5c8b65b533ada6ac468a275296fbeca1a2decba95f",
+    "size": 34630
+  },
+  {
+    "path": "ui/skills/sword_blood_boil.png",
+    "sha256": "c4a739a5d8569392096d08b1013b40d8402e076fabe901cae266f777087398e8",
+    "size": 33054
+  },
+  {
+    "path": "ui/skills/sword_blood_edge.png",
+    "sha256": "c4d6ff1f472761ac30c90d22ccba36a73b0eda6040b272965e9735faed8d9150",
+    "size": 34487
+  },
+  {
+    "path": "ui/skills/sword_blood_spray.png",
+    "sha256": "7fc089b2cd5a481781e28cd1bf0c36e513496170e186544a7743c52b3a2de6b9",
+    "size": 36194
+  },
+  {
+    "path": "ui/skills/sword_chain_hold.png",
+    "sha256": "a84f3d349629c0fb2d0862c79466a5298e0bd4e0769e782d5265500f2f68f7f4",
+    "size": 36968
+  },
+  {
+    "path": "ui/skills/sword_clang_hush.png",
+    "sha256": "e6bc9fb0a67f33e34657ebad73c041b210085ff9c3f49d7b9a22105696af6f6b",
+    "size": 35265
+  },
+  {
+    "path": "ui/skills/sword_final_verdict.png",
+    "sha256": "fb26ef6d846fbc76ff1d4f8afa632cdb2114a8df64bd68a78e9426ac1e9f3949",
+    "size": 36825
+  },
+  {
+    "path": "ui/skills/sword_fortress_stand.png",
+    "sha256": "5f0d480286d4aa09ecbb96ad0b2b3c118eebf8d2764b33c1eb73bca3e5db7f9a",
+    "size": 32604
+  },
+  {
+    "path": "ui/skills/sword_ground_slam.png",
+    "sha256": "70fe961b681b898784bd7edf0be7c5528e82c0be295739e02790ca94bad6ddd9",
+    "size": 34823
+  },
+  {
+    "path": "ui/skills/sword_guarded_cut.png",
+    "sha256": "fa5bc3bb9e06ddad698bf4320a3d7f836ffc2b76dfde10f551d22c3fe56fc454",
+    "size": 31052
+  },
+  {
+    "path": "ui/skills/sword_hamstring.png",
+    "sha256": "f670313e53f111fa011b0dc83409f57b080c1d9f6e16e76952b611e4debe2fa0",
+    "size": 33518
+  },
+  {
+    "path": "ui/skills/sword_heavy_cleave.png",
+    "sha256": "1b6cdb524a8e8675141abdf1c93faf72069843c153d58fc02a16522a7adcc6ef",
+    "size": 36035
+  },
+  {
+    "path": "ui/skills/sword_iron_skin.png",
+    "sha256": "8ba24b5972535738251967c495692ac78032e414ea88b35cfe235c88107943ff",
+    "size": 33697
+  },
+  {
+    "path": "ui/skills/sword_iron_stance.png",
+    "sha256": "dfc2e6160b75225a9e993ba3a1c6ec0c19d521de9f4dbf67a895df86987f2b58",
+    "size": 33841
+  },
+  {
+    "path": "ui/skills/sword_keen_streak.png",
+    "sha256": "d9e82b9c675581578e6d07de919fd8d97e75115f6e4296d6593e49509b9252cf",
+    "size": 30257
+  },
+  {
+    "path": "ui/skills/sword_leap_strike.png",
+    "sha256": "03693a57e864fa5b66f7e0c2f6d1ce02a1172ba1d03c29595857fc04c8e14989",
+    "size": 35277
+  },
+  {
+    "path": "ui/skills/sword_lifesteal_edge.png",
+    "sha256": "f9041b0ad2385fb909e822b39ff4675e04e7d89cb6d37ed36128541d9653d37f",
+    "size": 33232
+  },
+  {
+    "path": "ui/skills/sword_shield_bash.png",
+    "sha256": "d78281015f5b85a1a7f391aa03d22b771740a80741a93a39aea8824a786630fa",
+    "size": 34563
+  },
+  {
+    "path": "ui/skills/sword_shield_mastery.png",
+    "sha256": "a42b62a6e3fcbfe844bcc310c7c9bbf5554576a2ca9ec60c914d4badf2dd63ab",
+    "size": 32388
+  },
+  {
+    "path": "ui/skills/sword_shield_rush.png",
+    "sha256": "0ff86084d9b1870c7b114bf3c1909f7589b53e62a6dc1b88cc3882a43b420408",
+    "size": 32388
+  },
+  {
+    "path": "ui/skills/sword_shield_wave.png",
+    "sha256": "4ccc81cffbe26bc14a65569f5ceab2f697b3a755ecc522c0042e17f2ecb992f8",
+    "size": 37954
+  },
+  {
+    "path": "ui/skills/sword_sweep_arc.png",
+    "sha256": "39d9e576a626e273c7640738e01a1ed763ea7c98949e5e91627cd03da351928d",
+    "size": 32340
+  },
+  {
+    "path": "ui/skills/sword_sworn_link.png",
+    "sha256": "1b9134e76202027409f59c3d0ef8cd688ac0a9db8509c8b23cc1359d36c369b9",
+    "size": 36453
+  },
+  {
+    "path": "ui/skills/sword_taunt_call.png",
+    "sha256": "691e8893da142145f6f7cc479ab0e9579e256f93f6b7745c7491f3e5b9c37be5",
+    "size": 32580
+  },
+  {
+    "path": "ui/skills/sword_unyielding.png",
+    "sha256": "3a2e672dafe544b2ae0357e3b39fab598d91dc38fa9f52848e496fd8a293bcad",
+    "size": 33998
+  },
+  {
+    "path": "ui/skills/sword_wounded_fury.png",
+    "sha256": "f93edb8fe28b8608618e8ecc5daf29d68ea6dc70619827d786f69b7e73a06b2a",
+    "size": 34755
   }
 ]
