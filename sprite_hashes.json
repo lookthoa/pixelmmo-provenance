@@ -26453,5 +26453,10 @@
     "path": "items/icon3d/starter_house_level_1.png",
     "sha256": "4792b3f4276e82209f5b25bb40863920213194409d67602568242e89b5dcb4bc",
     "size": 1701
+  },
+  {
+    "path": "uploaded/furniture/village_flagstones.png",
+    "sha256": "7a9035e82ce499423419e75024f319a6cf6b28c22fb9239b181e499a265bc0de",
+    "size": 179991
   }
 ]
