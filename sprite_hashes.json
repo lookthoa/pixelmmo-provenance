@@ -26448,5 +26448,10 @@
     "path": "uploaded/furniture/village_water_trough.png",
     "sha256": "fe071c32cf10ea99a84f036e3908d49625ab36d7d7ff65b38f08c0e7a015e937",
     "size": 172921
+  },
+  {
+    "path": "items/icon3d/starter_house_level_1.png",
+    "sha256": "4792b3f4276e82209f5b25bb40863920213194409d67602568242e89b5dcb4bc",
+    "size": 1701
   }
 ]
