@@ -25373,5 +25373,10 @@
     "path": "uploaded/furniture/village_well.png",
     "sha256": "849e61ce553c52144fe330d09af216d26d2c343e3076de81c2e3da803d4126b9",
     "size": 3975
+  },
+  {
+    "path": "items/icon3d/coin.png",
+    "sha256": "31f06da5f98dc6baaf360e9f6690045b2315b2c1a429ac41e3b35272db32b782",
+    "size": 675
   }
 ]
