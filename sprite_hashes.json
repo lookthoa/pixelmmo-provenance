@@ -26528,5 +26528,25 @@
     "path": "uploaded/furniture/village_tree_small_2.png",
     "sha256": "af93c4e545a8f23a5d35b422f7b10295fc6518606d59d7f42a832e0d6f502b82",
     "size": 174105
+  },
+  {
+    "path": "uploaded/special_items/cave_mouth_bat.png",
+    "sha256": "e3c22fdb7bc506715385a207264bafc32104c13771fee855903446d13aba7356",
+    "size": 6365
+  },
+  {
+    "path": "uploaded/special_items/cave_mouth_ice.png",
+    "sha256": "e3c22fdb7bc506715385a207264bafc32104c13771fee855903446d13aba7356",
+    "size": 6365
+  },
+  {
+    "path": "uploaded/special_items/cave_mouth_poison.png",
+    "sha256": "e3c22fdb7bc506715385a207264bafc32104c13771fee855903446d13aba7356",
+    "size": 6365
+  },
+  {
+    "path": "uploaded/special_items/cave_mouth_prison.png",
+    "sha256": "e3c22fdb7bc506715385a207264bafc32104c13771fee855903446d13aba7356",
+    "size": 6365
   }
 ]
