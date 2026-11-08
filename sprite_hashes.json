@@ -26548,5 +26548,20 @@
     "path": "uploaded/special_items/cave_mouth_prison.png",
     "sha256": "e3c22fdb7bc506715385a207264bafc32104c13771fee855903446d13aba7356",
     "size": 6365
+  },
+  {
+    "path": "uploaded/special_items/cave_mouth_lava.png",
+    "sha256": "e3c22fdb7bc506715385a207264bafc32104c13771fee855903446d13aba7356",
+    "size": 6365
+  },
+  {
+    "path": "uploaded/special_items/cave_mouth_tomb.png",
+    "sha256": "e3c22fdb7bc506715385a207264bafc32104c13771fee855903446d13aba7356",
+    "size": 6365
+  },
+  {
+    "path": "uploaded/special_items/cave_mouth_tower.png",
+    "sha256": "e3c22fdb7bc506715385a207264bafc32104c13771fee855903446d13aba7356",
+    "size": 6365
   }
 ]
