@@ -26613,5 +26613,30 @@
     "path": "ui/icons/settings.png",
     "sha256": "b3e8ada3eac6c26699d7c8379481cf0c28ac941b2c86dbc1da1e100ac6d5f3f1",
     "size": 1232
+  },
+  {
+    "path": "items/icon3d/animal_hide.png",
+    "sha256": "71a92a7fa348fd4bf7a7bad24a3fd64deb806366fd514dcc2c147c4f583755cf",
+    "size": 513
+  },
+  {
+    "path": "items/icon3d/cooked_meat.png",
+    "sha256": "4156855e3806c49113f514194ed78e72f86ca3fcecb1c503a8db0d17658432a0",
+    "size": 1041
+  },
+  {
+    "path": "items/icon3d/feather.png",
+    "sha256": "5baa6f4bcf98460c2d63bb650adabed04f8a9d0f46779d6ca0f80057b7a3c375",
+    "size": 812
+  },
+  {
+    "path": "items/icon3d/raw_meat.png",
+    "sha256": "e23e5926c9338cc719d8457ffc8de400c5414d1933793a8c7275807c0708fbbf",
+    "size": 897
+  },
+  {
+    "path": "items/icon3d/wool.png",
+    "sha256": "0c865d839831e123c218d99fcfab7946b6572ffe7579f84d2c92db1dd915a717",
+    "size": 850
   }
 ]
