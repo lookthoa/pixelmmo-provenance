@@ -26638,5 +26638,45 @@
     "path": "items/icon3d/wool.png",
     "sha256": "0c865d839831e123c218d99fcfab7946b6572ffe7579f84d2c92db1dd915a717",
     "size": 850
+  },
+  {
+    "path": "items/icon3d/egg.png",
+    "sha256": "bf8a2848b7d23cdc019f44868116049d31a7e2461ce62b4cc4789b8e206baa28",
+    "size": 682
+  },
+  {
+    "path": "items/icon3d/feed_trough.png",
+    "sha256": "9a3e6d9b312a630484057fbe9573e293f4735920ac94f98fbd191413d935eb07",
+    "size": 665
+  },
+  {
+    "path": "items/icon3d/live_chicken.png",
+    "sha256": "4bb363912d62633129ecc8eb1fd5df962827cb7f341b30c010c47fc1f900b070",
+    "size": 1567
+  },
+  {
+    "path": "items/icon3d/live_cow.png",
+    "sha256": "b300c8bbc87fd5418e6eb123637c3cc1e215f9d84681001913774ec054eb6be2",
+    "size": 1161
+  },
+  {
+    "path": "items/icon3d/live_pig.png",
+    "sha256": "8309643a45f176041b01e623d3419d5a6de5fed7ff6d0d6b93a7e7cabe277864",
+    "size": 995
+  },
+  {
+    "path": "items/icon3d/live_sheep.png",
+    "sha256": "8c20c0c551206170520353353596794c03c143a10937d41b5c6bfae41fa91bbe",
+    "size": 1365
+  },
+  {
+    "path": "items/icon3d/milk.png",
+    "sha256": "ae2d6a4ff568c1ddecb38c71f5dc1f97248da876cfac517ae851a355212d9fd2",
+    "size": 894
+  },
+  {
+    "path": "items/icon3d/rope.png",
+    "sha256": "2389712de33cf5c978e1333226af3539984f78791871a7f366b59b964dd106fa",
+    "size": 1261
   }
 ]
