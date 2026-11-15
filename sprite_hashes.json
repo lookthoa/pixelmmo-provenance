@@ -26563,5 +26563,55 @@
     "path": "uploaded/special_items/cave_mouth_tower.png",
     "sha256": "e3c22fdb7bc506715385a207264bafc32104c13771fee855903446d13aba7356",
     "size": 6365
+  },
+  {
+    "path": "ui/icons/attack.png",
+    "sha256": "41fc349c07f262c4816b2593593ed0f234b44fc4d02f54c09d888e9464e2deb2",
+    "size": 1014
+  },
+  {
+    "path": "ui/icons/bag.png",
+    "sha256": "c952b461694f45e1b7f2e9ca61c92e312a5c45e4ac604b359d9e0b31773fb86a",
+    "size": 1151
+  },
+  {
+    "path": "ui/icons/crafting.png",
+    "sha256": "72b19ddd4ac9a1f110385fb842245b7564e1b7006e3003f8a3fcde0ce056101c",
+    "size": 1378
+  },
+  {
+    "path": "ui/icons/friends.png",
+    "sha256": "e092a2976e4362c530ede8a9c1cba7be31a65fb38456573b5fcb059a269e3007",
+    "size": 1749
+  },
+  {
+    "path": "ui/icons/fullscreen_enter.png",
+    "sha256": "1710ed030c5ce04d1db3b5d21a2a5cb0b94ba2d6cf3654103584469e33e4ce58",
+    "size": 728
+  },
+  {
+    "path": "ui/icons/fullscreen_exit.png",
+    "sha256": "9d481632c687fa7189f61d19ed66d9fa2b2fdfad72f2707e4a79ff217ddad920",
+    "size": 756
+  },
+  {
+    "path": "ui/icons/guild.png",
+    "sha256": "5c87386a4ad1e3224248f27d5997f170c2a41885f3a5b021ab4eac7efd2854d2",
+    "size": 1211
+  },
+  {
+    "path": "ui/icons/mail.png",
+    "sha256": "9119e9005bb1feb2c4ef5aad23efd030f6df33d919fe3a070b28dd6612e832d8",
+    "size": 990
+  },
+  {
+    "path": "ui/icons/map.png",
+    "sha256": "62da205bf2f162985e71968a5a0b915b4a57f3aab1025b6e486f29d6daa95614",
+    "size": 897
+  },
+  {
+    "path": "ui/icons/settings.png",
+    "sha256": "b3e8ada3eac6c26699d7c8379481cf0c28ac941b2c86dbc1da1e100ac6d5f3f1",
+    "size": 1232
   }
 ]
