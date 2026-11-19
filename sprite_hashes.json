@@ -26703,5 +26703,20 @@
     "path": "actors/outfits/sailor_set_hat/icon.png",
     "sha256": "9c77134054ae8f51f282a3ee131261814a8f08e9ed4d97600adcf71f12c9ac9b",
     "size": 1283
+  },
+  {
+    "path": "items/icon3d/set_mvm1s1yz_hat.png",
+    "sha256": "116c87efc98c7280e887d9a3f46277defe6fdd8f9d6fbeb7e361e2dec236174b",
+    "size": 1614
+  },
+  {
+    "path": "items/icon3d/test_kit_hat.png",
+    "sha256": "6922ff6990f01e36744e1142154f2174a0228d5ca1e9049cfd7a232bd4dc7858",
+    "size": 1319
+  },
+  {
+    "path": "items/icon3d/woven_straw_hat.png",
+    "sha256": "4265670352df246d2e1e527fccfb78f938f7a6f924b489064af24089561e887f",
+    "size": 1473
   }
 ]
