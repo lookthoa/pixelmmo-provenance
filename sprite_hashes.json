@@ -26678,5 +26678,30 @@
     "path": "items/icon3d/rope.png",
     "sha256": "2389712de33cf5c978e1333226af3539984f78791871a7f366b59b964dd106fa",
     "size": 1261
+  },
+  {
+    "path": "actors/outfits/knight_set_hat/icon.png",
+    "sha256": "4f5a4968091a045283b81e07c87dd77cecad148feb60ccf9b60b1aa3bb84148b",
+    "size": 1642
+  },
+  {
+    "path": "actors/outfits/mage_set_hat/icon.png",
+    "sha256": "9cc1c1521e64dd6e9d48554ff287968974dfe0d4bda10dd70b1456671a78a65f",
+    "size": 1304
+  },
+  {
+    "path": "actors/outfits/ninja_set_hat/icon.png",
+    "sha256": "ddcee2b38470a92feff528019774b49dabc250134ba59b93bad0b321a7cd06d6",
+    "size": 1283
+  },
+  {
+    "path": "actors/outfits/nomad_set_hat/icon.png",
+    "sha256": "cf2790d65556f62155b780c8b8012d002940b8f16655fe42108010c25ffd5d33",
+    "size": 1186
+  },
+  {
+    "path": "actors/outfits/sailor_set_hat/icon.png",
+    "sha256": "9c77134054ae8f51f282a3ee131261814a8f08e9ed4d97600adcf71f12c9ac9b",
+    "size": 1283
   }
 ]
