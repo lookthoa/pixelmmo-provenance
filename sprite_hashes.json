@@ -26718,5 +26718,25 @@
     "path": "items/icon3d/woven_straw_hat.png",
     "sha256": "4265670352df246d2e1e527fccfb78f938f7a6f924b489064af24089561e887f",
     "size": 1473
+  },
+  {
+    "path": "items/icon3d/look_card.png",
+    "sha256": "2ff0663206e6ca61657682a1437e2022701a567d6240d34d27f1d35104ee60ab",
+    "size": 1895
+  },
+  {
+    "path": "items/icon3d/vip_card_1.png",
+    "sha256": "8b9872583f2f464e895f01d8bd997aa820797570db3e2d6bc89bad748a9cd07c",
+    "size": 1190
+  },
+  {
+    "path": "items/icon3d/vip_card_2.png",
+    "sha256": "3d38b71e52b85d1cfb0c5ff0ca013a8564f5f3d61b30195a99d32d83f10c42ed",
+    "size": 1480
+  },
+  {
+    "path": "items/icon3d/vip_card_3.png",
+    "sha256": "c3086ee25805b2184632ffb8dbc6cd9c3c4501fce7008225a702248f1a1c4209",
+    "size": 1989
   }
 ]
