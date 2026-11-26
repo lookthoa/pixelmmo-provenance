@@ -26738,5 +26738,10 @@
     "path": "items/icon3d/vip_card_3.png",
     "sha256": "c3086ee25805b2184632ffb8dbc6cd9c3c4501fce7008225a702248f1a1c4209",
     "size": 1989
+  },
+  {
+    "path": "uploaded/trees/tree_meshy_cartoon.png",
+    "sha256": "64da2b5ab9dee0d1cbdfbbd3778142824242f464985b3e505014406351e77f09",
+    "size": 33881
   }
 ]
