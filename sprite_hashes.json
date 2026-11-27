@@ -27178,5 +27178,65 @@
     "path": "items/icon3d/wild_berries.png",
     "sha256": "9964a13d73a3b62914e7496ddb22d70d9b8ab74d46551ccb10f680cfc4da7c43",
     "size": 3513
+  },
+  {
+    "path": "items/icon3d/big_furnace.png",
+    "sha256": "c37b647191e8e20f0f9492bba132d72c477e6efb2032b04e9acdb6c475779755",
+    "size": 4545
+  },
+  {
+    "path": "items/icon3d/box_big.png",
+    "sha256": "81e2a98ab93e86f9480e7d8aba4cfd6ddb303b6e32efd7058c3f14aa61ecb5af",
+    "size": 5490
+  },
+  {
+    "path": "items/icon3d/crafting_table.png",
+    "sha256": "d2b8110c7af8d2e228fea7269f48e6fd5a620f2c9085e654f4c2a495ee47a041",
+    "size": 4680
+  },
+  {
+    "path": "items/icon3d/feed_trough.png",
+    "sha256": "ef9672c400d207577f79385ca0462c85fb9d65619dcb195ac8744dadc89299cc",
+    "size": 3355
+  },
+  {
+    "path": "items/icon3d/fence.png",
+    "sha256": "13b86334268d2670c430dd0c017236161d16af7670aa766ac5631bd6d027b00c",
+    "size": 2406
+  },
+  {
+    "path": "items/icon3d/hedge_fence.png",
+    "sha256": "bfcca7b28f86296d6e97c4297af24850f3506582f1d6c102b7c1812021a2f75c",
+    "size": 4534
+  },
+  {
+    "path": "items/icon3d/hedge_fence_gate.png",
+    "sha256": "390d177254c9ca322881a4060e65504c3bd9c26f0c7c06eae4acc2b66c69e888",
+    "size": 3403
+  },
+  {
+    "path": "items/icon3d/stone_fence.png",
+    "sha256": "96f1d9637cb576465ad4b7b00896ae178046381e73fc7c75143eaf7572c75a1b",
+    "size": 4121
+  },
+  {
+    "path": "items/icon3d/stone_fence_gate.png",
+    "sha256": "e6f6b0476befdf059a67ac60599d9cf3bd92f409d0ed2907e3d3a4ef7d0503b3",
+    "size": 3495
+  },
+  {
+    "path": "items/icon3d/wooden_chair.png",
+    "sha256": "c802441a5892316aedf47b84868743464ed9b6c52bcf0f09cf04b08f85090152",
+    "size": 3369
+  },
+  {
+    "path": "items/icon3d/wooden_fence.png",
+    "sha256": "7232e72721bec83fe7081d98e74d47662b237b80acf2f8932a8f881ba4c332c7",
+    "size": 2368
+  },
+  {
+    "path": "items/icon3d/wooden_fence_gate.png",
+    "sha256": "0c36970c2736367f737db868bb047daeb13216eb54d0e3fbef748654803849f0",
+    "size": 3097
   }
 ]
