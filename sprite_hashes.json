@@ -27063,5 +27063,120 @@
     "path": "items/icon3d/wool.png",
     "sha256": "bf007ab7ad779c8cdc8dd7c4a3931d5d572d61a7bde1e647a18819c0f8cd261f",
     "size": 4475
+  },
+  {
+    "path": "items/icon3d/berry_tree_seed.png",
+    "sha256": "18b99119283950663ffb572bbd82aa6387756f99d36e59f099d7b6c98d826058",
+    "size": 2096
+  },
+  {
+    "path": "items/icon3d/bomb_ancient.png",
+    "sha256": "13e84c3ae25721e5b278e4430e4a9d59cd384f8a13869c171027bc1e02cf8882",
+    "size": 5937
+  },
+  {
+    "path": "items/icon3d/cooked_meat.png",
+    "sha256": "287c9f1473316618324d0b6f6472f20287d46552ee834819f1b3a0cc12e14872",
+    "size": 3796
+  },
+  {
+    "path": "items/icon3d/corn_sheath.png",
+    "sha256": "4e7cc064ede88a09a1a938ad24ca1f00f15f6db45d2d0fc7ba34caca5da34d0e",
+    "size": 5701
+  },
+  {
+    "path": "items/icon3d/egg.png",
+    "sha256": "869949a0ef38e7e5383d6b60a01b59d305991bc4671fccc34f231d36fd196f7e",
+    "size": 2254
+  },
+  {
+    "path": "items/icon3d/hp_potion.png",
+    "sha256": "41c2005ef8b5c76dcbe8927979e105d812bb923e12e4cf2dc151f19dd84b7b02",
+    "size": 3051
+  },
+  {
+    "path": "items/icon3d/hp_potion_m.png",
+    "sha256": "c72fdb242abffe142673fa9967dd5078c964775d174a578fc4b020be0ca6d462",
+    "size": 2497
+  },
+  {
+    "path": "items/icon3d/hp_potion_s.png",
+    "sha256": "ad3f3a78a31caf6a257efb26af5690ac8fe3097484e5db4919f9ee95d2db846a",
+    "size": 1859
+  },
+  {
+    "path": "items/icon3d/hp_potion_xl.png",
+    "sha256": "9c384e9b332bd9e1c74be28ad77d5542f6eaa261e26a04f08f350b80c64dedf9",
+    "size": 5169
+  },
+  {
+    "path": "items/icon3d/live_chicken.png",
+    "sha256": "43f390c6096e6f6854a44deb55beede73220e417d4fdc5ebcbdcaf93fd4f9ca6",
+    "size": 4893
+  },
+  {
+    "path": "items/icon3d/live_cow.png",
+    "sha256": "6cd4813c55fbdee057b432d345d4d1f0ae864d60307ab787ef3d27a90f63cbc5",
+    "size": 6344
+  },
+  {
+    "path": "items/icon3d/live_pig.png",
+    "sha256": "8f5ddbcf2ab1334816fc45d7997426e628f0cdd50e21b95f23a134ed30e3dca2",
+    "size": 4639
+  },
+  {
+    "path": "items/icon3d/live_sheep.png",
+    "sha256": "370f11fe376cefde68f6a32a2d360a3ebabfef1240bea040a66a1e6e54fecd17",
+    "size": 6064
+  },
+  {
+    "path": "items/icon3d/maize_seed.png",
+    "sha256": "d8870bdf411cd199b1764e15616a2d05a3ab7a7ec4a39e7892b2f7c3c8f96029",
+    "size": 5875
+  },
+  {
+    "path": "items/icon3d/milk.png",
+    "sha256": "9bc864acb159258225aa84ff0aa792c6f9050a601283e1e1e761c8867f6c4d8f",
+    "size": 3832
+  },
+  {
+    "path": "items/icon3d/mp_potion.png",
+    "sha256": "ed6b183a26db14e433ed914fb231a8763bce9846436feb62fcf1322a034c6543",
+    "size": 2855
+  },
+  {
+    "path": "items/icon3d/mp_potion_m.png",
+    "sha256": "352d4663704ff5b3b2bd22083a25cc0590d39f922411c6192c64c46b459fe1be",
+    "size": 2322
+  },
+  {
+    "path": "items/icon3d/mp_potion_s.png",
+    "sha256": "503e892d4d62289523d0c1793e015570cfc7bc2dd0fde396a22f57b36847c889",
+    "size": 1815
+  },
+  {
+    "path": "items/icon3d/mp_potion_xl.png",
+    "sha256": "73017a28178de603013944677b5357cdc8966cd9fa6db5dfc897a1022bd3bc34",
+    "size": 4494
+  },
+  {
+    "path": "items/icon3d/poisonous_plant.png",
+    "sha256": "13a3cfd202ad40507469ba430d62828bae8a1c21f3f63d28058d25235a70f3e9",
+    "size": 4128
+  },
+  {
+    "path": "items/icon3d/pumpkin_tree_seed.png",
+    "sha256": "104496788001b45e86913f60af0acc61fcd38347da1e4a403ad4ea44ab604427",
+    "size": 2061
+  },
+  {
+    "path": "items/icon3d/raw_meat.png",
+    "sha256": "ddd33e760a5725d8482d964dee2cf38da3d9251009e8a41920f9309b7f181901",
+    "size": 3593
+  },
+  {
+    "path": "items/icon3d/wild_berries.png",
+    "sha256": "9964a13d73a3b62914e7496ddb22d70d9b8ab74d46551ccb10f680cfc4da7c43",
+    "size": 3513
   }
 ]
