@@ -27238,5 +27238,180 @@
     "path": "items/icon3d/wooden_fence_gate.png",
     "sha256": "0c36970c2736367f737db868bb047daeb13216eb54d0e3fbef748654803849f0",
     "size": 3097
+  },
+  {
+    "path": "ui/icons/attack.png",
+    "sha256": "dac664bbcf83d725a985f41b11ca10fa1d22b07b752335197df2792ebbca2d41",
+    "size": 9641
+  },
+  {
+    "path": "ui/icons/back.png",
+    "sha256": "9ef915e28ac4140f2b4e3459ecdfdc72b8dc951c353a66e8f229246d569d0877",
+    "size": 5904
+  },
+  {
+    "path": "ui/icons/bag.png",
+    "sha256": "2d9fc692b02e02240eef449c7354b69be5acf86f67042501985eb3dc9888e823",
+    "size": 8899
+  },
+  {
+    "path": "ui/icons/bomb.png",
+    "sha256": "7a921a3dabd74851446589e5f8efcd2732764c67b64094121ed43ec82fbe15f7",
+    "size": 6459
+  },
+  {
+    "path": "ui/icons/character.png",
+    "sha256": "652b45548776ed6df44fe0323765133dd5cec5a748b7def6006933cda32632d6",
+    "size": 8282
+  },
+  {
+    "path": "ui/icons/chat.png",
+    "sha256": "6db320088b00473b26401c2bbd8b332c153fd86291807d223b880961763b1a22",
+    "size": 6838
+  },
+  {
+    "path": "ui/icons/close.png",
+    "sha256": "2b36c6b3f44af7425121c8d10cf38b05aed05d65d4796c9f0543416e2e610beb",
+    "size": 8267
+  },
+  {
+    "path": "ui/icons/crafting.png",
+    "sha256": "e4610c45873d2e0c530dfd73c4ae2aa81e026bc1886f2319a04dfc3f38332711",
+    "size": 6809
+  },
+  {
+    "path": "ui/icons/friends.png",
+    "sha256": "8b8570dfe051df15e0b18b3716648030a5d3be23b944f4e4918a4d06203d6510",
+    "size": 5829
+  },
+  {
+    "path": "ui/icons/fullscreen_enter.png",
+    "sha256": "6288744ccec860c145b207d60d466af147bfda35f8760d1415cbf6be48a52fbc",
+    "size": 6875
+  },
+  {
+    "path": "ui/icons/fullscreen_exit.png",
+    "sha256": "a6ace81ded74c97cc80208554ca5aeb8eec1ac8c61f0071c2ed4e52425c40b4a",
+    "size": 8110
+  },
+  {
+    "path": "ui/icons/gem.png",
+    "sha256": "4badef31e718097d3dd16d863d373050475e1fecd8b01851e7b69cc6b3063383",
+    "size": 5684
+  },
+  {
+    "path": "ui/icons/guild.png",
+    "sha256": "243b2f333d525c80f7dcb248aa519e16cb9269114194742a121a8be913ac6675",
+    "size": 6186
+  },
+  {
+    "path": "ui/icons/heart.png",
+    "sha256": "2364e55622df7c2d94f9be4ee6809fa0bd6cd3934bc8d2d1f4d9c38938d626ba",
+    "size": 6754
+  },
+  {
+    "path": "ui/icons/hp_potion.png",
+    "sha256": "b24a9f071325d29dbe87a3d5b6f94dcc38b675fc115738f874471df8f97c5ae0",
+    "size": 6743
+  },
+  {
+    "path": "ui/icons/key.png",
+    "sha256": "f774f330afabfe71b0ee03e8cc3f884c6736c055143ed0d28319f116912617d9",
+    "size": 6335
+  },
+  {
+    "path": "ui/icons/language.png",
+    "sha256": "e53f1ebab277eeba158b3719867dcd1035d7ce6d8e08b4099e1d1cf25867c836",
+    "size": 8795
+  },
+  {
+    "path": "ui/icons/leaf.png",
+    "sha256": "0cefaf3a7ec05b3578377d6fe1a07e747abf2271ae27e90dac4394f3e56a73f3",
+    "size": 6609
+  },
+  {
+    "path": "ui/icons/locked.png",
+    "sha256": "1723dc20caf62a7a5b6c777d1b61fe5faebdfc13a042391874e0c287582ea09c",
+    "size": 6771
+  },
+  {
+    "path": "ui/icons/logout.png",
+    "sha256": "a596ad03b6d1ea34b09a0d85719bafbe5412ec937644f163aa66089c58e8ae20",
+    "size": 7128
+  },
+  {
+    "path": "ui/icons/mail.png",
+    "sha256": "61868581f29f9ccab8b6ed9fdd9df8b251f1f5b7366d3836638b1a6c81aa76de",
+    "size": 6053
+  },
+  {
+    "path": "ui/icons/map.png",
+    "sha256": "c6cf231f32d5db353832a90b9758564a817404a23f08371f6dec11722fc5a875",
+    "size": 7615
+  },
+  {
+    "path": "ui/icons/music.png",
+    "sha256": "25e2c9007c5fe8c45912c1559cf1a0a7f94a1d96f6ef6b2aa26475f3485127ca",
+    "size": 6601
+  },
+  {
+    "path": "ui/icons/play.png",
+    "sha256": "a7c25d0ab4bdec82ccdbced770de9bd4aec82b8dd016d34f5ed759f09e1e393e",
+    "size": 7323
+  },
+  {
+    "path": "ui/icons/settings.png",
+    "sha256": "110a2a0e6b566b087f6d879a7b8c4ac1de6adbbb6f3ea54ada19b65726d1afe4",
+    "size": 8570
+  },
+  {
+    "path": "ui/icons/shield.png",
+    "sha256": "c227805d0f10e4f87114b0057ae4f6f710d09a11fa2f3efd9ab88f9630e834b2",
+    "size": 7226
+  },
+  {
+    "path": "ui/icons/skills.png",
+    "sha256": "2c58404207fb7765dbe77fe2bf498031c113a17fe1676d8fc226bdb019a9cc13",
+    "size": 7601
+  },
+  {
+    "path": "ui/icons/slot_boots.png",
+    "sha256": "c836b710545ccc924fd982340471f87d17e2f019888b0b0768ed11a66e836b2e",
+    "size": 7696
+  },
+  {
+    "path": "ui/icons/slot_hair.png",
+    "sha256": "e500f22e3e4e6fe408b223cb869d6075dc1cc3dbf85494350ef88fb58a2b241e",
+    "size": 6344
+  },
+  {
+    "path": "ui/icons/slot_helmet.png",
+    "sha256": "286defa08920cecd0736ab019c3ea4d60c313a22f601fdac5dc20297cd4bd1e5",
+    "size": 7821
+  },
+  {
+    "path": "ui/icons/slot_outfit.png",
+    "sha256": "5f2c1babb2585a9f43077651712bc7c4d66d8813a475bae57f197aac85a612a9",
+    "size": 6945
+  },
+  {
+    "path": "ui/icons/slot_ring.png",
+    "sha256": "fb1ca53b76c4d07457fa7f8bf2135ac849a4fdea59ea5953ff889009c8905065",
+    "size": 7155
+  },
+  {
+    "path": "ui/icons/slot_weapon.png",
+    "sha256": "8a587a90f753964157a7df79874cabc59e47bc02746e8eb1e21333c6027e2b1e",
+    "size": 5870
+  },
+  {
+    "path": "ui/icons/sound_on.png",
+    "sha256": "0d0fb40942fc8b2177c7394a7ae6c5a61f7b4e6c2090d7e5f1db51071c8e92b3",
+    "size": 7158
+  },
+  {
+    "path": "ui/icons/stop.png",
+    "sha256": "ebcc4bb204f97bf087da2dec2e195ea9cc0a5d0f6674fcf5180649f599aab134",
+    "size": 7268
   }
 ]
