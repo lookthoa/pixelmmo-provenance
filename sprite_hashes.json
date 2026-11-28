@@ -27413,5 +27413,215 @@
     "path": "ui/icons/stop.png",
     "sha256": "ebcc4bb204f97bf087da2dec2e195ea9cc0a5d0f6674fcf5180649f599aab134",
     "size": 7268
+  },
+  {
+    "path": "ui/icons/attack.png",
+    "sha256": "d0b28ce94a2438017fd280f659846e97793f036219121a8bd5e0be9222aaf58d",
+    "size": 8555
+  },
+  {
+    "path": "ui/icons/back.png",
+    "sha256": "26ff5fee9ccae5d745ecfc9afe8bb61f32a246964971c7ed2fe689c938d550ac",
+    "size": 4679
+  },
+  {
+    "path": "ui/icons/bag.png",
+    "sha256": "9c78e22661ad689416a787eb7fd48193284142060f0b95f514a9d9b4436a9bdc",
+    "size": 7286
+  },
+  {
+    "path": "ui/icons/bomb.png",
+    "sha256": "9b4a7009e91e87b1669e475e5ee263a54617425106f7c1d57fa35041367b397c",
+    "size": 5453
+  },
+  {
+    "path": "ui/icons/character.png",
+    "sha256": "5a34dfff3451980e950e0d748c72173907e78e5fc3f018b0a975797c3282dee4",
+    "size": 7713
+  },
+  {
+    "path": "ui/icons/chat.png",
+    "sha256": "373d279f8b3d9db4f3caad3e521e3e1b61bb040c398904e042c812c7164571a2",
+    "size": 5936
+  },
+  {
+    "path": "ui/icons/close.png",
+    "sha256": "e9e4b37460571e6d89289cdb177d580d612a78f1ed3c071ad2a8705b494825fe",
+    "size": 7085
+  },
+  {
+    "path": "ui/icons/crafting.png",
+    "sha256": "a2458f396b1dd33461f9912e48921239b5fd15093f5a3969f2c26573ef7b0133",
+    "size": 5361
+  },
+  {
+    "path": "ui/icons/friends.png",
+    "sha256": "4a994228f85245c7fb77a2003fa3f683838552564f4f38fb43ac5b4f59d03d62",
+    "size": 5177
+  },
+  {
+    "path": "ui/icons/fullscreen_enter.png",
+    "sha256": "f323b9e7496c4ffec64a0969a39828ac4d8784b734817583e2ce889c39c687f9",
+    "size": 6983
+  },
+  {
+    "path": "ui/icons/fullscreen_exit.png",
+    "sha256": "09e2f736bde01791c3575b710031bd422a2d60e3192b2417aef6dfb4f3b739cd",
+    "size": 6941
+  },
+  {
+    "path": "ui/icons/gem.png",
+    "sha256": "d04af46eabc53e51fe84f4018dbfcf0dc2dc2f90deecc86caf850a78484ab809",
+    "size": 5395
+  },
+  {
+    "path": "ui/icons/guild.png",
+    "sha256": "33eecb5a303d7b7c6f6122edc474310b0b6f980f7392456df6a9ad8a52e973fa",
+    "size": 5479
+  },
+  {
+    "path": "ui/icons/heart.png",
+    "sha256": "3ce704f963bfac4ee7dcdd497b94de0fdc38ea8d9dcd8a6a01bf1de4b8aaad34",
+    "size": 6034
+  },
+  {
+    "path": "ui/icons/hp_potion.png",
+    "sha256": "c4a4270636c8b9d979a38dca0e719dedf747bbb3b9c37e19d6cf9466695e42c7",
+    "size": 6354
+  },
+  {
+    "path": "ui/icons/joystick_base.png",
+    "sha256": "3cee4c4c1bcf43516d0389ce9402edd021a02e59bc8cf94727e6643349635aee",
+    "size": 7213
+  },
+  {
+    "path": "ui/icons/joystick_knob.png",
+    "sha256": "0003029648644ba3368bdba080196a8a46fd36d325102c2740b0737c024db4ab",
+    "size": 6728
+  },
+  {
+    "path": "ui/icons/key.png",
+    "sha256": "9e3d06e3355ffb9ddb7a0c6b7db845e9959c209ec2238a6a1831e0c974cbc388",
+    "size": 5637
+  },
+  {
+    "path": "ui/icons/language.png",
+    "sha256": "e4becf7f9b916f542d2cedd513a647be3f78012e9aeec9e67926262dfa260364",
+    "size": 8054
+  },
+  {
+    "path": "ui/icons/leaf.png",
+    "sha256": "7aa71fb8a75c65ac282867e77eaa55185941bdf2cc1f065abdf8c6d733579632",
+    "size": 5962
+  },
+  {
+    "path": "ui/icons/locked.png",
+    "sha256": "24c4d87a5c74a81c8aaa681f588a093c95c28860616a00868243aabe850b05db",
+    "size": 6311
+  },
+  {
+    "path": "ui/icons/logout.png",
+    "sha256": "47c7d56a93a76d6ed4791a2808d328ebc0398b39191826922bfab052be932168",
+    "size": 6595
+  },
+  {
+    "path": "ui/icons/mail.png",
+    "sha256": "96741a59b81f77b177030121ec34c5f6e08f5884b095ef23ddc4b691184fedf3",
+    "size": 5657
+  },
+  {
+    "path": "ui/icons/map.png",
+    "sha256": "2b4c3f554717c12d0e149666e44a3bab21974310d63320fdb16fea039365f0ce",
+    "size": 7069
+  },
+  {
+    "path": "ui/icons/music.png",
+    "sha256": "1d29339f34edebbc254dec52e5d2e73bae07a20b9be67b7e788b6886368929b2",
+    "size": 6060
+  },
+  {
+    "path": "ui/icons/play.png",
+    "sha256": "bb5ff7324899d498767631c8241152037cfef2de54843bd3f13b89dc62506026",
+    "size": 6292
+  },
+  {
+    "path": "ui/icons/settings.png",
+    "sha256": "e00e4bc584f3795a753ac5e9c2e6f6b29859b6d151b45380f9be1d55eaa2dcaa",
+    "size": 8176
+  },
+  {
+    "path": "ui/icons/shield.png",
+    "sha256": "03079ca5bfe236562d00fdb11f890c8f4ece2e2a5f67e9e0c27a8a70e2872df0",
+    "size": 6898
+  },
+  {
+    "path": "ui/icons/skills.png",
+    "sha256": "17bf3ecd55cb0bf78d086ebad2eed3707c8f2d8b80f7b0ef95f7877bbc6441e5",
+    "size": 7610
+  },
+  {
+    "path": "ui/icons/slot_boots.png",
+    "sha256": "dbc613cefad54855532f2f36f71a908ef40a01768fb2db62142ab5f598cc6768",
+    "size": 6683
+  },
+  {
+    "path": "ui/icons/slot_hair.png",
+    "sha256": "457d35f28b2bf1685c11042026838550e6fb99f873454dcceb161ac4ef6f1382",
+    "size": 6873
+  },
+  {
+    "path": "ui/icons/slot_helmet.png",
+    "sha256": "1cf0ede73fdcc891d94bdae9e28a0d5d484f4f74a6cb305dc57ba54de060837a",
+    "size": 7083
+  },
+  {
+    "path": "ui/icons/slot_outfit.png",
+    "sha256": "81b099ea9c9bc1e8daa5c282d3eb1cfe266497b5e395647f28a3fbfe6c12e458",
+    "size": 6074
+  },
+  {
+    "path": "ui/icons/slot_ring.png",
+    "sha256": "e5803ca3f57a118bdeddfa076cbd7b749081f2726ac2dcea136e3eff8b17e2fd",
+    "size": 6527
+  },
+  {
+    "path": "ui/icons/slot_weapon.png",
+    "sha256": "e165d46f6eb53a2eff3d7c6cbe38daa37ae695b357c03bd34f014c87d62699a5",
+    "size": 5398
+  },
+  {
+    "path": "ui/icons/sound_on.png",
+    "sha256": "5b7dc437415404348a63966aa5a5e5cc81c00f5b3a1756e3517be40bc85cf8f4",
+    "size": 6488
+  },
+  {
+    "path": "ui/icons/stop.png",
+    "sha256": "6d344dbca6b3ca60611d2091d03766f2818a99a2a5e03b0ab604854e14fa0bad",
+    "size": 5904
+  },
+  {
+    "path": "ui/icons/swim_down.png",
+    "sha256": "ab7b88d25069da2e238e6636c33c0ef7c03725043d858abd76e95b05d58130eb",
+    "size": 5786
+  },
+  {
+    "path": "ui/icons/swim_up.png",
+    "sha256": "8de3ab9b08b8806cca0e4776635b663cfd19334103db5add69e8b625005f15be",
+    "size": 6105
+  },
+  {
+    "path": "ui/icons/view_fps.png",
+    "sha256": "808ff745acd6ac9af9dfc7d82b75fcb1e22d12dc2b5bd637c2dd01edb13f1077",
+    "size": 8695
+  },
+  {
+    "path": "ui/icons/view_mmo.png",
+    "sha256": "ce93a5f778e99562a0f1c2c91ae7afe7fa3b3380e32067b2e4e73e7aa6368dc2",
+    "size": 6727
+  },
+  {
+    "path": "ui/icons/view_tps.png",
+    "sha256": "04e03b35fc3d045f2d406da6fc84a5005e663c5c4f5956b6b56302f758749f57",
+    "size": 5917
   }
 ]
